@@ -1,0 +1,192 @@
+{
+  "profile": {
+    "title": "Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS",
+    "subtitle": "Mid Remote GIS Analyst (ArcPy + GEE) | Mangrove & Conservation | Indonesia-based | Worldwide remote",
+    "emoji": "🌿"
+  },
+
+  "keywords": {
+    "_comment": "Substring match on JOB TITLE (case-insensitive). Include = keep, exclude = drop.",
+    "include": [
+      "gis analyst", "gis special", "gis develop", "gis techni", "gis consul", "gis exper",
+      "geospatial", "geomatic", "geograph", "spatial analy", "spatial data", "spatial scien",
+      "remote sensing", "earth observation", "geoinformatic", "geo data",
+      "arcgis", "qgis", "arcpy", "google earth engine", "gee", "earth engine",
+      "drone", "uav", "sUAS", "photogrammetr", "lidar", "point cloud", "orthophoto",
+      "web-gis", "web gis", "web mapping", "mapbox", "leaflet", "openlayers", "maplibre",
+      "cartograph", "gis mapping", "raster", "vector", "data process",
+      "environmental", "conservation", "ecology", "ecological", "biodiversity",
+      "mangrove", "wetland", "peatland", "restoration", "rehabilitation",
+      "blue carbon", "carbon stock", "biomass", "land cover", "land use", "change detection",
+      "gis coordinat", "data coordinat", "gis officer", "gis manager",
+      "natural resourc", "natural capital", "ecosystem servic", "watershed"
+    ],
+    "_exclude_comment": "Drop junior/off-field roles. Galih TIDAK punya GISP, Civil 3D, FAA Part 107, ML-from-scratch.",
+    "exclude": [
+      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice",
+      "research assistant", "lab assistant", "teaching assistant", "undergraduate", "postdoc",
+      "postdoctoral", "work-study", "volunteer", "fellowship",
+      "GISP", "gisp required", "gis professional certification",
+      "civil 3d", "autocad civil", "autocad required",
+      "faa part 107", "faa licensed", "faa certified", "us flight",
+      "machine learning engineer", "ml engineer", "deep learning", "tensorflow", "pytorch engineer",
+      "full stack", "full-stack", "frontend developer", "backend developer",
+      "salesforce", "sap ", "workday analyst",
+      "construction", "civil engineering", "structural engineer",
+      "pharmaceutical", "pharma", "biotech", "oncology", "genomics",
+      "only us citizen", "us citizenship required", "permanent resident", "ts/sci", "security clearance"
+    ]
+  },
+
+  "search_terms": {
+    "_comment": "Queries to the job board search boxes. Broader than keywords (titles then re-filtered).",
+    "linkedin": [
+      "GIS Analyst", "GIS Specialist", "GIS Developer", "GIS Consultant",
+      "Geospatial Analyst", "Geospatial Specialist", "Geomatics Technologist",
+      "Remote Sensing Analyst", "Earth Observation Specialist",
+      "Google Earth Engine Developer", "ArcGIS Developer",
+      "Drone Mapping Specialist", "UAV Pilot", "Photogrammetry Specialist",
+      "LiDAR Data Processor", "Remote Sensing Scientist",
+      "Web-GIS Developer", "Cartographer",
+      "Conservation GIS", "Environmental GIS", "Mangrove Restoration",
+      "Blue Carbon", "Land Use Land Cover", "GIS Officer", "GIS Coordinator"
+    ],
+    "indeed": [
+      "GIS analyst", "GIS specialist", "geospatial analyst",
+      "remote sensing", "earth engine", "google earth engine",
+      "arcgis", "qgis", "drone mapping", "uav", "photogrammetry",
+      "conservation GIS", "environmental GIS", "web GIS",
+      "cartographer"
+    ],
+    "glassdoor": [
+      "GIS analyst", "geospatial analyst", "remote sensing",
+      "google earth engine", "arcgis", "qgis",
+      "drone mapping", "uav", "photogrammetry"
+    ],
+    "ziprecruiter": [
+      "GIS analyst", "geospatial analyst", "remote sensing",
+      "google earth engine", "arcgis", "qgis",
+      "drone mapping", "photogrammetry", "conservation GIS"
+    ],
+    "google_jobs": [
+      "GIS analyst", "geospatial", "remote sensing", "google earth engine",
+      "drone mapping", "photogrammetry", "conservation GIS", "web GIS"
+    ],
+    "hiring_cafe": [
+      "GIS analyst", "geospatial", "remote sensing", "google earth engine"
+    ],
+    "usajobs": [
+      "GIS specialist", "geospatial", "remote sensing", "cartographer"
+    ]
+  },
+
+  "locations": {
+    "_comment": "Remote-friendly focus. Indonesia-based so WIB timezone; worldwide remote OK.",
+    "linkedin": [
+      { "name": "Remote Worldwide", "location": "Remote", "geoId": "" },
+      { "name": "United States (Remote)", "location": "United States", "geoId": "103644278" },
+      { "name": "Europe (Remote)", "location": "Europe", "geoId": "100506914" },
+      { "name": "Asia (Remote)", "location": "Asia", "geoId": "102393603" },
+      { "name": "Indonesia", "location": "Indonesia", "geoId": "102478259" }
+    ],
+    "indeed": [
+      { "location": "Remote", "country": "USA" }
+    ],
+    "glassdoor": [
+      { "location": "Remote", "country": "USA" }
+    ],
+    "ziprecruiter": [
+      { "location": "Remote", "country": "USA" }
+    ],
+    "google_jobs": [
+      { "location": "Remote" }
+    ],
+    "hiring_cafe": [
+      { "location": "United States" }
+    ]
+  },
+
+  "location_filter": {
+    "_comment": "Post-filter terms. Keep broad: remote + key timezones Galih can work.",
+    "terms": [
+      "remote", "anywhere", "worldwide", "work from home", "wfh",
+      "united states", "usa", "us",
+      "europe", "eu ", "uk", "united kingdom", "germany", "france", "netherlands", "spain", "italy",
+      "australia", "new zealand", "sydney", "melbourne",
+      "canada", "toronto", "vancouver", "montreal",
+      "asia", "japan", "singapore", "indonesia", "jakarta", "bali", "manila",
+      "africa", "kenya", "south africa"
+    ]
+  },
+
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+
+  "jobspy": {
+    "proxies": [],
+    "user_agent": ""
+  },
+
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+
+  "employers": {
+    "_priority_comment": "Companies that match Galih's profile (priority digest even on quiet day).",
+    "priority": [
+      "World Resources Institute", "WRI", "Conservation International", "CI",
+      "The Nature Conservancy", "TNC", "Wildlife Conservation Society", "WCS",
+      "World Wildlife Fund", "WWF", "Wetlands International", "WCMC",
+      "UNEP", "UNDP", "FAO", "World Bank", "Asian Development Bank", "ADB",
+      "Global Forest Watch", "GFW", "Planet", "Maxar", "Esri", "Google", "Microsoft",
+      "Maavee", "Axyde", "Handshake", "AuraOne", "MAVRX",
+      "USAID", "DFAT", "GIZ", "SIDA", "JICA",
+      "Akvo", "Tetra Tech", "Stantec", "ICF", "Abt Associates", "Cardno",
+      "DAI", "Chemonics", "RTI International", "Pact", "AECOM", "Arcadis",
+      "Mott MacDonald", "WSP", "SLR Consulting", "ERM",
+      "Devex", "ReliefWeb", "ConservationJobBoard"
+    ],
+    "exclude": [
+      "defense contractor", "defense department", "weapons", "military contractor",
+      "pharmaceutical", "pharma", "biotech", "biopharma",
+      "gambling", "casino", "crypto exchange"
+    ]
+  },
+
+  "priority_topics": {
+    "terms": [
+      ["GEE / Google Earth Engine", "\\bgee\\b|google\\s*earth\\s*engine|earth\\s*engine\\s*(developer|dev|app)"],
+      ["ArcPy / Python automation", "arcpy|python\\s*automation|geoprocessing\\s*script"],
+      ["Mangrove / Coastal", "mangrove|coastal\\s*restoration|blue\\s*carbon|seagrass"],
+      ["Remote Sensing (general)", "remote\\s*sensing|earth\\s*observation|sentinel|landsat"],
+      ["Web-GIS / interactive map", "web[- ]?gis|interactive\\s*map|leaflet|mapbox|maplibre|openlayers"]
+    ]
+  },
+
+  "role_categories": {
+    "terms": [
+      ["GIS Analyst", "gis\\s*analyst"],
+      ["GIS Specialist/Developer", "gis\\s*(specialist|develop|consul|techni)"],
+      ["Geospatial", "geospatial|geomatic|geoinformatic"],
+      ["Remote Sensing / EO", "remote\\s*sensing|earth\\s*observation|satellite"],
+      ["GEE / Cloud GIS", "earth\\s*engine|\\bgee\\b|cloud\\s*gis"],
+      ["Drone / UAV / Photogrammetry", "drone|uav|sUAS|photogrammetr|orthophoto"],
+      ["Web-GIS / Cartography", "web[- ]?gis|leaflet|mapbox|maplibre|cartograph"],
+      ["Conservation / Environmental", "conservation|environmental|ecology|restoration|rehabilitation"],
+      ["Blue Carbon / Carbon stock", "blue\\s*carbon|carbon\\s*stock|biomass|peatland|wetland|mangrove"],
+      ["Spatial Data Coordinator", "data\\s*coordinat|gis\\s*coordinat|gis\\s*officer"]
+    ]
+  },
+
+  "notify": {
+    "min_fit": 70,
+    "weekly_digest": {
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
