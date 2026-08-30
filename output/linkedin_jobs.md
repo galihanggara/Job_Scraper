@@ -1,31 +1,37 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-08-30 18:57 UTC*
+*Last updated: 2026-08-30 22:11 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Master Thesis in Geospatial AI](https://www.linkedin.com/jobs/view/4414671887/) — Vantor
-- 📍 **Location:** Linköping, Östergötland County, Sweden
+### [Ranger Biodiversity](https://www.linkedin.com/jobs/view/4459753601/) — Department of Conservation (DOC)
+- 📍 **Location:** Warkworth, Auckland, New Zealand
+- 💰 **Salary:** $65,590 to $76,589
 - 🕒 **Posted:** 2026-08-30
 
-### [Environmental Geochemist](https://www.linkedin.com/jobs/view/4294956279/) — BBA Consultants
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Environmental Test Technician (2nd Shift)](https://www.linkedin.com/jobs/view/4461034317/) — Anduril Industries
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $37—$49 USD
 - 🕒 **Posted:** 2026-08-30
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4433445176/) — WSP in the U.S.
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $95,000 - $125,000
+### [Environmental Service Attendant](https://www.linkedin.com/jobs/view/4459742748/) — Partners In Health
+- 📍 **Location:** Sierra Leone
 - 🕒 **Posted:** 2026-08-30
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4382464420/) — WSP in Canada
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $80,800 – $107,000
+### [Sr. Project Manager - Environmental Remediation](https://www.linkedin.com/jobs/view/4459736837/) — Cape Environmental Management Inc
+- 📍 **Location:** Byram, NJ
 - 🕒 **Posted:** 2026-08-30
 
-### [Conservation Programs - Special Projects Lead](https://www.linkedin.com/jobs/view/4458972739/) — Jobgether
-- 📍 **Location:** United States
-- 💰 **Salary:** $90,000–$101,250,
+### [Senior Underwriter, Environmental](https://www.linkedin.com/jobs/view/4458853436/) — Ascot Group
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $120,000 - $140,000
 - 🕒 **Posted:** 2026-08-30
 
-### [Principal Environmental (EIA) Consultant - UK wide](https://www.linkedin.com/jobs/view/4383783189/) — WSP in the UK & Ireland
-- 📍 **Location:** Basingstoke, England, United Kingdom
+### [Senior Underwriter, Environmental](https://www.linkedin.com/jobs/view/4458870261/) — Ascot Group
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $120,000 - $140,000
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior Underwriter, Environmental](https://www.linkedin.com/jobs/view/4458855385/) — Ascot Group
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $120,000 - $140,000
 - 🕒 **Posted:** 2026-08-30
