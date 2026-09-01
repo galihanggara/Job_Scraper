@@ -1,166 +1,129 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-01 19:01 UTC*
+*Last updated: 2026-09-01 22:11 UTC*
 
-**37 new role(s)** since last run · 37 total in last 1h
+**28 new role(s)** since last run · 28 total in last 1h
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4461791746/) — Tillman Fiber
-- 📍 **Location:** Florida, United States
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4462067584/) — McMillen
+- 📍 **Location:** Boise, ID
+- 💰 **Salary:** $50,000.00/yr - $95,800.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Senior Geospatial Research Analyst](https://www.linkedin.com/jobs/view/4460637327/) — Bart & Associates, Inc.
-- 📍 **Location:** Florida, United States
-- 🕒 **Posted:** 2026-09-01
-
-### [Civil CAD/GIS Technician](https://www.linkedin.com/jobs/view/4460613974/) — Apex Companies
-- 📍 **Location:** Greensburg, PA
-- 🕒 **Posted:** 2026-09-01
-
-### [Marine Monitoring Technician (Natural Resource Scientist 1)](https://www.linkedin.com/jobs/view/4459069533/) — Washington State Department of Ecology
-- 📍 **Location:** Lacey, WA
-- 🕒 **Posted:** 2026-09-01
-
-### [Environmental Professional Phase I/II ESA's)](https://www.linkedin.com/jobs/view/4455764634/) — NOVA Engineering and Environmental, LLC
-- 📍 **Location:** Tallahassee, FL
-- 🕒 **Posted:** 2026-09-01
-
-### [Graduate Geo-Environmental Consultant (Dublin)](https://www.linkedin.com/jobs/view/4460625671/) — RSK Ireland Ltd.
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 🕒 **Posted:** 2026-09-01
-
-### [Analyst-Environmental](https://www.linkedin.com/jobs/view/4449697065/) — Entergy
-- 📍 **Location:** Port Arthur, TX
-- 🕒 **Posted:** 2026-09-01
-
-### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4461786832/) — Parsons Corporation
-- 📍 **Location:** Troy, MI
-- 💰 **Salary:** $74,800.00 - $130,900.00
-- 🕒 **Posted:** 2026-09-01
-
-### [Senior Remote Sensing R&D](https://www.linkedin.com/jobs/view/4457354993/) — Riverside Research
-- 📍 **Location:** Dayton, OH
-- 💰 **Salary:** $155,000- $175,000
-- 🕒 **Posted:** 2026-09-01
-
-### [Environmental Sustainability Advisor](https://www.linkedin.com/jobs/view/4446200644/) — Balfour Beatty plc
-- 📍 **Location:** Winchester, England, United Kingdom
-- 🕒 **Posted:** 2026-09-01
-
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4460615562/) — Tract
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $150K-$165K
-- 🕒 **Posted:** 2026-09-01
-
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4460617580/) — Tract
+### [Environmental Data Analyst - EOH Group](https://www.linkedin.com/jobs/view/4460656508/) — ERG
 - 📍 **Location:** Alexandria, VA
-- 💰 **Salary:** $150K-$165K
+- 💰 **Salary:** $55,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Environmental Lab Analyst](https://www.linkedin.com/jobs/view/4461790911/) — Celnor Group
-- 📍 **Location:** Carlow, County Carlow, Ireland
+### [Senior Environmental Scientist/Ecologist](https://www.linkedin.com/jobs/view/4462055890/) — Kleinfelder
+- 📍 **Location:** Bridgeport, WV
 - 🕒 **Posted:** 2026-09-01
 
-### [Developer Relations Manager – Data Processing and Databases](https://www.linkedin.com/jobs/view/4451474912/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Senior Environmental Scientist/Ecologist](https://www.linkedin.com/jobs/view/4462068509/) — Kleinfelder
+- 📍 **Location:** Sewickley, PA
 - 🕒 **Posted:** 2026-09-01
 
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4460615563/) — Tract
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $150K-$165K
+### [Environmental Advisor](https://www.linkedin.com/jobs/view/4460642672/) — Equans UK & Ireland
+- 📍 **Location:** Motherwell, Scotland, United Kingdom
 - 🕒 **Posted:** 2026-09-01
 
-### [Senior Environmental Associate](https://www.linkedin.com/jobs/view/4451600242/) — Sargent & Lundy
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $100,019 - $152,807
+### [Graduate Environmental Scientist](https://www.linkedin.com/jobs/view/4460642644/) — GHD
+- 📍 **Location:** Buford, GA
 - 🕒 **Posted:** 2026-09-01
 
-### [Fish and Wildlife Technician 5](https://www.linkedin.com/jobs/view/4460637321/) — Austin Cary Forest Campus
-- 📍 **Location:** Anchorage Borough County, AK
+### [Geospatial Business Development Specialist - Southern California](https://www.linkedin.com/jobs/view/4460663219/) — AeroTech Mapping, Inc.
+- 📍 **Location:** Las Vegas, NV
 - 🕒 **Posted:** 2026-09-01
 
-### [Geospatial & Reality Capture Manager](https://www.linkedin.com/jobs/view/4462009926/) — Ulteig
-- 📍 **Location:** Des Moines, IA
-- 💰 **Salary:** $119,000 - $163,500
+### [Graduate Environmental Scientist](https://www.linkedin.com/jobs/view/4460661160/) — GHD
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-09-01
 
-### [Environmental Specialist II/III/IV (Air Compliance)](https://www.linkedin.com/jobs/view/4412031626/) — Williams
-- 📍 **Location:** Moundsville, WV
+### [Environmental Data Analyst - EOH Group](https://www.linkedin.com/jobs/view/4460645716/) — ERG
+- 📍 **Location:** Concord, MA
+- 💰 **Salary:** $55,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4462011496/) — Kinross Gold Corporation
-- 📍 **Location:** Round Mountain, TX
+### [Environmental Data Analyst - EOH Group](https://www.linkedin.com/jobs/view/4460662169/) — ERG
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $55,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Natural Resources Project Manager](https://www.linkedin.com/jobs/view/4460637116/) — Dewberry
-- 📍 **Location:** Parsippany, NJ
-- 💰 **Salary:** $103,600 to $120,000 annually
+### [Environmental & Safety Professional](https://www.linkedin.com/jobs/view/4459575056/) — Leidos
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $59,150.00 - $106,925.00
 - 🕒 **Posted:** 2026-09-01
 
-### [Restoration Technician](https://www.linkedin.com/jobs/view/4454662264/) — BluSky Restoration Contractors
-- 📍 **Location:** North Las Vegas, NV
-- 💰 **Salary:** $15 - $25 per hour
+### [Environmental Health and Safety Professional](https://www.linkedin.com/jobs/view/4459566653/) — Leidos
+- 📍 **Location:** United States
+- 💰 **Salary:** $73,450.00 - $132,775.00
 - 🕒 **Posted:** 2026-09-01
 
-### [Restoration Technician](https://www.linkedin.com/jobs/view/4456513441/) — BluSky Restoration Contractors
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $15 - $25 per hour
+### [Environmental Scientist/Compliance Specialist (Remote)](https://www.linkedin.com/jobs/view/4462053605/) — Tetra Tech
+- 📍 **Location:** Diamond Bar, CA
+- 💰 **Salary:** $55K-$75K annually
 - 🕒 **Posted:** 2026-09-01
 
-### [Senior Environmental Sustainability Advisor](https://www.linkedin.com/jobs/view/4445895686/) — Balfour Beatty plc
-- 📍 **Location:** Elgin, Scotland, United Kingdom
+### [Environmental Data Analyst - EOH Group](https://www.linkedin.com/jobs/view/4460644661/) — ERG
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $55,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Environmental Sustainability Officer [Regional Civils/London & Southeast]](https://www.linkedin.com/jobs/view/4451235092/) — Balfour Beatty plc
-- 📍 **Location:** London, England, United Kingdom
+### [Graduate Environmental Scientist](https://www.linkedin.com/jobs/view/4460653446/) — GHD
+- 📍 **Location:** Decatur, AL
 - 🕒 **Posted:** 2026-09-01
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4459249934/) — Waste Connections
-- 📍 **Location:** The Woodlands, TX
-- 🕒 **Posted:** 2026-09-01
-
-### [Sr Health, Safety and Environmental Analyst](https://www.linkedin.com/jobs/view/4451827282/) — Ace Hardware Corporation
-- 📍 **Location:** Oak Brook, IL
-- 💰 **Salary:** $88400 - $110700 per year
-- 🕒 **Posted:** 2026-09-01
-
-### [Analyst-Environmental III-Sr. Lead (Water SME)](https://www.linkedin.com/jobs/view/4452404360/) — Entergy
-- 📍 **Location:** The Woodlands, TX
-- 🕒 **Posted:** 2026-09-01
-
-### [Senior Environmental Consultant Manager](https://www.linkedin.com/jobs/view/4451493280/) — Sargent & Lundy
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $165,610 - $253,015
-- 🕒 **Posted:** 2026-09-01
-
-### [Resource Conservation and Recovery Act Closure Specialist (Environmental Specialist 3)](https://www.linkedin.com/jobs/view/4461786846/) — Washington State Department of Ecology
-- 📍 **Location:** Richland, WA
-- 🕒 **Posted:** 2026-09-01
-
-### [Environmental Field Chemist](https://www.linkedin.com/jobs/view/4462030102/) — Clean Harbors
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $14.00/hr - $39.00/hr
-- 🕒 **Posted:** 2026-09-01
-
-### [Intermediate Restoration Technician](https://www.linkedin.com/jobs/view/4459248071/) — BELFOR Property Restoration
+### [Specialist, Environmental Health & Safety (EHS)](https://www.linkedin.com/jobs/view/4462064662/) — Valmont Industries, Inc.
 - 📍 **Location:** Omaha, NE
 - 🕒 **Posted:** 2026-09-01
 
-### [Senior Environmental Consultant Manager](https://www.linkedin.com/jobs/view/4451488300/) — Sargent & Lundy
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $165,610 - $253,015
+### [Specialist, Environmental Health & Safety (EHS)](https://www.linkedin.com/jobs/view/4462056857/) — Valmont Industries, Inc.
+- 📍 **Location:** Valley, NE
 - 🕒 **Posted:** 2026-09-01
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4462020803/) — Apex Companies
-- 📍 **Location:** Manassas, VA
+### [Environmental Technician](https://www.linkedin.com/jobs/view/4461284374/) — Wieland Group
+- 📍 **Location:** East Alton, IL
+- 💰 **Salary:** $62,000-$75,000
 - 🕒 **Posted:** 2026-09-01
 
-### [Software Engineer Python - Geospatial Technology](https://www.linkedin.com/jobs/view/4462012777/) — Women in Tech
-- 📍 **Location:** Cirencester, England, United Kingdom
+### [Sr. Project Manager - Environmental Remediation](https://www.linkedin.com/jobs/view/4460652593/) — Cape Environmental Management Inc
+- 📍 **Location:** Byram, NJ
 - 🕒 **Posted:** 2026-09-01
 
-### [Principal Environmental Consultant](https://www.linkedin.com/jobs/view/4459558260/) — Global Professional Consultants
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Conservation Director](https://www.linkedin.com/jobs/view/4462076083/) — WWF Cities
+- 📍 **Location:** Tbilisi, Georgia
 - 🕒 **Posted:** 2026-09-01
 
-### [Environmental Sustainability Manager](https://www.linkedin.com/jobs/view/4459551294/) — Balfour Beatty plc
-- 📍 **Location:** Reading, England, United Kingdom
+### [Restoration Technician](https://www.linkedin.com/jobs/view/4460652590/) — United Water Restoration Group, Inc.
+- 📍 **Location:** Jacksonville, FL
+- 💰 **Salary:** $20 - $22 per hour
+- 🕒 **Posted:** 2026-09-01
+
+### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4462071262/) — Jacobs
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $92,100.00/yr - $126,700.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Senior Environmental Program Manager](https://www.linkedin.com/jobs/view/4462049648/) — Tetra Tech
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-09-01
+
+### [Senior Environmental Professional](https://www.linkedin.com/jobs/view/4460649661/) — Onterris
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $120,000 to $130,000
+- 🕒 **Posted:** 2026-09-01
+
+### [2027 Environmental Health & Safety Specialist](https://www.linkedin.com/jobs/view/4462051861/) — Textron Specialized Vehicles
+- 📍 **Location:** Augusta, GA
+- 🕒 **Posted:** 2026-09-01
+
+### [2027 Environmental Health & Safety Specialist](https://www.linkedin.com/jobs/view/4462063655/) — Textron
+- 📍 **Location:** Augusta, GA
+- 🕒 **Posted:** 2026-09-01
+
+### [Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4460644729/) — Infotree Global Solutions
+- 📍 **Location:** Radford, VA
+- 🕒 **Posted:** 2026-09-01
+
+### [Graduate Environmental Engineer](https://www.linkedin.com/jobs/view/4460642643/) — GHD
+- 📍 **Location:** Buffalo, NY
+- 💰 **Salary:** $72,000 - $74,000
 - 🕒 **Posted:** 2026-09-01
