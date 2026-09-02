@@ -1,144 +1,92 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-02 19:09 UTC*
+*Last updated: 2026-09-02 22:13 UTC*
 
-**32 new role(s)** since last run · 32 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Geospatial Analyst](https://www.linkedin.com/jobs/view/4461316626/) — Public Health Ontario
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $82,078.00 - $115,553.00
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4459998562/) — IntePros Federal
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $120,000.00/yr - $145,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Mid-Level GEOINT Geospatial Analyst](https://www.linkedin.com/jobs/view/4462450375/) — Nightwing
-- 📍 **Location:** Lumber Bridge, NC
+### [GIS Specialist (Hybrid Eligible)](https://www.linkedin.com/jobs/view/4462464978/) — Oak Ridge National Laboratory
+- 📍 **Location:** Oak Ridge, TN
 - 🕒 **Posted:** 2026-09-02
 
-### [Geo-Environmental Consultant / Assistant Geo-Environmental Consultant](https://www.linkedin.com/jobs/view/4434788494/) — WSP in the UK & Ireland
-- 📍 **Location:** Glasgow, Scotland, United Kingdom
+### [Environmental Regulatory Compliance Professional](https://www.linkedin.com/jobs/view/4454598938/) — GZA GeoEnvironmental, Inc.
+- 📍 **Location:** Livonia, MI
 - 🕒 **Posted:** 2026-09-02
 
-### [Staff Natural Resources Biologist](https://www.linkedin.com/jobs/view/4424144150/) — Black & Veatch
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $108,944.00 - $193,154.00
+### [Entry-Level Environmental Scientist - Hiring Event with AECOM - Philadelphia](https://www.linkedin.com/jobs/view/4460412020/) — AECOM
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $55,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Environmental Operations Advisor](https://www.linkedin.com/jobs/view/4461302852/) — Adecco
-- 📍 **Location:** Lloydminster, Alberta, Canada
-- 💰 **Salary:** $45.00/hr - CA$75.00/hr
+### [Entry-Level Environmental Scientist - Hiring Event with AECOM - Philadelphia](https://www.linkedin.com/jobs/view/4460406135/) — AECOM
+- 📍 **Location:** Conshohocken, PA
+- 💰 **Salary:** $55,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Geo-Environmental Engineer](https://www.linkedin.com/jobs/view/4353640423/) — Balfour Beatty plc
-- 📍 **Location:** Derby, England, United Kingdom
+### [26-645.B - Environmental Specialist](https://www.linkedin.com/jobs/view/4448918768/) — Hilcorp
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-09-02
 
-### [Environmental Assessor](https://www.linkedin.com/jobs/view/4462442577/) — Geographic Services Inc.
-- 📍 **Location:** Marlton, NJ
-- 💰 **Salary:** $52,000.00 - $65,000.00/Year
+### [Support & Field Services Engineer – APAC | Temperature Monitoring Systems | Environmental Monitoring (French company)](https://www.linkedin.com/jobs/view/4456302319/) — CNS Worldwide Executive Search
+- 📍 **Location:** Petaling Jaya, Selangor, Malaysia
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Advanced Drone Operator (RPAS & Reality Capture)](https://www.linkedin.com/jobs/view/4442696250/) — WSP in Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $89,800 - $118,900
+### [CSRR-2026-36 Environmental Specialist 2](https://www.linkedin.com/jobs/view/4461326875/) — NJ Department of Environmental Protection
+- 📍 **Location:** Trenton, NJ
+- 💰 **Salary:** $69,668.20 – $101,950.90
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Engineer UAV Systems & Datalink Integration (m/w/d)](https://www.linkedin.com/jobs/view/4459518539/) — Rheinmetall
-- 📍 **Location:** Bremen, Bremen, Germany
+### [Science Graduate, Environmental](https://www.linkedin.com/jobs/view/4461335699/) — GHD
+- 📍 **Location:** Waterloo, Ontario, Canada
 - 🕒 **Posted:** 2026-09-02
 
-### [Mechanical Engineer – Drone Development, Design & Test](https://www.linkedin.com/jobs/view/4462460092/) — HavocAI
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [UAV Site Operations Coordinator](https://www.linkedin.com/jobs/view/4461312809/) — Ledgent Technology
-- 📍 **Location:** Lewisville, TX
-- 💰 **Salary:** $60,000.00/yr - $70,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [NC Regional Natural Resources Team Leader](https://www.linkedin.com/jobs/view/4457655579/) — SeamonWhiteside
-- 📍 **Location:** North Carolina, United States
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4394486166/) — WSP in Canada
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 💰 **Salary:** $89,800 – $118,900
-- 🕒 **Posted:** 2026-09-02
-
-### [Integrated Watershed Management Business Class Lead for Water Resource Plan Formulation](https://www.linkedin.com/jobs/view/4461323019/) — HDR
-- 📍 **Location:** Greater Cleveland
-- 💰 **Salary:** $160,000-$250,000
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Geochemist](https://www.linkedin.com/jobs/view/4294962084/) — BBA Consultants
-- 📍 **Location:** Val-d’Or, Quebec, Canada
-- 🕒 **Posted:** 2026-09-02
-
-### [Project Manager - Environmental Consulting](https://www.linkedin.com/jobs/view/4461302891/) — True Environmental
-- 📍 **Location:** Nevada, United States
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Inspector](https://www.linkedin.com/jobs/view/4462455332/) — Ville de Westmount • City of Westmount
-- 📍 **Location:** Greater Montreal Metropolitan Area
-- 💰 **Salary:** $34.78 to $46.38
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Engineer (NWS 00927)](https://www.linkedin.com/jobs/view/4443578937/) — North Wind Group
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Service Worker I / Utilities / Water Reclamation #9442 (Everest Plant)](https://www.linkedin.com/jobs/view/4462441681/) — City of Cape Coral
-- 📍 **Location:** Cape Coral Metropolitan Area
-- 🕒 **Posted:** 2026-09-02
-
-### [Service Worker I / Utilities / Water Reclamation #9443 (SW Plant)](https://www.linkedin.com/jobs/view/4462456133/) — City of Cape Coral
-- 📍 **Location:** Cape Coral Metropolitan Area
-- 🕒 **Posted:** 2026-09-02
-
-### [Sr PGD Renewable Environmental Specialist](https://www.linkedin.com/jobs/view/4452859041/) — Florida Power & Light
-- 📍 **Location:** Arcadia, FL
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4441062469/) — EA Engineering, Science, and Technology, Inc., PBC
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $110,000—$150,000 USD
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Technician](https://www.linkedin.com/jobs/view/4462450378/) — MPS Group
-- 📍 **Location:** Ridgeville, SC
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4442903015/) — WSP in Canada
+### [Intermediate Environmental Project Manager, Contaminated Sites](https://www.linkedin.com/jobs/view/4461325789/) — GHD
 - 📍 **Location:** Edmonton, Alberta, Canada
-- 💰 **Salary:** $69,700 – $92,300
 - 🕒 **Posted:** 2026-09-02
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4449884421/) — Hexion Inc.
-- 📍 **Location:** Springfield, OR
+### [Environmental Field Coordinator (Property Coordinator) for Federal Environmental Remediation Program](https://www.linkedin.com/jobs/view/4461331872/) — Weston Solutions, Inc.
+- 📍 **Location:** Helena, MT
+- 💰 **Salary:** $68,689 - $90,645
 - 🕒 **Posted:** 2026-09-02
 
-### [Restoration Coordinator](https://www.linkedin.com/jobs/view/4462443569/) — Kent Conservation District
-- 📍 **Location:** Dover, DE
+### [Environmental Health and Safety (EHS) Manager](https://www.linkedin.com/jobs/view/4462471977/) — Orenco composites - Golf & Park Bridges
+- 📍 **Location:** Sutherlin, OR
 - 🕒 **Posted:** 2026-09-02
 
-### [Environmental Field Chemist I](https://www.linkedin.com/jobs/view/4461302402/) — Republic Services
-- 📍 **Location:** York Haven, PA
+### [RCRA Waste Compliance Specialist/Inspector - UMIAQ Environmental](https://www.linkedin.com/jobs/view/4462472739/) — UIC Commercial Services
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4459992344/) — Airswift
-- 📍 **Location:** Houston, TX
+### [Conservation Office Assistant](https://www.linkedin.com/jobs/view/4462467830/) — Town of Dartmouth
+- 📍 **Location:** Landry Office, New Brunswick, Canada
+- 💰 **Salary:** $23.86 - $31.01
 - 🕒 **Posted:** 2026-09-02
 
-### [Restoration | W-2](https://www.linkedin.com/jobs/view/4459974952/) — ServiceMaster RRH
-- 📍 **Location:** Downers Grove, IL
-- 💰 **Salary:** $20.00 - $23.00 per hour
+### [Environmental Technician](https://www.linkedin.com/jobs/view/4461334880/) — Veolia | North America
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-02
 
-### [Environmental Field Specialist I](https://www.linkedin.com/jobs/view/4443507329/) — Univar Solutions
-- 📍 **Location:** Portland, OR
+### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4461332935/) — VHB
+- 📍 **Location:** Greater Boston
+- 💰 **Salary:** $100,000 to $120,000
 - 🕒 **Posted:** 2026-09-02
 
-### [Technical Director Ecology](https://www.linkedin.com/jobs/view/4443939477/) — WSP in the UK & Ireland
-- 📍 **Location:** Naas, County Kildare, Ireland
+### [Staff Lidar Systems Engineer](https://www.linkedin.com/jobs/view/4462494055/) — Aurora
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $181,000 - $262,000 per year
 - 🕒 **Posted:** 2026-09-02
 
-### [Environmental Protection Officer](https://www.linkedin.com/jobs/view/4462444325/) — City of York Council
-- 📍 **Location:** York, England, United Kingdom
+### [Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4462477689/) — Martin Marietta
+- 📍 **Location:** Tempe, AZ
+- 🕒 **Posted:** 2026-09-02
+
+### [Billing AR Specialist - UMIAQ Environmental](https://www.linkedin.com/jobs/view/4462481430/) — UIC Commercial Services
+- 📍 **Location:** Anchorage, AK
+- 🕒 **Posted:** 2026-09-02
+
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4448894672/) — Azira
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-02

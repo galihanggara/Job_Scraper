@@ -3327,3 +3327,4 @@
 {"job_count": 12, "run_attempt": "1", "run_id": "33596406594", "timestamp": "2026-09-02T06:10:58Z", "workflow": "linkedin"}
 {"job_count": 32, "run_attempt": "1", "run_id": "33669174625", "timestamp": "2026-09-02T19:09:00Z", "workflow": "linkedin"}
 {"job_count": 1, "run_attempt": "1", "run_id": "33670350390", "timestamp": "2026-09-02T19:09:38Z", "workflow": "indeed"}
+{"job_count": 20, "run_attempt": "1", "run_id": "33687430561", "timestamp": "2026-09-02T22:13:23Z", "workflow": "linkedin"}
