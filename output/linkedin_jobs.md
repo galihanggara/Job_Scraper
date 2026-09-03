@@ -1,107 +1,61 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-03 00:40 UTC*
+*Last updated: 2026-09-03 06:13 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Senior Geospatial Analyst JSOC](https://www.linkedin.com/jobs/view/4461348517/) — Drone.vet
-- 📍 **Location:** Fort Liberty, NC
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4461603132/) — JYOTI PLACEMENTS SERVCE
+- 📍 **Location:** Ghaziabad, Uttar Pradesh, India
 - 🕒 **Posted:** 2026-09-03
 
-### [GIS Technician](https://www.linkedin.com/jobs/view/4461356405/) — Town of Hinton
-- 📍 **Location:** Hinton, Alberta, Canada
+### [Senior Remote Sensing Engineer](https://www.linkedin.com/jobs/view/4460462239/) — SPACEBEL
+- 📍 **Location:** Liège, Walloon Region, Belgium
 - 🕒 **Posted:** 2026-09-03
 
-### [AWS Geospatial Software Engineer](https://www.linkedin.com/jobs/view/4461369066/) — Drone.vet
-- 📍 **Location:** Springfield, VA
-- 💰 **Salary:** $86,800.00 to $198,000.00
+### [Senior Nature & Biodiversity Consultant](https://www.linkedin.com/jobs/view/4462771036/) — Buro Happold
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-03
 
-### [UAV Pilot](https://www.linkedin.com/jobs/view/4461362420/) — Drone.vet
-- 📍 **Location:** Fort McMurray, Alberta, Canada
-- 🕒 **Posted:** 2026-09-03
-
-### [Defensive Drone Technology Evaluator- Washington, DC](https://www.linkedin.com/jobs/view/4462717178/) — Serco
-- 📍 **Location:** Arlington, VA
-- 🕒 **Posted:** 2026-09-03
-
-### [UAV Platform Development Engineer](https://www.linkedin.com/jobs/view/4460051367/) — Kepler Aviation
-- 📍 **Location:** Duzce, Duzce, Türkiye
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Analyst](https://www.linkedin.com/jobs/view/4462723220/) — NUVIA
-- 📍 **Location:** Abingdon-On-Thames, England, United Kingdom
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Section Lead](https://www.linkedin.com/jobs/view/4461348530/) — HDR
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-09-03
-
-### [Senior Environmental Engineer - Wastewater Focused](https://www.linkedin.com/jobs/view/4435114405/) — CDM Smith
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Health & Safety Program Coordinator](https://www.linkedin.com/jobs/view/4460444112/) — NCCU Public Administration
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-09-03
-
-### [CAD-GIS Technician](https://www.linkedin.com/jobs/view/4461348394/) — ATCO Communications Services, LLC
-- 📍 **Location:** United States
-- 💰 **Salary:** $20.00 to $26.00 per hour
-- 🕒 **Posted:** 2026-09-02
-
-### [Geospatial Mapping Trainer](https://www.linkedin.com/jobs/view/4462487993/) — E&M Technologies, Inc.
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4461786832/) — Parsons Corporation
-- 📍 **Location:** Troy, MI
-- 💰 **Salary:** $74,800.00 - $130,900.00
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4460435143/) — Anchor QEA
-- 📍 **Location:** Camillus, NY
-- 💰 **Salary:** $81,464 - $91,650
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Engineer/Specialist - Environmental Affairs](https://www.linkedin.com/jobs/view/4458595689/) — Georgia Power Company
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Remote Sensing Engineer](https://www.linkedin.com/jobs/view/4458264325/) — Riverside Research
-- 📍 **Location:** Dayton, OH
-- 💰 **Salary:** $155,000- $190,000
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Technician](https://www.linkedin.com/jobs/view/4462497645/) — Dudek
-- 📍 **Location:** Bakersfield, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Field Scientist](https://www.linkedin.com/jobs/view/4462700536/) — Mott MacDonald
-- 📍 **Location:** Iselin, NJ
-- 💰 **Salary:** $73,000 - $78,000
-- 🕒 **Posted:** 2026-09-02
-
-### [Protected Species Observer, On-call](https://www.linkedin.com/jobs/view/4461346477/) — GEI Consultants, Inc.
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4460465247/) — HETI
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $25.00 – $38.00/hour
-- 🕒 **Posted:** 2026-09-02
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-09-03
 
-### [Business Analyst-Fish & Wildlife Ecological Services](https://www.linkedin.com/jobs/view/4461349451/) — Peraton
-- 📍 **Location:** United States
-- 💰 **Salary:** $86,000 - $138,000
-- 🕒 **Posted:** 2026-09-02
+### [Environmental Lead](https://www.linkedin.com/jobs/view/4462768067/) — IREN
+- 📍 **Location:** Australia
+- 🕒 **Posted:** 2026-09-03
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4460438116/) — Anchor QEA
-- 📍 **Location:** Amesbury, MA
-- 💰 **Salary:** $81,464 - $91,650
-- 🕒 **Posted:** 2026-09-02
+### [ArcGIS Utilities Industry Principal Director](https://www.linkedin.com/jobs/view/4381540962/) — Accenture
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $163,000 to $434,000
+- 🕒 **Posted:** 2026-09-03
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4460440128/) — Anchor QEA
-- 📍 **Location:** Saratoga Springs, NY
-- 💰 **Salary:** $81,464 - $91,650
-- 🕒 **Posted:** 2026-09-02
+### [Conservation Engineer](https://www.linkedin.com/jobs/view/4462763147/) — FAMU National Alumni Association
+- 📍 **Location:** Findlay, OH
+- 🕒 **Posted:** 2026-09-03
 
-### [Senior Software Engineer - Search & Vector Database Infrastructure](https://www.linkedin.com/jobs/view/4461366105/) — ByteDance
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $241680 - $456000 annually
-- 🕒 **Posted:** 2026-09-02
+### [Environmental Scientist / Staff Engineer](https://www.linkedin.com/jobs/view/4461605243/) — The LiRo Group
+- 📍 **Location:** Mineola, NY
+- 🕒 **Posted:** 2026-09-03
+
+### [Drone Pilot-Reality Capture & Digital Delivery (Data Centers)](https://www.linkedin.com/jobs/view/4460462233/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 💰 **Salary:** $75,300.00 to $103,500.00
+- 🕒 **Posted:** 2026-09-03
+
+### [REGIONAL BIODIVERSITY SPECIALIST CONSULTANT](https://www.linkedin.com/jobs/view/4461604244/) — UN Environment Programme
+- 📍 **Location:** Panama City, Panamá, Panama
+- 🕒 **Posted:** 2026-09-03
+
+### [Environmental Tech](https://www.linkedin.com/jobs/view/4462763148/) — Northern NV Jobs
+- 📍 **Location:** Valmy, NV
+- 🕒 **Posted:** 2026-09-03
+
+### [Environmental, Health and Safety (EHS) Manager – Plastics/Automotive Manufacturing](https://www.linkedin.com/jobs/view/4461391975/) — Human Capital Ventures
+- 📍 **Location:** Anderson, SC
+- 💰 **Salary:** $120,000–$140,000 per annum
+- 🕒 **Posted:** 2026-09-03
+
+### [Drone Pilot-Reality Capture & Digital Delivery (Data Centers)](https://www.linkedin.com/jobs/view/4460461296/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 💰 **Salary:** $75,300.00 to $103,500.00
+- 🕒 **Posted:** 2026-09-03
