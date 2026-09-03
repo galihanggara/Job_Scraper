@@ -1,92 +1,107 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-02 22:13 UTC*
+*Last updated: 2026-09-03 00:40 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [GIS Specialist](https://www.linkedin.com/jobs/view/4459998562/) — IntePros Federal
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $120,000.00/yr - $145,000.00/yr
-- 🕒 **Posted:** 2026-09-02
+### [Senior Geospatial Analyst JSOC](https://www.linkedin.com/jobs/view/4461348517/) — Drone.vet
+- 📍 **Location:** Fort Liberty, NC
+- 🕒 **Posted:** 2026-09-03
 
-### [GIS Specialist (Hybrid Eligible)](https://www.linkedin.com/jobs/view/4462464978/) — Oak Ridge National Laboratory
-- 📍 **Location:** Oak Ridge, TN
-- 🕒 **Posted:** 2026-09-02
+### [GIS Technician](https://www.linkedin.com/jobs/view/4461356405/) — Town of Hinton
+- 📍 **Location:** Hinton, Alberta, Canada
+- 🕒 **Posted:** 2026-09-03
 
-### [Environmental Regulatory Compliance Professional](https://www.linkedin.com/jobs/view/4454598938/) — GZA GeoEnvironmental, Inc.
-- 📍 **Location:** Livonia, MI
-- 🕒 **Posted:** 2026-09-02
+### [AWS Geospatial Software Engineer](https://www.linkedin.com/jobs/view/4461369066/) — Drone.vet
+- 📍 **Location:** Springfield, VA
+- 💰 **Salary:** $86,800.00 to $198,000.00
+- 🕒 **Posted:** 2026-09-03
 
-### [Entry-Level Environmental Scientist - Hiring Event with AECOM - Philadelphia](https://www.linkedin.com/jobs/view/4460412020/) — AECOM
+### [UAV Pilot](https://www.linkedin.com/jobs/view/4461362420/) — Drone.vet
+- 📍 **Location:** Fort McMurray, Alberta, Canada
+- 🕒 **Posted:** 2026-09-03
+
+### [Defensive Drone Technology Evaluator- Washington, DC](https://www.linkedin.com/jobs/view/4462717178/) — Serco
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-09-03
+
+### [UAV Platform Development Engineer](https://www.linkedin.com/jobs/view/4460051367/) — Kepler Aviation
+- 📍 **Location:** Duzce, Duzce, Türkiye
+- 🕒 **Posted:** 2026-09-03
+
+### [Environmental Analyst](https://www.linkedin.com/jobs/view/4462723220/) — NUVIA
+- 📍 **Location:** Abingdon-On-Thames, England, United Kingdom
+- 🕒 **Posted:** 2026-09-03
+
+### [Environmental Section Lead](https://www.linkedin.com/jobs/view/4461348530/) — HDR
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-09-03
+
+### [Senior Environmental Engineer - Wastewater Focused](https://www.linkedin.com/jobs/view/4435114405/) — CDM Smith
 - 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $55,000.00/yr - $75,000.00/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Environmental Health & Safety Program Coordinator](https://www.linkedin.com/jobs/view/4460444112/) — NCCU Public Administration
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-09-03
+
+### [CAD-GIS Technician](https://www.linkedin.com/jobs/view/4461348394/) — ATCO Communications Services, LLC
+- 📍 **Location:** United States
+- 💰 **Salary:** $20.00 to $26.00 per hour
 - 🕒 **Posted:** 2026-09-02
 
-### [Entry-Level Environmental Scientist - Hiring Event with AECOM - Philadelphia](https://www.linkedin.com/jobs/view/4460406135/) — AECOM
-- 📍 **Location:** Conshohocken, PA
-- 💰 **Salary:** $55,000.00/yr - $75,000.00/yr
+### [Geospatial Mapping Trainer](https://www.linkedin.com/jobs/view/4462487993/) — E&M Technologies, Inc.
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-09-02
 
-### [26-645.B - Environmental Specialist](https://www.linkedin.com/jobs/view/4448918768/) — Hilcorp
-- 📍 **Location:** Anchorage, AK
+### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4461786832/) — Parsons Corporation
+- 📍 **Location:** Troy, MI
+- 💰 **Salary:** $74,800.00 - $130,900.00
 - 🕒 **Posted:** 2026-09-02
 
-### [Support & Field Services Engineer – APAC | Temperature Monitoring Systems | Environmental Monitoring (French company)](https://www.linkedin.com/jobs/view/4456302319/) — CNS Worldwide Executive Search
-- 📍 **Location:** Petaling Jaya, Selangor, Malaysia
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4460435143/) — Anchor QEA
+- 📍 **Location:** Camillus, NY
+- 💰 **Salary:** $81,464 - $91,650
 - 🕒 **Posted:** 2026-09-02
 
-### [CSRR-2026-36 Environmental Specialist 2](https://www.linkedin.com/jobs/view/4461326875/) — NJ Department of Environmental Protection
-- 📍 **Location:** Trenton, NJ
-- 💰 **Salary:** $69,668.20 – $101,950.90
+### [Environmental Engineer/Specialist - Environmental Affairs](https://www.linkedin.com/jobs/view/4458595689/) — Georgia Power Company
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-09-02
 
-### [Science Graduate, Environmental](https://www.linkedin.com/jobs/view/4461335699/) — GHD
-- 📍 **Location:** Waterloo, Ontario, Canada
+### [Senior Remote Sensing Engineer](https://www.linkedin.com/jobs/view/4458264325/) — Riverside Research
+- 📍 **Location:** Dayton, OH
+- 💰 **Salary:** $155,000- $190,000
 - 🕒 **Posted:** 2026-09-02
 
-### [Intermediate Environmental Project Manager, Contaminated Sites](https://www.linkedin.com/jobs/view/4461325789/) — GHD
-- 📍 **Location:** Edmonton, Alberta, Canada
+### [Environmental Technician](https://www.linkedin.com/jobs/view/4462497645/) — Dudek
+- 📍 **Location:** Bakersfield, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Environmental Field Coordinator (Property Coordinator) for Federal Environmental Remediation Program](https://www.linkedin.com/jobs/view/4461331872/) — Weston Solutions, Inc.
-- 📍 **Location:** Helena, MT
-- 💰 **Salary:** $68,689 - $90,645
+### [Environmental Field Scientist](https://www.linkedin.com/jobs/view/4462700536/) — Mott MacDonald
+- 📍 **Location:** Iselin, NJ
+- 💰 **Salary:** $73,000 - $78,000
 - 🕒 **Posted:** 2026-09-02
 
-### [Environmental Health and Safety (EHS) Manager](https://www.linkedin.com/jobs/view/4462471977/) — Orenco composites - Golf & Park Bridges
-- 📍 **Location:** Sutherlin, OR
+### [Protected Species Observer, On-call](https://www.linkedin.com/jobs/view/4461346477/) — GEI Consultants, Inc.
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $25.00 – $38.00/hour
 - 🕒 **Posted:** 2026-09-02
 
-### [RCRA Waste Compliance Specialist/Inspector - UMIAQ Environmental](https://www.linkedin.com/jobs/view/4462472739/) — UIC Commercial Services
-- 📍 **Location:** Anchorage, AK
+### [Business Analyst-Fish & Wildlife Ecological Services](https://www.linkedin.com/jobs/view/4461349451/) — Peraton
+- 📍 **Location:** United States
+- 💰 **Salary:** $86,000 - $138,000
 - 🕒 **Posted:** 2026-09-02
 
-### [Conservation Office Assistant](https://www.linkedin.com/jobs/view/4462467830/) — Town of Dartmouth
-- 📍 **Location:** Landry Office, New Brunswick, Canada
-- 💰 **Salary:** $23.86 - $31.01
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4460438116/) — Anchor QEA
+- 📍 **Location:** Amesbury, MA
+- 💰 **Salary:** $81,464 - $91,650
 - 🕒 **Posted:** 2026-09-02
 
-### [Environmental Technician](https://www.linkedin.com/jobs/view/4461334880/) — Veolia | North America
-- 📍 **Location:** Austin, TX
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4460440128/) — Anchor QEA
+- 📍 **Location:** Saratoga Springs, NY
+- 💰 **Salary:** $81,464 - $91,650
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4461332935/) — VHB
-- 📍 **Location:** Greater Boston
-- 💰 **Salary:** $100,000 to $120,000
-- 🕒 **Posted:** 2026-09-02
-
-### [Staff Lidar Systems Engineer](https://www.linkedin.com/jobs/view/4462494055/) — Aurora
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $181,000 - $262,000 per year
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4462477689/) — Martin Marietta
-- 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-09-02
-
-### [Billing AR Specialist - UMIAQ Environmental](https://www.linkedin.com/jobs/view/4462481430/) — UIC Commercial Services
-- 📍 **Location:** Anchorage, AK
-- 🕒 **Posted:** 2026-09-02
-
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4448894672/) — Azira
-- 📍 **Location:** Bengaluru, Karnataka, India
+### [Senior Software Engineer - Search & Vector Database Infrastructure](https://www.linkedin.com/jobs/view/4461366105/) — ByteDance
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $241680 - $456000 annually
 - 🕒 **Posted:** 2026-09-02
