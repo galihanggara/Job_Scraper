@@ -1,79 +1,42 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-04 00:28 UTC*
+*Last updated: 2026-09-04 04:59 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Environmental Professional, Biologist and Wetland Specialist](https://www.linkedin.com/jobs/view/4463149557/) — Wilson & Company, Inc., Engineers and Architects
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $52,000 - $90,000
+### [GIS and Geospatial Data Specialist Consultant](https://www.linkedin.com/jobs/view/4461108461/) — Global Green Growth Institute
+- 📍 **Location:** Asuncion, Asunción, Paraguay
 - 🕒 **Posted:** 2026-09-04
 
-### [Senior Geospatial Technician](https://www.linkedin.com/jobs/view/4463155095/) — Wilson & Company, Inc., Engineers and Architects
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $35 - $55 per hour
+### [Environmental Project officer - Land Restoration](https://www.linkedin.com/jobs/view/4463195093/) — Healthy Land & Water
+- 📍 **Location:** Rochedale, Queensland, Australia
+- 💰 **Salary:** $85,000.00/yr - A$86,000.00/yr
 - 🕒 **Posted:** 2026-09-04
 
-### [Coordinador de Residuos, Environmental Assurance and Protection (EAP)](https://www.linkedin.com/jobs/view/4463151580/) — Amazon
-- 📍 **Location:** León, Guanajuato, Mexico
+### [Environmental Technician II](https://www.linkedin.com/jobs/view/4463180516/) — Cherokee Federal
+- 📍 **Location:** Fort Bliss, TX
+- 💰 **Salary:** $50,000.00/yr - $60,000.00/yr
 - 🕒 **Posted:** 2026-09-04
 
-### [Environmental Specialist I](https://www.linkedin.com/jobs/view/4463139892/) — Veolia | North America
-- 📍 **Location:** Hillsboro, OR
+### [Onsite Environmental Technician I](https://www.linkedin.com/jobs/view/4461100610/) — Republic Services
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-09-04
 
-### [Surveyor / Drone Pilot](https://www.linkedin.com/jobs/view/4461934552/) — Drone.vet
-- 📍 **Location:** Fort Lauderdale, FL
+### [Senior Drone Engineer](https://www.linkedin.com/jobs/view/4463184322/) — NeXHS Renewables Pvt Ltd
+- 📍 **Location:** Chennai, Tamil Nadu, India
 - 🕒 **Posted:** 2026-09-04
 
-### [CAD-GIS Technician](https://www.linkedin.com/jobs/view/4461943227/) — ATCO Communications Services, LLC
-- 📍 **Location:** United States
-- 💰 **Salary:** $20.00 to $26.00 per hour
-- 🕒 **Posted:** 2026-09-03
+### [Environmental Graphic & Signage Designer](https://www.linkedin.com/jobs/view/4463184387/) — Azim Premji Foundation
+- 📍 **Location:** Bangalore Urban, Karnataka, India
+- 🕒 **Posted:** 2026-09-04
 
-### [Natural Resource Specialist 2 - Monitoring Specialist](https://www.linkedin.com/jobs/view/4463140445/) — State of Oregon
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $4,738.00/mo - $7,247.00/mo
-- 🕒 **Posted:** 2026-09-03
+### [Sr. Project Manager - Environmental Remediation](https://www.linkedin.com/jobs/view/4461103427/) — Cape Environmental Management Inc
+- 📍 **Location:** Byram, NJ
+- 🕒 **Posted:** 2026-09-04
 
-### [Senior Geospatial Project Manager](https://www.linkedin.com/jobs/view/4463148593/) — Wilson & Company, Inc., Engineers and Architects
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $50 - $70 per hour
-- 🕒 **Posted:** 2026-09-03
+### [Safety Health & Environmental (SHE) Advisor](https://www.linkedin.com/jobs/view/4463196211/) — Miller Homes Ltd
+- 📍 **Location:** Edinburgh, Scotland, United Kingdom
+- 🕒 **Posted:** 2026-09-04
 
-### [Manager of Geospatial Training & Support](https://www.linkedin.com/jobs/view/4437174258/) — Duncan-Parnell Inc.
-- 📍 **Location:** Richmond, VA
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Advisor](https://www.linkedin.com/jobs/view/4463151281/) — Thiess
-- 📍 **Location:** Dysart, Queensland, Australia
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental (Abatement) Design Specialist](https://www.linkedin.com/jobs/view/4460756926/) — Bristol Alliance of Companies
-- 📍 **Location:** Norfolk, VA
-- 🕒 **Posted:** 2026-09-03
-
-### [Public Health and Environmental Studies: Assistant Professor in Environmental Public Health](https://www.linkedin.com/jobs/view/4461923497/) — University of Wisconsin-Eau Claire
-- 📍 **Location:** Eau Claire, WI
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Health & Safety Specialist II](https://www.linkedin.com/jobs/view/4463146317/) — Kindeva Drug Delivery
-- 📍 **Location:** St. Louis County, MO
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Services Worker I](https://www.linkedin.com/jobs/view/4463140454/) — Olympic Medical Center
-- 📍 **Location:** Sequim, WA
-- 💰 **Salary:** $20.79 - $30.56
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Services Worker I](https://www.linkedin.com/jobs/view/4463137527/) — Olympic Medical Center
-- 📍 **Location:** Port Angeles, WA
-- 💰 **Salary:** $20.79 - $30.56
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental/Wastewater Technician](https://www.linkedin.com/jobs/view/4461935478/) — Wieland Small Tube Products
-- 📍 **Location:** Pine Hall, NC
-- 🕒 **Posted:** 2026-09-03
-
-### [Manager (m/w/d) Environmental, Health & Safety](https://www.linkedin.com/jobs/view/4463147558/) — CSL
-- 📍 **Location:** Marburg an der Lahn, Hesse, Germany
-- 🕒 **Posted:** 2026-09-03
+### [Full Time Wildlife Rescue Officer](https://www.linkedin.com/jobs/view/4460796632/) — ACRES (Animal Concerns Research & Education Society)
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-09-04
