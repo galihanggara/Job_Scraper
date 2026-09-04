@@ -1,45 +1,7 @@
 {
-  "scraped_at": "2026-09-04 05:07 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "JNP Industries",
-      "title": "GIS Analyst",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=8a2caeaf4a64bf2f",
-      "direct_url": "http://www.indeed.com/job/gis-analyst-8a2caeaf4a64bf2f",
-      "company_url": "https://www.indeed.com/cmp/Jnp-Industries",
-      "date_posted": "2026-09-04",
-      "description": "**About the engagement**  \nA state regulatory agency needs a spatial analysis of licensed delivery operations in a regulated market: where delivery service exists, where it does not, and which populations sit outside any current service area. The agency will use the resulting map to evaluate service area expansion requests and to identify underserved geography. The product becomes a standing tool the agency maintains after the engagement ends.\n\n**What you would do**\n\n* Geocode and validate licensed operator and delivery asset location data provided by the client\n* Build service area layers using defensible assumptions, including drive\\-time isochrones rather than simple radius buffers\n* Overlay coverage against population, density, and relevant demographic geography to identify and quantify service gaps\n* Produce an interactive web map that agency staff can use without desktop GIS software or a paid license\n* Produce static, print\\-quality map exhibits suitable for a report submitted to a state legislature\n* Document data sources, projections, service area assumptions, and update procedures so agency staff can refresh the map in future cycles\n* Deliver clean project files and layers in a format the client retains\n\n**Required**\n\n* Three or more years of applied GIS work with a portfolio of finished maps\n* Proficiency with ArcGIS Pro or QGIS, and comfort producing web\\-deliverable output (ArcGIS Online, Leaflet, Mapbox, Felt, or comparable)\n* Geocoding and address validation experience with messy administrative data\n* Network or drive\\-time service area analysis experience\n* Strong cartographic judgment. Output will be read by policymakers, not analysts\n* Ability to document methods clearly enough for someone else to reproduce them\n* Availability to deliver against fixed dates in November and December\n\n**Preferred**\n\n* Bachelor's or master's in geography, GIS, urban planning, public health, or a related field\n* Experience with public sector or regulatory clients\n* Python scripting for geoprocessing automation\n* Experience with accessibility or service coverage analysis in any sector, including health care, transit, food access, or broadband\n\nPay: $65\\.00 per hour\n\nExpected hours: 35\\.0 per week\n\nWork Location: Remote",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "JNP Industries",
-      "title": "GIS Analyst",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=8a2caeaf4a64bf2f",
-      "direct_url": "http://www.indeed.com/job/gis-analyst-8a2caeaf4a64bf2f",
-      "company_url": "https://www.indeed.com/cmp/Jnp-Industries",
-      "date_posted": "2026-09-04",
-      "description": "**About the engagement**  \nA state regulatory agency needs a spatial analysis of licensed delivery operations in a regulated market: where delivery service exists, where it does not, and which populations sit outside any current service area. The agency will use the resulting map to evaluate service area expansion requests and to identify underserved geography. The product becomes a standing tool the agency maintains after the engagement ends.\n\n**What you would do**\n\n* Geocode and validate licensed operator and delivery asset location data provided by the client\n* Build service area layers using defensible assumptions, including drive\\-time isochrones rather than simple radius buffers\n* Overlay coverage against population, density, and relevant demographic geography to identify and quantify service gaps\n* Produce an interactive web map that agency staff can use without desktop GIS software or a paid license\n* Produce static, print\\-quality map exhibits suitable for a report submitted to a state legislature\n* Document data sources, projections, service area assumptions, and update procedures so agency staff can refresh the map in future cycles\n* Deliver clean project files and layers in a format the client retains\n\n**Required**\n\n* Three or more years of applied GIS work with a portfolio of finished maps\n* Proficiency with ArcGIS Pro or QGIS, and comfort producing web\\-deliverable output (ArcGIS Online, Leaflet, Mapbox, Felt, or comparable)\n* Geocoding and address validation experience with messy administrative data\n* Network or drive\\-time service area analysis experience\n* Strong cartographic judgment. Output will be read by policymakers, not analysts\n* Ability to document methods clearly enough for someone else to reproduce them\n* Availability to deliver against fixed dates in November and December\n\n**Preferred**\n\n* Bachelor's or master's in geography, GIS, urban planning, public health, or a related field\n* Experience with public sector or regulatory clients\n* Python scripting for geoprocessing automation\n* Experience with accessibility or service coverage analysis in any sector, including health care, transit, food access, or broadband\n\nPay: $65\\.00 per hour\n\nExpected hours: 35\\.0 per week\n\nWork Location: Remote",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "scraped_at": "2026-09-04 18:56 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
