@@ -1,102 +1,79 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-03 22:05 UTC*
+*Last updated: 2026-09-04 00:28 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [GIS Analyst T&D](https://www.linkedin.com/jobs/view/4463128628/) — The L.E. Myers Co.
-- 📍 **Location:** Plover, WI
-- 🕒 **Posted:** 2026-09-03
+### [Environmental Professional, Biologist and Wetland Specialist](https://www.linkedin.com/jobs/view/4463149557/) — Wilson & Company, Inc., Engineers and Architects
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $52,000 - $90,000
+- 🕒 **Posted:** 2026-09-04
 
-### [Analyst, Geospatial (GIS)](https://www.linkedin.com/jobs/view/4463110882/) — Invenergy
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $65,000.00 - 79,000.00
-- 🕒 **Posted:** 2026-09-03
+### [Senior Geospatial Technician](https://www.linkedin.com/jobs/view/4463155095/) — Wilson & Company, Inc., Engineers and Architects
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $35 - $55 per hour
+- 🕒 **Posted:** 2026-09-04
 
-### [Environmental Data Management Technician – Mid Level (Hybrid)](https://www.linkedin.com/jobs/view/4460745729/) — Barr Engineering Co.
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $28.90–$36.70 per hour
-- 🕒 **Posted:** 2026-09-03
+### [Coordinador de Residuos, Environmental Assurance and Protection (EAP)](https://www.linkedin.com/jobs/view/4463151580/) — Amazon
+- 📍 **Location:** León, Guanajuato, Mexico
+- 🕒 **Posted:** 2026-09-04
 
-### [Environmental Analyst](https://www.linkedin.com/jobs/view/4462723220/) — NUVIA
-- 📍 **Location:** Abingdon-On-Thames, England, United Kingdom
-- 🕒 **Posted:** 2026-09-03
+### [Environmental Specialist I](https://www.linkedin.com/jobs/view/4463139892/) — Veolia | North America
+- 📍 **Location:** Hillsboro, OR
+- 🕒 **Posted:** 2026-09-04
 
-### [Mid-level Environmental Planner - Transmission focus](https://www.linkedin.com/jobs/view/4450369619/) — AECOM
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $90000 to $115000
-- 🕒 **Posted:** 2026-09-03
+### [Surveyor / Drone Pilot](https://www.linkedin.com/jobs/view/4461934552/) — Drone.vet
+- 📍 **Location:** Fort Lauderdale, FL
+- 🕒 **Posted:** 2026-09-04
 
-### [Ergon Asphalt and Emulsions - Environmental Engineer](https://www.linkedin.com/jobs/view/4461907950/) — Ergon Inc.
-- 📍 **Location:** Jackson, MS
-- 🕒 **Posted:** 2026-09-03
-
-### [Entry-Level Environmental Health and Safety Digital Consultant - Hiring Event with AECOM - Philadelphia](https://www.linkedin.com/jobs/view/4461900461/) — AECOM
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $70000 to $80000
-- 🕒 **Posted:** 2026-09-03
-
-### [Conservation Officer II](https://www.linkedin.com/jobs/view/4458305310/) — Government of Nunavut
-- 📍 **Location:** Clyde River, Nunavut, Canada
-- 🕒 **Posted:** 2026-09-03
-
-### [Ranger Biodiversity | Tūtei Kanorau Koiora](https://www.linkedin.com/jobs/view/4461916473/) — Department of Conservation (DOC)
-- 📍 **Location:** Auckland, Auckland, New Zealand
-- 💰 **Salary:** $65,590 to $76,589
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4463130079/) — Zelestra
+### [CAD-GIS Technician](https://www.linkedin.com/jobs/view/4461943227/) — ATCO Communications Services, LLC
 - 📍 **Location:** United States
+- 💰 **Salary:** $20.00 to $26.00 per hour
 - 🕒 **Posted:** 2026-09-03
 
-### [Environmental and Sustainability Manager](https://www.linkedin.com/jobs/view/4463120304/) — Bechtel Corporation
-- 📍 **Location:** Phoenix, AZ
+### [Natural Resource Specialist 2 - Monitoring Specialist](https://www.linkedin.com/jobs/view/4463140445/) — State of Oregon
+- 📍 **Location:** Salem, OR
+- 💰 **Salary:** $4,738.00/mo - $7,247.00/mo
 - 🕒 **Posted:** 2026-09-03
 
-### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4461905949/) — Elucidate Staffing
-- 📍 **Location:** Warren County, NJ
+### [Senior Geospatial Project Manager](https://www.linkedin.com/jobs/view/4463148593/) — Wilson & Company, Inc., Engineers and Architects
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $50 - $70 per hour
 - 🕒 **Posted:** 2026-09-03
 
-### [Restoration Technician](https://www.linkedin.com/jobs/view/4461917675/) — Iowa Restore
-- 📍 **Location:** Waterloo-Cedar Falls Area
+### [Manager of Geospatial Training & Support](https://www.linkedin.com/jobs/view/4437174258/) — Duncan-Parnell Inc.
+- 📍 **Location:** Richmond, VA
 - 🕒 **Posted:** 2026-09-03
 
-### [Watershed Policy Specialist](https://www.linkedin.com/jobs/view/4451690834/) — Chesapeake Bay Foundation
-- 📍 **Location:** Annapolis, MD
-- 💰 **Salary:** $60,000 - $64,000 per year
+### [Environmental Advisor](https://www.linkedin.com/jobs/view/4463151281/) — Thiess
+- 📍 **Location:** Dysart, Queensland, Australia
 - 🕒 **Posted:** 2026-09-03
 
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4442861254/) — Votorantim Cimentos North America (VCNA)
-- 📍 **Location:** Bowmanville, Ontario, Canada
-- 💰 **Salary:** $101,000 - $126,000
+### [Environmental (Abatement) Design Specialist](https://www.linkedin.com/jobs/view/4460756926/) — Bristol Alliance of Companies
+- 📍 **Location:** Norfolk, VA
 - 🕒 **Posted:** 2026-09-03
 
-### [Hampton Roads Urban Restoration Assistant](https://www.linkedin.com/jobs/view/4461699729/) — Chesapeake Bay Foundation
-- 📍 **Location:** Virginia Beach, VA
+### [Public Health and Environmental Studies: Assistant Professor in Environmental Public Health](https://www.linkedin.com/jobs/view/4461923497/) — University of Wisconsin-Eau Claire
+- 📍 **Location:** Eau Claire, WI
 - 🕒 **Posted:** 2026-09-03
 
-### [Environmental Geologist - 4 years min experience](https://www.linkedin.com/jobs/view/4452777902/) — AECOM
-- 📍 **Location:** Germantown, MD
-- 💰 **Salary:** $80000 to $95000
+### [Environmental Health & Safety Specialist II](https://www.linkedin.com/jobs/view/4463146317/) — Kindeva Drug Delivery
+- 📍 **Location:** St. Louis County, MO
 - 🕒 **Posted:** 2026-09-03
 
-### [Environmental Scientist -Tucson, AZ](https://www.linkedin.com/jobs/view/4460744707/) — Certerra
-- 📍 **Location:** Tucson, AZ
-- 💰 **Salary:** $60,000.00/yr - $90,000.00/yr
+### [Environmental Services Worker I](https://www.linkedin.com/jobs/view/4463140454/) — Olympic Medical Center
+- 📍 **Location:** Sequim, WA
+- 💰 **Salary:** $20.79 - $30.56
 - 🕒 **Posted:** 2026-09-03
 
-### [Environmental Professional](https://www.linkedin.com/jobs/view/4461670565/) — TTL, Inc.
-- 📍 **Location:** Nashville, TN
+### [Environmental Services Worker I](https://www.linkedin.com/jobs/view/4463137527/) — Olympic Medical Center
+- 📍 **Location:** Port Angeles, WA
+- 💰 **Salary:** $20.79 - $30.56
 - 🕒 **Posted:** 2026-09-03
 
-### [Environmental, Safety & Health Manager](https://www.linkedin.com/jobs/view/4463127314/) — Amentum
-- 📍 **Location:** Waimea, HI
-- 💰 **Salary:** $110K - $120K
+### [Environmental/Wastewater Technician](https://www.linkedin.com/jobs/view/4461935478/) — Wieland Small Tube Products
+- 📍 **Location:** Pine Hall, NC
 - 🕒 **Posted:** 2026-09-03
 
-### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4460757596/) — AllStar Staffing Group
-- 📍 **Location:** Warminster, PA
-- 🕒 **Posted:** 2026-09-03
-
-### [Senior Environmental Program Manager](https://www.linkedin.com/jobs/view/4462049648/) — Tetra Tech
-- 📍 **Location:** Pittsburgh, PA
+### [Manager (m/w/d) Environmental, Health & Safety](https://www.linkedin.com/jobs/view/4463147558/) — CSL
+- 📍 **Location:** Marburg an der Lahn, Hesse, Germany
 - 🕒 **Posted:** 2026-09-03
