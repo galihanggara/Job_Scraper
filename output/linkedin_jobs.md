@@ -1,21 +1,29 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-05 20:43 UTC*
+*Last updated: 2026-09-05 23:12 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Manager, Climate Environmental Prediction Services](https://www.linkedin.com/jobs/view/4463787482/) — Bureau of Meteorology
-- 📍 **Location:** Canberra, Australian Capital Territory, Australia
+### [Marine Monitoring Technician (Natural Resource Scientist 1)](https://www.linkedin.com/jobs/view/4459069533/) — Washington State Department of Ecology
+- 📍 **Location:** Lacey, WA
 - 🕒 **Posted:** 2026-09-05
 
-### [Manager, Climate Environmental Prediction Services](https://www.linkedin.com/jobs/view/4463768514/) — Bureau of Meteorology
-- 📍 **Location:** Melbourne, Victoria, Australia
+### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4461786832/) — Parsons Corporation
+- 📍 **Location:** Troy, MI
+- 💰 **Salary:** $74,800.00 - $130,900.00
 - 🕒 **Posted:** 2026-09-05
 
-### [Post-Doctoral Research Associate (Molecular Approaches for Detection of Aquatic Invasive Species](https://www.linkedin.com/jobs/view/4462044357/) — Tennessee State University
-- 📍 **Location:** Nashville, TN
+### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4463786703/) — The Davey Tree Expert Company
+- 📍 **Location:** Gainesville, VA
 - 🕒 **Posted:** 2026-09-05
 
-### [Senior Environmental, Health and Safety (EHS) Specialist](https://www.linkedin.com/jobs/view/4461802460/) — Integrated DNA Technologies
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $83,000-$100,000
+### [Central Region Community Outreach and Environmental Education Specialist 3](https://www.linkedin.com/jobs/view/4452492857/) — Washington State Department of Ecology
+- 📍 **Location:** Union Gap, WA
+- 🕒 **Posted:** 2026-09-05
+
+### [Industrial Wastewater Permit Manager (Environmental Engineer 2)](https://www.linkedin.com/jobs/view/4449686080/) — Washington State Department of Ecology
+- 📍 **Location:** Shoreline, WA
+- 🕒 **Posted:** 2026-09-05
+
+### [Resource Conservation and Recovery Act Closure Specialist (Environmental Specialist 3)](https://www.linkedin.com/jobs/view/4461786846/) — Washington State Department of Ecology
+- 📍 **Location:** Richland, WA
 - 🕒 **Posted:** 2026-09-05
