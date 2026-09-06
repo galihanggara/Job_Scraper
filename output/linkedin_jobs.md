@@ -1,29 +1,46 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-05 23:12 UTC*
+*Last updated: 2026-09-06 01:19 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Marine Monitoring Technician (Natural Resource Scientist 1)](https://www.linkedin.com/jobs/view/4459069533/) — Washington State Department of Ecology
-- 📍 **Location:** Lacey, WA
-- 🕒 **Posted:** 2026-09-05
+### [Geospatial Engineer – Multiple Positions at Junior/Mid/Senior Levels](https://www.linkedin.com/jobs/view/4462669612/) — Drone.vet
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-09-06
 
-### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4461786832/) — Parsons Corporation
-- 📍 **Location:** Troy, MI
-- 💰 **Salary:** $74,800.00 - $130,900.00
-- 🕒 **Posted:** 2026-09-05
+### [Geospatial Front End Developer – Multiple Positions at Junior/Mid/Senior Levels](https://www.linkedin.com/jobs/view/4462650645/) — Drone.vet
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-09-06
 
-### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4463786703/) — The Davey Tree Expert Company
-- 📍 **Location:** Gainesville, VA
-- 🕒 **Posted:** 2026-09-05
+### [Geospatial Cyber Security Engineer – Multiple Positions at Junior/Mid/Senior Levels](https://www.linkedin.com/jobs/view/4462657651/) — Drone.vet
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-09-06
 
-### [Central Region Community Outreach and Environmental Education Specialist 3](https://www.linkedin.com/jobs/view/4452492857/) — Washington State Department of Ecology
-- 📍 **Location:** Union Gap, WA
-- 🕒 **Posted:** 2026-09-05
+### [Geospatial Intelligence Departmental Requirements Officer](https://www.linkedin.com/jobs/view/4462667577/) — Drone.vet
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $80,000 - $115,000
+- 🕒 **Posted:** 2026-09-06
 
-### [Industrial Wastewater Permit Manager (Environmental Engineer 2)](https://www.linkedin.com/jobs/view/4449686080/) — Washington State Department of Ecology
-- 📍 **Location:** Shoreline, WA
-- 🕒 **Posted:** 2026-09-05
+### [Sr PGD Environmental Specialist - West County](https://www.linkedin.com/jobs/view/4452854048/) — Florida Power & Light
+- 📍 **Location:** Loxahatchee, FL
+- 🕒 **Posted:** 2026-09-06
 
-### [Resource Conservation and Recovery Act Closure Specialist (Environmental Specialist 3)](https://www.linkedin.com/jobs/view/4461786846/) — Washington State Department of Ecology
-- 📍 **Location:** Richland, WA
-- 🕒 **Posted:** 2026-09-05
+### [Geospatial Front End Developer – Multiple Positions at Junior/Mid/Senior Levels](https://www.linkedin.com/jobs/view/4462655680/) — Drone.vet
+- 📍 **Location:** Springfield, VA
+- 🕒 **Posted:** 2026-09-06
+
+### [Post-Doctoral Research Associate (Molecular Approaches for Detection of Aquatic Invasive Species](https://www.linkedin.com/jobs/view/4462044357/) — Tennessee State University
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-09-06
+
+### [Environmental Health & Safety Manager](https://www.linkedin.com/jobs/view/4460425204/) — Teledyne Technologies Incorporated
+- 📍 **Location:** Hawthorne, CA
+- 💰 **Salary:** $96,600.00-$128,800.00
+- 🕒 **Posted:** 2026-09-06
+
+### [Document Restoration Management](https://www.linkedin.com/jobs/view/4462647671/) — Prism Specialty Restoration
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-09-06
+
+### [Process and Environmental Engineer - Portland, ME](https://www.linkedin.com/jobs/view/4462654693/) — Austin Allen Inc
+- 📍 **Location:** Portland, ME
+- 🕒 **Posted:** 2026-09-06
