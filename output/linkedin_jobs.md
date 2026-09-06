@@ -1,92 +1,51 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-06 17:58 UTC*
+*Last updated: 2026-09-06 20:46 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [Middle GIS Specialist](https://www.linkedin.com/jobs/view/4461833520/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [GIS Specialist IV](https://www.linkedin.com/jobs/view/4462674867/) — AECOM
+- 📍 **Location:** Riyadh, Riyadh, Saudi Arabia
 - 🕒 **Posted:** 2026-09-06
 
-### [Sr. Product Engineer - ArcGIS Business Analyst Enterprise](https://www.linkedin.com/jobs/view/4427174761/) — Esri
-- 📍 **Location:** Redlands, CA
-- 💰 **Salary:** $93,600 USD - $159,328 USD
+### [Manager, Climate Environmental Prediction Services](https://www.linkedin.com/jobs/view/4464062313/) — Bureau of Meteorology
+- 📍 **Location:** Canberra, Australian Capital Territory, Australia
 - 🕒 **Posted:** 2026-09-06
 
-### [Sr. Consultant - Natural Resources](https://www.linkedin.com/jobs/view/4417020816/) — Esri
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $107,120 USD - $183,040 USD
+### [Manager, Climate Environmental Prediction Services](https://www.linkedin.com/jobs/view/4464041478/) — Bureau of Meteorology
+- 📍 **Location:** Melbourne, Victoria, Australia
 - 🕒 **Posted:** 2026-09-06
 
-### [C++ Software Developer II –Raster & Imagery](https://www.linkedin.com/jobs/view/4417021694/) — Esri
-- 📍 **Location:** Redlands, CA
-- 💰 **Salary:** $101,192 USD - $167,336 USD
+### [Drone System Reliability Technician and Pilot](https://www.linkedin.com/jobs/view/4464049437/) — Harmattan AI
+- 📍 **Location:** Orly, Île-de-France, France
 - 🕒 **Posted:** 2026-09-06
 
-### [GIS Technician II](https://www.linkedin.com/jobs/view/4461832482/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Drone System Validation Technician and Pilot](https://www.linkedin.com/jobs/view/4464070000/) — Harmattan AI
+- 📍 **Location:** Rabat, Rabat-Salé-Kénitra, Morocco
 - 🕒 **Posted:** 2026-09-06
 
-### [Remote Sensing of Urban Land Surface Environment](https://www.linkedin.com/jobs/view/4461839488/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Drone System Validation Engineer -FR](https://www.linkedin.com/jobs/view/4464049440/) — Harmattan AI
+- 📍 **Location:** Lausanne, Vaud, Switzerland
 - 🕒 **Posted:** 2026-09-06
 
-### [GIS Manager](https://www.linkedin.com/jobs/view/4461833518/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4462071800/) — Protouch Staffing
+- 📍 **Location:** Millbury, MA
+- 💰 **Salary:** $125,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [DWP Geospatial Research Specialist - Research Scientist 3](https://www.linkedin.com/jobs/view/4461841511/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
-- 💰 **Salary:** $37.91 - $56.39
+### [Restoration Project Manager](https://www.linkedin.com/jobs/view/4464070008/) — SERVPRO of Vacaville / Dixon
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $50,000.00 - $85,000.00 per year
 - 🕒 **Posted:** 2026-09-06
 
-### [Senior Environmental Engineer- Hybrid (Dallas, TX)](https://www.linkedin.com/jobs/view/4417395898/) — Enel North America
-- 📍 **Location:** Dallas, TX
+### [Paralegal - Transactions & Land Use Division](https://www.linkedin.com/jobs/view/4459102017/) — Travis County
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-06
 
-### [Senior Advanced Drone Operator (RPAS & Reality Capture)](https://www.linkedin.com/jobs/view/4461841510/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
-- 💰 **Salary:** $89,800 - $118,900
+### [Wildlife Technician](https://www.linkedin.com/jobs/view/4454824016/) — W3Global
+- 📍 **Location:** Sheldon, SC
+- 💰 **Salary:** $23.00/hr - $24.00/hr
 - 🕒 **Posted:** 2026-09-06
 
-### [Supervisor, Environmental Services](https://www.linkedin.com/jobs/view/4445239045/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $56,035.00/yr - $84,074.00/yr
-- 🕒 **Posted:** 2026-09-06
-
-### [Senior Power BI / Data Visualization Consultant (Geospatial & Mapping)](https://www.linkedin.com/jobs/view/4461849392/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-09-06
-
-### [Technician, Environmental Monitoring (M-F Flex)](https://www.linkedin.com/jobs/view/4400303411/) — Avid Bioservices
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $21.96 to $27.40 hourly
-- 🕒 **Posted:** 2026-09-06
-
-### [Safety Environmental Manager](https://www.linkedin.com/jobs/view/4445636043/) — Crown Equipment Corporation
-- 📍 **Location:** Greencastle, IN
-- 🕒 **Posted:** 2026-09-06
-
-### [GIS Consultant – System Operations & Implementation](https://www.linkedin.com/jobs/view/4461839487/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-09-06
-
-### [Environmental Technician](https://www.linkedin.com/jobs/view/4427676675/) — Charles Taylor
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-09-06
-
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4416738398/) — Evonik
-- 📍 **Location:** Mobile, AL
-- 🕒 **Posted:** 2026-09-06
-
-### [Director Environmental, Health, and Safety](https://www.linkedin.com/jobs/view/4457796719/) — Moffitt Services
-- 📍 **Location:** Cypress, TX
-- 🕒 **Posted:** 2026-09-06
-
-### [Legal Assistant, Land Use](https://www.linkedin.com/jobs/view/4451209529/) — Jobot
-- 📍 **Location:** West Chester, PA
-- 💰 **Salary:** $55,000 - $75,000 per year
-- 🕒 **Posted:** 2026-09-06
-
-### [GIS Consultant – System Operations & Implementation](https://www.linkedin.com/jobs/view/4461843441/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Drone System Validation Engineer - CH](https://www.linkedin.com/jobs/view/4464054415/) — Harmattan AI
+- 📍 **Location:** Paris, Île-de-France, France
 - 🕒 **Posted:** 2026-09-06
