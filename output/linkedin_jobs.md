@@ -1,143 +1,147 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-08 19:07 UTC*
+*Last updated: 2026-09-08 22:16 UTC*
 
-**31 new role(s)** since last run · 31 total in last 1h
+**32 new role(s)** since last run · 33 total in last 1h
 
-### [Project Geospatial Analyst](https://www.linkedin.com/jobs/view/4464446542/) — CDM Smith
-- 📍 **Location:** Perth, Western Australia, Australia
+### [Geospatial Analyst I](https://www.linkedin.com/jobs/view/4463571204/) — Enviva
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-09-08
 
-### [Geospatial Analyst II](https://www.linkedin.com/jobs/view/4463527424/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $69,000-$88,000 annually
+### [GIS ANALYST II](https://www.linkedin.com/jobs/view/4463568298/) — Gulf Companies
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-08
 
-### [Geospatial Analyst II](https://www.linkedin.com/jobs/view/4448552629/) — Dewberry
-- 📍 **Location:** Greater Seattle Area
+### [26-051.P - GIS Analyst](https://www.linkedin.com/jobs/view/4462546872/) — Harvest Midstream Company
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-08
 
-### [GIS TECHNICIAN I](https://www.linkedin.com/jobs/view/4462548157/) — KENT PERSONNEL LTD
-- 📍 **Location:** Dover, DE
+### [Geospatial Research Specialist](https://www.linkedin.com/jobs/view/4464694053/) — Texas Health and Human Services
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $5,425.33 - $7,155.75
 - 🕒 **Posted:** 2026-09-08
 
-### [GIS Technician -Rochester, MN](https://www.linkedin.com/jobs/view/4464645692/) — Telcom Construction, LLC
-- 📍 **Location:** Blooming Prairie, MN
-- 💰 **Salary:** $25.00 - $28.00
+### [Geospatial Developer](https://www.linkedin.com/jobs/view/4462549222/) — IEM
+- 📍 **Location:** United States
+- 💰 **Salary:** $90,000 to $104,000
 - 🕒 **Posted:** 2026-09-08
 
-### [LiDAR Specialist](https://www.linkedin.com/jobs/view/4464648763/) — Strider
-- 📍 **Location:** Colombia
+### [Intermediate Environmental Coordinator / Monitor](https://www.linkedin.com/jobs/view/4463570254/) — Roe Environmental
+- 📍 **Location:** Campbell River, British Columbia, Canada
 - 🕒 **Posted:** 2026-09-08
 
-### [QGIS Engineer](https://www.linkedin.com/jobs/view/4463525586/) — RSK Geosciences
-- 📍 **Location:** East Sussex, England, United Kingdom
+### [Environmental Quality Program Manager - Environmental Planner](https://www.linkedin.com/jobs/view/4454506417/) — Pima County
+- 📍 **Location:** Tucson, AZ
+- 💰 **Salary:** $65,457 - $78,540 Annually
 - 🕒 **Posted:** 2026-09-08
 
-### [Environmental Scientist / Engineer](https://www.linkedin.com/jobs/view/4463549311/) — SLR Consulting
-- 📍 **Location:** Regina, Saskatchewan, Canada
+### [Lead Environmental Specialist/Planner (QSD/QSP) Menlo Park, California](https://www.linkedin.com/jobs/view/4396750711/) — Insignia Environmental
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $70,000.00/yr - $95,000.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [Remote Sensing Operator](https://www.linkedin.com/jobs/view/4463538231/) — Dewberry
-- 📍 **Location:** Tampa, FL
+### [Lead Environmental Planner/Assistant Project Manager (Menlo Park, California)](https://www.linkedin.com/jobs/view/4406425205/) — Insignia Environmental
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [LiDAR Specialist](https://www.linkedin.com/jobs/view/4464660426/) — Strider
-- 📍 **Location:** Colombia
+### [Business Development Specialist - Drone Solutions (Remote)](https://www.linkedin.com/jobs/view/4463552537/) — Norsat International
+- 📍 **Location:** Richmond, British Columbia, Canada
+- 💰 **Salary:** $40,000.00/yr - CA$50,000.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [Entry Level Remote Sensing Operator](https://www.linkedin.com/jobs/view/4463534280/) — Dewberry
-- 📍 **Location:** Tampa, FL
+### [Environmental Planner II (Transportation)](https://www.linkedin.com/jobs/view/4463564342/) — HDR
+- 📍 **Location:** Honolulu, HI
 - 🕒 **Posted:** 2026-09-08
 
-### [Drone Pilot – BVLOS Remote Operations](https://www.linkedin.com/jobs/view/4462527270/) — GeoAerospace
-- 📍 **Location:** Maynooth, County Kildare, Ireland
+### [Environmental Staff](https://www.linkedin.com/jobs/view/4463572183/) — Converse Consultants
+- 📍 **Location:** Las Vegas, NV
 - 🕒 **Posted:** 2026-09-08
 
-### [Head of Robotics / Autonomous UAV Systems](https://www.linkedin.com/jobs/view/4462526738/) — AI Futures
-- 📍 **Location:** Hamburg, Germany
-- 🕒 **Posted:** 2026-09-08
-
-### [Lead Environmental Planner/Senior Siting Specialist](https://www.linkedin.com/jobs/view/4445125933/) — WSP in the U.S.
-- 📍 **Location:** Cleveland, OH
-- 💰 **Salary:** $90,000 - $110,000
-- 🕒 **Posted:** 2026-09-08
-
-### [Lead Environmental Planner/Senior Siting Specialist](https://www.linkedin.com/jobs/view/4445132902/) — WSP in the U.S.
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $90,000 - $110,000
-- 🕒 **Posted:** 2026-09-08
-
-### [Technical Partner, Natural Resources](https://www.linkedin.com/jobs/view/4452504044/) — ERM
-- 📍 **Location:** Pittsburgh, PA
-- 💰 **Salary:** $175,000–$202,300
-- 🕒 **Posted:** 2026-09-08
-
-### [Technical Partner, Natural Resources](https://www.linkedin.com/jobs/view/4452502058/) — ERM
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $175,000–$202,300
-- 🕒 **Posted:** 2026-09-08
-
-### [Business Regional Manager (Environmental Market) - Industrial Flow South America](https://www.linkedin.com/jobs/view/4445404001/) — Atlas Copco Group
-- 📍 **Location:** Diadema, São Paulo, Brazil
-- 🕒 **Posted:** 2026-09-08
-
-### [Lead Environmental Planner/Senior Siting Specialist](https://www.linkedin.com/jobs/view/4445132903/) — WSP in the U.S.
-- 📍 **Location:** Lexington, KY
-- 💰 **Salary:** $90,000 - $110,000
-- 🕒 **Posted:** 2026-09-08
-
-### [Environmental, Health, and Safety (EHS) Coordinator](https://www.linkedin.com/jobs/view/4463531295/) — Tessera
-- 📍 **Location:** Bremerton, WA
-- 💰 **Salary:** $25.76 - $34.44 per hour
-- 🕒 **Posted:** 2026-09-08
-
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4463524955/) — Murphy USA
-- 📍 **Location:** El Dorado, AR
-- 🕒 **Posted:** 2026-09-08
-
-### [Lead Environmental Planner/Senior Siting Specialist](https://www.linkedin.com/jobs/view/4445124880/) — WSP in the U.S.
+### [Natural Resources Dispatcher 1 - 20088018, 20051068](https://www.linkedin.com/jobs/view/4462556106/) — Ohio Department of Natural Resources
 - 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $90,000 - $110,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4463529425/) — Pacer Group
-- 📍 **Location:** Georgetown, KY
-- 💰 **Salary:** $50.00/hr - $57.00/hr
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4463570198/) — Pacer Group
+- 📍 **Location:** Calera, AL
+- 💰 **Salary:** $26.00/hr - $28.00/hr
 - 🕒 **Posted:** 2026-09-08
 
-### [Environmental Business Development Specialist](https://www.linkedin.com/jobs/view/4440798612/) — Judge Direct Placement
-- 📍 **Location:** Raleigh-Durham-Chapel Hill Area
-- 💰 **Salary:** $100,000.00/yr - $110,000.00/yr
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4463560545/) — Brown and Caldwell
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $85,000 - $116,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Bird Technician AE](https://www.linkedin.com/jobs/view/4452298402/) — Assured Environments
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $41,800.00 - $74,800.00
+### [Senior Technical Director, Environmental Science](https://www.linkedin.com/jobs/view/4464691334/) — WSP in the U.S.
+- 📍 **Location:** Lawrenceville, NJ
+- 💰 **Salary:** $176,000 - $221,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Environmental Services Attendant](https://www.linkedin.com/jobs/view/4464650858/) — Sodexo
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $17.75/hr - $18.40/hr
+### [ASSISTANT/ASSOCIATE PROFESSOR OCCUPATIONAL AND ENVIRONMENTAL HEALTH](https://www.linkedin.com/jobs/view/4464905082/) — ISEE SNRN - International Society for Environmental Epidemiology Student and New Researchers Network
+- 📍 **Location:** Lawton Area
 - 🕒 **Posted:** 2026-09-08
 
-### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4463533303/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $124,000 - $164,000 annually
+### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4464676759/) — Langan Engineering & Environmental Services
+- 📍 **Location:** Parsippany, NJ
+- 💰 **Salary:** $96,750—$140,000 USD
 - 🕒 **Posted:** 2026-09-08
 
-### [Technical Partner, Natural Resources](https://www.linkedin.com/jobs/view/4452297192/) — ERM
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $175,000–$202,300
+### [Conservation Office Assistant](https://www.linkedin.com/jobs/view/4464906043/) — Town of Dartmouth
+- 📍 **Location:** Landry Office, New Brunswick, Canada
+- 💰 **Salary:** $23.86 - $31.01
 - 🕒 **Posted:** 2026-09-08
 
-### [Global Environmental Technology Manager (m/f/d)](https://www.linkedin.com/jobs/view/4459874879/) — Syngenta
-- 📍 **Location:** Muttenz, Basel-Country, Switzerland
+### [Environmental Project Supervisor](https://www.linkedin.com/jobs/view/4464901142/) — Midwest Environmental Inc
+- 📍 **Location:** Greenfield, IN
 - 🕒 **Posted:** 2026-09-08
 
-### [Environmental (EIA) - Expression of Interest](https://www.linkedin.com/jobs/view/4437407603/) — WSP in the UK & Ireland
+### [Restoration Technician](https://www.linkedin.com/jobs/view/4463575218/) — United Water Restoration Group, Inc.
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $20-$22 per hour
+- 🕒 **Posted:** 2026-09-08
+
+### [Senior Environmental Planner/Project Manager](https://www.linkedin.com/jobs/view/4433132740/) — Insignia Environmental
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $100,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-09-08
+
+### [Senior Environmental Planner I](https://www.linkedin.com/jobs/view/4324720541/) — Roux
+- 📍 **Location:** Islandia, NY
+- 💰 **Salary:** $95,000 - $125,000
+- 🕒 **Posted:** 2026-09-08
+
+### [Field Environmental Coordinator](https://www.linkedin.com/jobs/view/4464691543/) — Principle Services, LLC
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 🕒 **Posted:** 2026-09-08
+
+### [Project Manager & Seller/Doer-Natural Resources and Environmental Permitting](https://www.linkedin.com/jobs/view/4464905085/) — WSP in the U.S.
+- 📍 **Location:** Canton, MS
+- 🕒 **Posted:** 2026-09-08
+
+### [Entry Environmental Engineer - Water Services (2027 New Grads!)](https://www.linkedin.com/jobs/view/4463667889/) — CDM Smith
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-09-08
+
+### [Entry Environmental Engineer - Water Services (2027 New Grads)](https://www.linkedin.com/jobs/view/4463605548/) — CDM Smith
+- 📍 **Location:** Hartford, CT
+- 🕒 **Posted:** 2026-09-08
+
+### [Entry Environmental Engineer - Water Services (2027 New Grads!)](https://www.linkedin.com/jobs/view/4463617319/) — CDM Smith
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-09-08
+
+### [Entry Environmental Engineer - Water Services (2027 New Grads!)](https://www.linkedin.com/jobs/view/4463620205/) — CDM Smith
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-08
+
+### [Restoration Technician](https://www.linkedin.com/jobs/view/4463571226/) — ATI Restoration, LLC
+- 📍 **Location:** Fayetteville, NC
+- 🕒 **Posted:** 2026-09-08
+
+### [Project Engineer– Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4444143550/) — Roux
+- 📍 **Location:** Burlington, MA
+- 💰 **Salary:** $90,000 - $115,000
+- 🕒 **Posted:** 2026-09-08
+
+### [Principal Environmental Consultant- Due Diligence](https://www.linkedin.com/jobs/view/4463646052/) — Ramboll
 - 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-08
-
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4463538298/) — RSK Group
-- 📍 **Location:** West Midlands, England, United Kingdom
 - 🕒 **Posted:** 2026-09-08
