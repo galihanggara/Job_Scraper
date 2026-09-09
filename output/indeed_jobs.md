@@ -1,10 +1,11 @@
 # 🟦 Indeed — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-09 00:41 UTC*
+*Last updated: 2026-09-09 05:19 UTC*
 
 **1 new role(s)** since last run · 1 total in last 24h
 
-### [GIS Technician](https://www.indeed.com/viewjob?jk=de620ee7781f8977) — ENTRUST Solutions Group
-- 📍 **Location:** Olathe, KS, US
-- 💰 **Salary:** $20–$22/hr
+### [GIS Analyst](https://www.indeed.com/viewjob?jk=7f9b9ea7996bb80c) — Mano Lani
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $57k–$70k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-08
