@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-09 05:19 UTC",
+  "scraped_at": "2026-09-09 19:06 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Mano Lani",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Mano Lani",
-      "title": "GIS Analyst",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=7f9b9ea7996bb80c",
-      "direct_url": "https://careers-manolani.icims.com/jobs/3650/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "company_url": "https://www.indeed.com/cmp/Mano-Lani",
-      "date_posted": "2026-09-08",
-      "description": "Overview:\n**Job Title: GIS Analyst****Location: Remote**\n\nMano Lani LLC is seeking a GIS Analyst to support geospatial data development, analysis, mapping, and quality control activities. This position will use GIS tools to create, maintain, analyze, and validate geospatial information supporting facilities, infrastructure, real property, and other business needs.\n\nThe ideal candidate has hands\\-on GIS experience and is comfortable working with spatial data, geodatabases, maps, and data quality standards.\n**Key Responsibilities**\n* Create, edit, maintain, and analyze GIS datasets.\n* Perform spatial analysis, geoprocessing, data conversion, and mapping.\n* Maintain geodatabases, feature classes, attributes, and metadata.\n* Perform quality checks and correct spatial or attribute data issues.\n* Develop maps, reports, dashboards, and other geospatial products.\n* Assist with GIS data migration, integration, and standardization.\n* Document data sources, processes, and quality review results.\n* Work with analysts, planners, technical staff, and client stakeholders to support project needs.\n\n\nRequirements:\n**Required Qualifications**\n* Bachelor’s degree in GIS, Geography, Geospatial Science, Environmental Science, Engineering, or a related field.\n* Professional experience working with GIS data and applications.\n* Experience with GIS editing, mapping, spatial analysis, and data quality review.\n\n\n• Working knowledge of geodatabases, coordinate systems, projections, and metadata.• Experience using Esri ArcGIS applications.* Strong analytical and problem\\-solving skills.\n* Ability to meet applicable client access requirements.\n\n\n**Preferred Qualifications**\n* Experience with ArcGIS Pro, ArcGIS Enterprise, or similar Esri technologies.\n* Experience supporting facilities, infrastructure, real property, or asset management programs.\n* Familiarity with GIS data standards and quality assurance practices.\n* Experience with geoprocessing models, scripting, or workflow automation.\n* Experience working in a government or large enterprise GIS environment.\n\n\n**Benefits:**\nMano Lani LLC offers a comprehensive benefits package including a liberal vacation plan, a matching retirement program, and competitive salaries commensurate with skills and experience. For more information about our organization, please visit our web site at www.manolani.com.\n**Physical Requirements:**\nWork may involve sitting or standing for extended periods of time. Position may require typing and reading from a computer screen. Must have sufficient mobility, including but not limited to bending, reaching, and kneeling to complete daily duties in a timely and efficient manner. There is a possibility that due to parking availability and location of work, walking moderate to long distance may be required. Possible lifting up to 25 lbs.\n\nPlease note: Mano Lani LLC reserves the right to change or modify job duties and assignments at any time. The above job description is not all encompassing. Positions functions and qualifications may vary depending on business needs.\n\nMano Lani LLC is an equal opportunity employer and does not discriminate against applicants based on race, color, creed, religion, medical condition, legally protected genetic information, national origin, sex (including pregnancy, childbirth or related medical condition), sexual orientation, gender identity and expression, age, disability, or Vietnam era, or other eligible veteran status or legally protected characteristics.\nPosted Salary Range: USD $57,000\\.00 \\- USD $70,000\\.00 /Yr. Posted Salary Range: USD $57,000\\.00 \\- USD $70,000\\.00 /Yr.",
-      "salary": "$57k–$70k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
