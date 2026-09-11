@@ -1,21 +1,21 @@
 {
-  "scraped_at": "2026-09-11 06:38 UTC",
+  "scraped_at": "2026-09-11 19:04 UTC",
   "total": 2,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Integrity Management Consulting",
-      "title": "Geospatial Analyst",
-      "location": "Tysons, VA, US",
-      "url": "https://www.indeed.com/viewjob?jk=52a813cfb6af43d2",
-      "direct_url": "https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=c3jdnwxnq7msbyr9k0bz13d4pof60k0982esui8xughi7dhczuy4d6yl9n8e88cy&SearchString=&StatesString=&source=indeed.com&id=33077318&compid=-1",
-      "company_url": "https://www.indeed.com/cmp/Integrity-Management-Consulting",
+      "company": "GeoSearch, Inc.",
+      "title": "Geospatial Sales & Marketing Specialist",
+      "location": "Peachtree City, GA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e11e583d973e160a",
+      "direct_url": "https://app.loxo.co/job/OTAzOC03aXV5M2F2YTlyaTlvd3c4?source_type=indeed&t=1789132055",
+      "company_url": "https://www.indeed.com/cmp/Geosearch,-Inc.-2",
       "date_posted": "2026-09-10",
-      "description": "**DESCRIPTION**  \n\nThe Geospatial Analyst will work with senior consulting and technical staff to design work plans that define project deliverables, milestones, and schedules. The qualified candidate will work with company staff to ensure progress and financial reporting is provided per contract requirements as well as manage the delivery of projects. Tasks that may be assigned to this position may include, but not limited to:\n* Conduct requirements interview process\n* Documents application requirements\n* Managing small teamwork efforts utilizing industry standards and methodologies (i.e., Agile Scrum process, Waterfall, etc.)\n* Provide tactical recommendations to government to affect improvements in processes, deliverables, and outcomes\n\n\n  \n\n**REQUIREMENTS**\n* Requires a MA/MS degree in Geography, GIS, or related field with 4\\+ years of specialized experience, BA/BS with 6\\+ years of specialized experience, or 9\\+ years of experience in lieu of a degree\n* Ability to obtain background check and maintain a Client Clearance\n* Specialized experience in support and development of enterprise GIS solutions\n* Excellent written and oral communication skills\n* Ability to work independently and take initiative\n* Willing to give technical demonstrations to leadership and supporting conferences\n* Experience working with, ArcGIS Pro, AGOL, and Portal for ArcGIS\n* Experience working with ArcGIS web applications\n* Knowledge of Python scripting techniques (Preferred)\n\n\n  \n\n*Integrity is an Equal Opportunity Employer who is dedicated to hiring and retaining a diverse workforce. We will not discriminate against any applicant or employee for employment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex/gender identity, sexual orientation, national origin, age, veteran status, disability, or any other protected class.*",
-      "salary": "$80k–$85k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime, contract",
+      "description": "**Geospatial Sales \\& Marketing Specialist****About the Opportunity****Berry and Associates** is seeking an experienced **Geospatial Sales \\& Marketing Specialist** to help expand their business and strengthen their presence across the aerial surveying, LiDAR, photogrammetry, GIS, and geospatial data markets.  \n\nThe ideal candidate will have a proven background in selling geospatial services, aerial surveying/mapping solutions, LiDAR, aerial imagery, photogrammetry, GIS, or related technology, and established relationships within the engineering, surveying, transportation, utility, construction, and government sectors. **Key Responsibilities*** Develop and implement sales and marketing strategies to grow our geospatial services.\n* Identify and pursue new business opportunities and qualified leads.\n* Develop and maintain relationships with engineering firms, surveyors, utilities, transportation agencies, municipalities, government agencies, and other potential clients.\n* Promote aerial LiDAR, photogrammetry, orthophotography, UAV/drone mapping, mobile LiDAR, GIS, and other geospatial services.\n* Prepare proposals, presentations, statements of qualifications, and marketing materials.\n* Respond to RFPs, RFQs, and other procurement opportunities.\n  \n\n  \n\nRemote candidates located throughout the U.S. will be considered, with a preference for candidates based in the **Southeastern United States**.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "emails": "",
@@ -40,5 +40,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "GeoSearch, Inc.",
+      "title": "Geospatial Sales & Marketing Specialist",
+      "location": "Peachtree City, GA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e11e583d973e160a",
+      "direct_url": "https://app.loxo.co/job/OTAzOC03aXV5M2F2YTlyaTlvd3c4?source_type=indeed&t=1789132055",
+      "company_url": "https://www.indeed.com/cmp/Geosearch,-Inc.-2",
+      "date_posted": "2026-09-10",
+      "description": "**Geospatial Sales \\& Marketing Specialist****About the Opportunity****Berry and Associates** is seeking an experienced **Geospatial Sales \\& Marketing Specialist** to help expand their business and strengthen their presence across the aerial surveying, LiDAR, photogrammetry, GIS, and geospatial data markets.  \n\nThe ideal candidate will have a proven background in selling geospatial services, aerial surveying/mapping solutions, LiDAR, aerial imagery, photogrammetry, GIS, or related technology, and established relationships within the engineering, surveying, transportation, utility, construction, and government sectors. **Key Responsibilities*** Develop and implement sales and marketing strategies to grow our geospatial services.\n* Identify and pursue new business opportunities and qualified leads.\n* Develop and maintain relationships with engineering firms, surveyors, utilities, transportation agencies, municipalities, government agencies, and other potential clients.\n* Promote aerial LiDAR, photogrammetry, orthophotography, UAV/drone mapping, mobile LiDAR, GIS, and other geospatial services.\n* Prepare proposals, presentations, statements of qualifications, and marketing materials.\n* Respond to RFPs, RFQs, and other procurement opportunities.\n  \n\n  \n\nRemote candidates located throughout the U.S. will be considered, with a preference for candidates based in the **Southeastern United States**.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
