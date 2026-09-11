@@ -1,103 +1,127 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-10 22:02 UTC*
+*Last updated: 2026-09-11 00:34 UTC*
 
-**22 new role(s)** since last run · 23 total in last 1h
+**27 new role(s)** since last run · 33 total in last 1h
 
-### [Senior GIS Developer](https://www.linkedin.com/jobs/view/4465887133/) — Invenergy
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $90,000.00 - 115,000.00
-- 🕒 **Posted:** 2026-09-10
+### [Senior Consultant, Lead Wetland Delineator](https://www.linkedin.com/jobs/view/4463922478/) — ERM
+- 📍 **Location:** Cleveland, OH
+- 💰 **Salary:** $69,386–$102,301
+- 🕒 **Posted:** 2026-09-11
 
-### [LIDAR Technician / Cartographer](https://www.linkedin.com/jobs/view/4465873056/) — Entarian
-- 📍 **Location:** Montgomery County, MD
-- 💰 **Salary:** $75,000 - $85,000/year
-- 🕒 **Posted:** 2026-09-10
+### [Entry Environmental Engineer - Water Services (2027 New Grads)](https://www.linkedin.com/jobs/view/4465895298/) — CDM Smith
+- 📍 **Location:** Greenville, SC
+- 🕒 **Posted:** 2026-09-11
 
-### [ArcGIS Enterprise Tech - Senior Associate](https://www.linkedin.com/jobs/view/4463912001/) — PwC Acceleration Center India
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-09-10
+### [Entry Environmental Engineer - Water Services (2027 New Grads)](https://www.linkedin.com/jobs/view/4465898190/) — CDM Smith
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-09-11
 
-### [Early Career Environmental Scientist](https://www.linkedin.com/jobs/view/4465880159/) — WSP in the U.S.
+### [Entry Environmental Engineer - Water Services (2027 New Grads!)](https://www.linkedin.com/jobs/view/4465899216/) — CDM Smith
 - 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-11
+
+### [Entry Environmental Engineer - Water Services (2027 New Grads)](https://www.linkedin.com/jobs/view/4465898189/) — CDM Smith
+- 📍 **Location:** Knoxville, TN
+- 🕒 **Posted:** 2026-09-11
+
+### [Environmental Specialist I](https://www.linkedin.com/jobs/view/4466006088/) — Veolia | North America
+- 📍 **Location:** Rensselaer, NY
+- 💰 **Salary:** $22 to $25 per hour
+- 🕒 **Posted:** 2026-09-11
+
+### [Environmental Health and Safety Specialist](https://www.linkedin.com/jobs/view/4465890963/) — Phlow
+- 📍 **Location:** Petersburg, VA
+- 💰 **Salary:** $80,000 to $120,000,
+- 🕒 **Posted:** 2026-09-11
+
+### [Environmental Engineer/Scientist (Ph.D.)](https://www.linkedin.com/jobs/view/4464827366/) — Exponent
+- 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** USD $104,000.00 - USD $127,000.00 /Yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Environmental Field Laborer](https://www.linkedin.com/jobs/view/4464826430/) — Moran Environmental Recovery, LLC
+- 📍 **Location:** Randolph, MA
+- 💰 **Salary:** $22.00/hr - $25.00/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Entry Environmental Engineer - Water Services (2027 New Grads)](https://www.linkedin.com/jobs/view/4465896278/) — CDM Smith
+- 📍 **Location:** Wilmington, NC
+- 🕒 **Posted:** 2026-09-11
+
+### [Entry Environmental Engineer - Water Services (2027 New Grads)](https://www.linkedin.com/jobs/view/4465893374/) — CDM Smith
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-09-11
+
+### [Managing Consultant, Environmental Air Quality](https://www.linkedin.com/jobs/view/4463920461/) — ERM
+- 📍 **Location:** Cleveland, OH
+- 💰 **Salary:** $103,967–$132,573
+- 🕒 **Posted:** 2026-09-11
+
+### [Environmental Services Section Supervisor](https://www.linkedin.com/jobs/view/4459627164/) — Alaska Native Tribal Health Consortium (ANTHC)
+- 📍 **Location:** Anchorage, AK
+- 🕒 **Posted:** 2026-09-11
+
+### [Environmental Technician I](https://www.linkedin.com/jobs/view/4466006089/) — Veolia | North America
+- 📍 **Location:** Rancho Cordova, CA
+- 💰 **Salary:** $22.00 - $23.00 hourly
+- 🕒 **Posted:** 2026-09-11
+
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4465886797/) — APTIM
+- 📍 **Location:** Norfolk, VA
+- 💰 **Salary:** $30- $33 per hour
 - 🕒 **Posted:** 2026-09-10
 
-### [Senior GIS Developer](https://www.linkedin.com/jobs/view/4465880216/) — Invenergy
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $90,000.00 - 115,000.00
+### [Ecology/Waters Team Lead](https://www.linkedin.com/jobs/view/4465889709/) — Parsons Corporation
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $112,200.00 - $196,400.00
 - 🕒 **Posted:** 2026-09-10
 
-### [Watershed Representative](https://www.linkedin.com/jobs/view/4464598655/) — JSG (Johnson Service Group, Inc.)
-- 📍 **Location:** Paris, TN
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4463920406/) — HETI
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4464594711/) — Kinetik
-- 📍 **Location:** Midland, TX
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4463934333/) — HETI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Senior Environmental Consultant](https://www.linkedin.com/jobs/view/4464590820/) — Onterris
-- 📍 **Location:** Little Rock Metropolitan Area
-- 💰 **Salary:** $120,000 to $130,000,
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4463928383/) — HETI
+- 📍 **Location:** Dover, DE
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Wetland Delineator/Environmental Scientist](https://www.linkedin.com/jobs/view/4465867987/) — WSP in the U.S.
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $78,000 - $92,000
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4463935300/) — HETI
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Senior Environmental Professional](https://www.linkedin.com/jobs/view/4464559974/) — SLR Consulting
-- 📍 **Location:** Grande Prairie, Alberta, Canada
+### [CBA - Environmental Technician IV](https://www.linkedin.com/jobs/view/4464904905/) — Parsons Corporation
+- 📍 **Location:** Faro, Yukon Territory, Canada
 - 🕒 **Posted:** 2026-09-10
 
-### [Flight Test Engineer (UAV Test Pilot)](https://www.linkedin.com/jobs/view/4463917177/) — Athlon Avia
-- 📍 **Location:** Kyiv City, Ukraine
+### [Environmental Consultant](https://www.linkedin.com/jobs/view/4465883942/) — Gallagher Bassett
+- 📍 **Location:** Poughkeepsie, NY
+- 💰 **Salary:** $66,500.00/yr - $129,500.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Systems Engineer (UAV)](https://www.linkedin.com/jobs/view/4463934004/) — Athlon Avia
-- 📍 **Location:** Kyiv City, Ukraine
+### [Environmental, Health, & Safety Specialist](https://www.linkedin.com/jobs/view/4465885922/) — Owens Corning
+- 📍 **Location:** Aiken, SC
 - 🕒 **Posted:** 2026-09-10
 
-### [Senior Coral Reef Restoration Specialist](https://www.linkedin.com/jobs/view/4465876041/) — Entarian
-- 📍 **Location:** St. Petersburg, FL
-- 💰 **Salary:** $74,000 - 94,000/year
+### [Environmental Specialist - Wind](https://www.linkedin.com/jobs/view/4463915956/) — Mortenson
+- 📍 **Location:** Texas, United States
 - 🕒 **Posted:** 2026-09-10
 
-### [Wildlife Ecologist | Mornington](https://www.linkedin.com/jobs/view/4463114678/) — Australian Wildlife Conservancy
-- 📍 **Location:** Kimberley, Western Australia, Australia
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4439955582/) — Rosendin
+- 📍 **Location:** Reno, NV
 - 🕒 **Posted:** 2026-09-10
 
-### [Senior Land Use Planner 3 – Limited Duration](https://www.linkedin.com/jobs/view/4465864933/) — Pierce County
-- 📍 **Location:** Washington, United States
-- 💰 **Salary:** $47.29/hr - $60.57/hr
+### [CQA Landfill Environmental Field Tech](https://www.linkedin.com/jobs/view/4465881863/) — APTIM
+- 📍 **Location:** Concord, CA
+- 💰 **Salary:** $33- $37 per hour
 - 🕒 **Posted:** 2026-09-10
 
-### [Federal Environmental Program Director - Federal CERCLA/RCRA Programs and Client Development](https://www.linkedin.com/jobs/view/4465872270/) — True Environmental
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-10
-
-### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4463914618/) — Casey's
-- 📍 **Location:** Ankeny, IA
-- 🕒 **Posted:** 2026-09-10
-
-### [Senior Environmental Consultant](https://www.linkedin.com/jobs/view/4464587880/) — Onterris
-- 📍 **Location:** Little Rock Metropolitan Area
-- 💰 **Salary:** $120,000 to $130,000,
-- 🕒 **Posted:** 2026-09-10
-
-### [Gulf Habitat Restoration Specialist](https://www.linkedin.com/jobs/view/4465862947/) — Entarian
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $74,000 - 94,000/year
-- 🕒 **Posted:** 2026-09-10
-
-### [Environmental Materials and EPR Program Compliance Manager](https://www.linkedin.com/jobs/view/4465873326/) — Johnson & Johnson MedTech
-- 📍 **Location:** Raynham, MA
-- 💰 **Salary:** $117,000.00 - $201,250.00
-- 🕒 **Posted:** 2026-09-10
-
-### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4464805208/) — Kelly Science, Engineering, Technology & Telecom
-- 📍 **Location:** Sedalia, MO
-- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Sr. Project Manager - Environmental Remediation](https://www.linkedin.com/jobs/view/4464597894/) — Cape Environmental Management Inc
-- 📍 **Location:** Byram, NJ
+### [Safety and Environmental Manager](https://www.linkedin.com/jobs/view/4465333419/) — Coca-Cola Consolidated
+- 📍 **Location:** Twinsburg, OH
 - 🕒 **Posted:** 2026-09-10
