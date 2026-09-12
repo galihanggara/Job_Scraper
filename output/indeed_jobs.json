@@ -1,26 +1,8 @@
 {
-  "scraped_at": "2026-09-11 23:33 UTC",
-  "total": 2,
-  "new_count": 1,
+  "scraped_at": "2026-09-12 01:34 UTC",
+  "total": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "GeoSearch, Inc.",
-      "title": "Geospatial Sales & Marketing Specialist",
-      "location": "Peachtree City, GA, US",
-      "url": "https://www.indeed.com/viewjob?jk=e11e583d973e160a",
-      "direct_url": "https://app.loxo.co/job/OTAzOC03aXV5M2F2YTlyaTlvd3c4?source_type=indeed&t=1789153724",
-      "company_url": "https://www.indeed.com/cmp/Geosearch,-Inc.-2",
-      "date_posted": "2026-09-10",
-      "description": "**Geospatial Sales \\& Marketing Specialist****About the Opportunity****Berry and Associates** is seeking an experienced **Geospatial Sales \\& Marketing Specialist** to help expand their business and strengthen their presence across the aerial surveying, LiDAR, photogrammetry, GIS, and geospatial data markets.  \n\nThe ideal candidate will have a proven background in selling geospatial services, aerial surveying/mapping solutions, LiDAR, aerial imagery, photogrammetry, GIS, or related technology, and established relationships within the engineering, surveying, transportation, utility, construction, and government sectors. **Key Responsibilities*** Develop and implement sales and marketing strategies to grow our geospatial services.\n* Identify and pursue new business opportunities and qualified leads.\n* Develop and maintain relationships with engineering firms, surveyors, utilities, transportation agencies, municipalities, government agencies, and other potential clients.\n* Promote aerial LiDAR, photogrammetry, orthophotography, UAV/drone mapping, mobile LiDAR, GIS, and other geospatial services.\n* Prepare proposals, presentations, statements of qualifications, and marketing materials.\n* Respond to RFPs, RFQs, and other procurement opportunities.\n  \n\n  \n\nRemote candidates located throughout the U.S. will be considered, with a preference for candidates based in the **Southeastern United States**.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    },
     {
       "company": "Unknown",
       "title": "Data Analyst — DoT LiDAR",
@@ -40,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Unknown",
-      "title": "Data Analyst — DoT LiDAR",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=66e5c545c11b1ad7",
-      "direct_url": "http://www.indeed.com/job/data-analyst-dot-lidar-66e5c545c11b1ad7",
-      "company_url": "https://www.indeed.comNone",
-      "date_posted": "2026-09-11",
-      "description": "Precision Federal has been awarded a firm\\-fixed\\-price contract by the U.S. Department of Transportation, Federal Highway Administration, to evaluate 3D LiDAR and smartphone\\-based platforms for collecting motor vehicle traffic and roadway geometry data. The work is performed for the Turner\\-Fairbank Highway Research Center. Purchase order 693JJ326P000024, awarded September 4, 2026, period of performance 24 months.\n\nNine drivers will record a month of their daily trips on their own phones through two Iowa road sites, an innovative interchange and a winding two\\-lane segment. A vehicle\\-mounted 3D LiDAR survey covers the same roads. You are the person who makes sure the data that reaches the Government is complete, correct, and reproducible.\n\nWhat you would do\n\n\\- Run quality checks on incoming trip data as it arrives: completeness, GPS and sensor sanity, timestamp continuity, coverage of each site per driver\n\n\\- Keep the quality\\-control log that goes to the Government with the dataset: what was checked, what was rejected, why\n\n\\- Build the horizontal curve inventory for each site from the trip and LiDAR data: curve start and end points, radius, superelevation, and speed through each curve\n\n\\- Compare posted speed limits against design\\-supported safe speed at each curve, working with our licensed Professional Engineer who reviews the findings\n\n\\- Produce the figures and tables for the Task 3 and Task 4 reports and the final report, reproducible from code\n\n\\- Join a short progress call once a month\n\nRequirements\n\n\\- Python with GeoPandas, Shapely, or GDAL, and SQL with PostGIS or an equivalent spatial database\n\n\\- Experience checking real sensor or GPS data for quality: gaps, drift, outliers, clock offsets\n\n\\- Comfortable computing geometry from coordinates: distances, headings, curve fitting, radius of curvature\n\n\\- Reproducible work habits: scripts and notebooks under version control, results a second person can rerun\n\n\\- Clear written English. Your QC notes go to a federal research center\n\nPreferred\n\n\\- Transportation or roadway geometry work: AASHTO Green Book concepts, superelevation, design speed\n\n\\- Experience with vehicle telematics, naturalistic driving data, or smartphone sensor logs (GPS, accelerometer, gyroscope)\n\n\\- Point\\-cloud experience: PDAL, Open3D, CloudCompare, or LiDAR\\-derived surfaces\n\n\\- Prior work on a federally funded research project, or a state department of transportation\n\nHow this works\n\nPart\\-time consulting on a funded federal contract, performed remotely on your own schedule. Roughly 80 to 150 hours between March 2027 and September 2028, concentrated in the collection month and the analysis and reporting periods. Hourly, invoiced monthly. You will be named on the project team and credited in the final report.\n\nPay: $50\\.00 per hour\n\nApplication Question(s):\n\n* Describe one dataset where you found and fixed a quality problem in sensor or GPS data. What was wrong and how did you catch it?\n* Which of these have you used in the last two years: GeoPandas, GDAL, PostGIS, PDAL, QGIS, ArcGIS?\n* Have you computed curve radius or superelevation from coordinate or survey data? Where?\n* Are you willing to be named on the project team and credited in a report delivered to the Federal Highway Administration?\n\nWork Location: Remote",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "parttime, contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
