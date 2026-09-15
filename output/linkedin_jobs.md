@@ -1,63 +1,114 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-15 08:11 UTC*
+*Last updated: 2026-09-15 19:25 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [Senior Geospatial Data Scientist](https://www.linkedin.com/jobs/view/4465526212/) — Doktar Technologies
-- 📍 **Location:** Istanbul, Türkiye
+### [Entry Level Remote Sensing Operator](https://www.linkedin.com/jobs/view/4463534280/) — Dewberry
+- 📍 **Location:** Tampa, FL
 - 🕒 **Posted:** 2026-09-15
 
-### [Senior Geospatial Data Engineer](https://www.linkedin.com/jobs/view/4465519230/) — Doktar Technologies
-- 📍 **Location:** Sarıyer, Istanbul, Türkiye
+### [Ecological Field Lead](https://www.linkedin.com/jobs/view/4456336174/) — GAI Consultants, Inc.
+- 📍 **Location:** Greater Pittsburgh Region
 - 🕒 **Posted:** 2026-09-15
 
-### [Environmental Technician](https://www.linkedin.com/jobs/view/4466186720/) — CST Canada Coal Limited
-- 📍 **Location:** Grande Cache, Alberta, Canada
+### [Environmental Engineer 1](https://www.linkedin.com/jobs/view/4465589755/) — CDM Smith
+- 📍 **Location:** Latham, NY
 - 🕒 **Posted:** 2026-09-15
 
-### [UAV Field Integration Engineer](https://www.linkedin.com/jobs/view/4465526285/) — Sightec
-- 📍 **Location:** Ramat Gan, Tel Aviv District, Israel
+### [ArcGIS Enterprise Solutions Architect](https://www.linkedin.com/jobs/view/4434657637/) — Dewberry
+- 📍 **Location:** Fairfax, VA
+- 💰 **Salary:** $101,000-$130,000 annually
 - 🕒 **Posted:** 2026-09-15
 
-### [Manager, Climate Environmental Prediction Services](https://www.linkedin.com/jobs/view/4467498385/) — Bureau of Meteorology
-- 📍 **Location:** Melbourne, Victoria, Australia
+### [Environmental Specialist - DHO Environmental](https://www.linkedin.com/jobs/view/4457403250/) — Kiewit
+- 📍 **Location:** Akron, OH
 - 🕒 **Posted:** 2026-09-15
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4449438102/) — Haleon
-- 📍 **Location:** Hsinchu County, Taiwan, Taiwan
+### [Consultant, Environmental Permitting Specialist, FERC Generalist](https://www.linkedin.com/jobs/view/4456548367/) — ERM
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-09-15
 
-### [Environmental Field Technician - Project Work](https://www.linkedin.com/jobs/view/4467497265/) — Eastern Shawnee Companies
-- 📍 **Location:** Fairchild, WA
-- 💰 **Salary:** $25 to $28
+### [Senior Consultant, Permitted Bat Biologist, Natural Resources](https://www.linkedin.com/jobs/view/4465585789/) — ERM
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-09-15
 
-### [Director of Environmental & Safety](https://www.linkedin.com/jobs/view/4457629676/) — Hunt Military Communities
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $115,920 - $153,410,
+### [Consultant, Environmental Permitting Specialist, FERC Generalist](https://www.linkedin.com/jobs/view/4456549489/) — ERM
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-15
 
-### [Director of Environmental & Safety](https://www.linkedin.com/jobs/view/4457614268/) — Hunt Companies, Inc
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $115,920 - $153,410,
+### [Environmental Engineering / Project Manager](https://www.linkedin.com/jobs/view/4411937005/) — WSP in the U.S.
+- 📍 **Location:** Kansas City, MO
 - 🕒 **Posted:** 2026-09-15
 
-### [Safety and Environmental Specialist](https://www.linkedin.com/jobs/view/4457630687/) — Hunt Military Communities
-- 📍 **Location:** San Antonio, TX
+### [E&S/NPDES Conservation Technician](https://www.linkedin.com/jobs/view/4466563172/) — Luzerne Conservation District
+- 📍 **Location:** Shavertown, PA
+- 💰 **Salary:** $39,520 to $48,000
 - 🕒 **Posted:** 2026-09-15
 
-### [Drone System Reliability Technician and Pilot](https://www.linkedin.com/jobs/view/4467496327/) — Harmattan AI
-- 📍 **Location:** Orly, Île-de-France, France
+### [Concrete Restoration Specialist/Concrete Finisher](https://www.linkedin.com/jobs/view/4465573754/) — BCR - Buckeye Construction & Restoration
+- 📍 **Location:** Seymour, TN
 - 🕒 **Posted:** 2026-09-15
 
-### [Drone System Validation Engineer -FR](https://www.linkedin.com/jobs/view/4467716264/) — Harmattan AI
-- 📍 **Location:** Lausanne, Vaud, Switzerland
+### [Concrete Restoration Specialist/Concrete Finisher](https://www.linkedin.com/jobs/view/4465578777/) — BCR - Buckeye Construction & Restoration
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-09-15
 
-### [Lecturer in Ecology & Evolution](https://www.linkedin.com/jobs/view/4466183846/) — Newcastle University
-- 📍 **Location:** Newcastle, England, United Kingdom
+### [Sr Business Director - Environmental Services](https://www.linkedin.com/jobs/view/4448619537/) — Univar Solutions
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $223,000 - $265,000 annually
 - 🕒 **Posted:** 2026-09-15
 
-### [Lead UAV Systems](https://www.linkedin.com/jobs/view/4466185827/) — IZI
-- 📍 **Location:** Bhopal, Madhya Pradesh, India
+### [Environmental, Health, Quality Supervisor](https://www.linkedin.com/jobs/view/4465913012/) — Covia
+- 📍 **Location:** McIntyre, GA
+- 🕒 **Posted:** 2026-09-15
+
+### [Environmental Supervisor](https://www.linkedin.com/jobs/view/4457396460/) — State of Indiana
+- 📍 **Location:** Vincennes, IN
+- 🕒 **Posted:** 2026-09-15
+
+### [PhD Position – Scalable AI and Advanced Computing for Earth Observation](https://www.linkedin.com/jobs/view/4465924037/) — Forschungszentrum Jülich
+- 📍 **Location:** Jülich, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-15
+
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4465904150/) — SSi People
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-09-15
+
+### [Environmental Specialist IV](https://www.linkedin.com/jobs/view/4465599943/) — BlackRock Resources LLC
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-09-15
+
+### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4456337221/) — GAI Consultants, Inc.
+- 📍 **Location:** Greater Pittsburgh Region
+- 🕒 **Posted:** 2026-09-15
+
+### [Seasonal Natural Resources Tech](https://www.linkedin.com/jobs/view/4467761612/) — State of Indiana
+- 📍 **Location:** Edinburgh, IN
+- 💰 **Salary:** $13.00 - $17.00 per hour
+- 🕒 **Posted:** 2026-09-15
+
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4467751649/) — State of Indiana
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-09-15
+
+### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4465578798/) — Atrium Health
+- 📍 **Location:** Winston-Salem, NC
+- 💰 **Salary:** $35.50 - $53.25
+- 🕒 **Posted:** 2026-09-15
+
+### [Environmental Project Developer (Contract)](https://www.linkedin.com/jobs/view/4466583373/) — GRT
+- 📍 **Location:** Tacoma, WA
+- 💰 **Salary:** $100,000-120,000/year
+- 🕒 **Posted:** 2026-09-15
+
+### [Research Software Engineer – AI and Earth Observation](https://www.linkedin.com/jobs/view/4465921072/) — Forschungszentrum Jülich
+- 📍 **Location:** Jülich, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-15
+
+### [Environmental Advisor](https://www.linkedin.com/jobs/view/4466580100/) — Costain Group PLC
+- 📍 **Location:** The Home, United Kingdom
+- 🕒 **Posted:** 2026-09-15
+
+### [Environmental Manager](https://www.linkedin.com/jobs/view/4467762733/) — STACK Infrastructure
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-15
