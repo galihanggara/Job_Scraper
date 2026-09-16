@@ -1,105 +1,133 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-16 19:19 UTC*
+*Last updated: 2026-09-16 22:35 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**29 new role(s)** since last run · 29 total in last 1h
 
-### [GeoSpatial Lead Analyst MAP](https://www.linkedin.com/jobs/view/4448982320/) — Cognizant
-- 📍 **Location:** Chennai, Tamil Nadu, India
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4467120143/) — Ducks Unlimited
+- 📍 **Location:** Dexter, MI
 - 🕒 **Posted:** 2026-09-16
 
-### [GIS Technician](https://www.linkedin.com/jobs/view/4467102396/) — Northeast Natural Energy
-- 📍 **Location:** Morgantown, WV
+### [Graduate Geospatial Data Engineer- London](https://www.linkedin.com/jobs/view/4468282895/) — Arup
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-16
 
-### [Environmental Data Analyst](https://www.linkedin.com/jobs/view/4446659657/) — onsemi
-- 📍 **Location:** Seremban, Negri Sembilan, Malaysia
+### [Environmental Due Diligence Junior Consultant](https://www.linkedin.com/jobs/view/4467126008/) — ERM
+- 📍 **Location:** Mexico City, Mexico
 - 🕒 **Posted:** 2026-09-16
 
-### [Lead ArcGIS DevOps Engineer IRC302726](https://www.linkedin.com/jobs/view/4457913496/) — GlobalLogic
-- 📍 **Location:** Bengaluru, Karnataka, India
+### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468304079/) — Ramboll
+- 📍 **Location:** Hartford, CT
+- 💰 **Salary:** $82,500 - $107,000 per year
 - 🕒 **Posted:** 2026-09-16
 
-### [Assistant Environmental Specialist 2](https://www.linkedin.com/jobs/view/4468257342/) — GAI Consultants, Inc.
-- 📍 **Location:** Indianapolis, IN
+### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4467117205/) — G2 Consulting Group, LLC
+- 📍 **Location:** Troy, MI
 - 🕒 **Posted:** 2026-09-16
 
-### [Regional Environmental Engineer, AWS Environmental - DCC Communities](https://www.linkedin.com/jobs/view/4468275128/) — Amazon Web Services (AWS)
-- 📍 **Location:** Jakarta Metropolitan Area
+### [Senior Environmental Scientist (JC-531341)](https://www.linkedin.com/jobs/view/4467121175/) — Caltrans
+- 📍 **Location:** Humboldt County, CA
+- 💰 **Salary:** $93,840.00/yr - $128,784.00/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [Senior Lead, Environmental Data Management](https://www.linkedin.com/jobs/view/4467103322/) — Glencore
-- 📍 **Location:** Sparwood, British Columbia, Canada
-- 💰 **Salary:** $123,000 - $145,000
+### [Georgia Tech’s Fall 2026 Civil & Environmental Engineering (CEE) Career Fair](https://www.linkedin.com/jobs/view/4468290523/) — Tetra Tech
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-09-16
 
-### [Environmental Planner IV (10807, Grade 30)](https://www.linkedin.com/jobs/view/4467106217/) — Montgomery County Planning Department
-- 📍 **Location:** Wheaton, MD
+### [Natural Resources Student Employee](https://www.linkedin.com/jobs/view/4467122097/) — Truckee Meadows Water Authority
+- 📍 **Location:** Reno, NV
 - 🕒 **Posted:** 2026-09-16
 
-### [GeoSpatial Developer DotNet](https://www.linkedin.com/jobs/view/4457964503/) — Cognizant
-- 📍 **Location:** Chennai, Tamil Nadu, India
+### [Environmental Scientist I](https://www.linkedin.com/jobs/view/4466141293/) — Commonwealth of Kentucky
+- 📍 **Location:** Frankfort, KY
+- 💰 **Salary:** $3,551.88 - $5,008.90 Monthly
 - 🕒 **Posted:** 2026-09-16
 
-### [Ecology Specialist](https://www.linkedin.com/jobs/view/4468280386/) — Arc Infrastructure
-- 📍 **Location:** Perth Airport, Western Australia, Australia
+### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468291276/) — Ramboll
+- 📍 **Location:** Portland, ME
+- 💰 **Salary:** $82,500 - $107,000 per year
 - 🕒 **Posted:** 2026-09-16
 
-### [Environmental Scientist III](https://www.linkedin.com/jobs/view/4457984341/) — Dewberry
-- 📍 **Location:** Greater Richmond Region
-- 💰 **Salary:** $81,000-$104,000 annually
+### [Environmental Scientist I](https://www.linkedin.com/jobs/view/4466148215/) — Commonwealth of Kentucky
+- 📍 **Location:** Paducah, KY
+- 💰 **Salary:** $3,551.88 - $5,008.90 Monthly
 - 🕒 **Posted:** 2026-09-16
 
-### [Drone Piloot / UAS Operator - Agrarische sector](https://www.linkedin.com/jobs/view/4468268300/) — Kok Dronewerk
-- 📍 **Location:** Soest, Utrecht, Netherlands
+### [Staff Environmental Engineer](https://www.linkedin.com/jobs/view/4467117167/) — Water & Environmental Technologies
+- 📍 **Location:** Butte, MT
+- 💰 **Salary:** $60,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [İHA(Drone) Pilotu](https://www.linkedin.com/jobs/view/4466216787/) — HOVERFLY AVIATION AND EDUCATION
-- 📍 **Location:** İzmir, Türkiye
+### [Conservation Officer](https://www.linkedin.com/jobs/view/4468315002/) — Bath & North East Somerset Council
+- 📍 **Location:** Keynsham, England, United Kingdom
 - 🕒 **Posted:** 2026-09-16
 
-### [UAS/UAV Systems Engineer (Bachelor’s degree required from a U.S.-accredited university) - on W2](https://www.linkedin.com/jobs/view/4466899332/) — KYYBA Inc
-- 📍 **Location:** Greater Minneapolis-St. Paul Area
-- 💰 **Salary:** $38.00/hr - $42.00/hr
+### [Environmental Coordinator](https://www.linkedin.com/jobs/view/4454908973/) — BMD Group
+- 📍 **Location:** Townsville, Queensland, Australia
 - 🕒 **Posted:** 2026-09-16
 
-### [Conservation Ranching Program Manager](https://www.linkedin.com/jobs/view/4468269509/) — National Audubon Society
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $70,350 - $76,500
+### [Environmental Technician](https://www.linkedin.com/jobs/view/4468288720/) — WSP in the U.S.
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-16
 
-### [Environmental Engineer - Water Services Group](https://www.linkedin.com/jobs/view/4468265333/) — CDM Smith
-- 📍 **Location:** Raleigh, NC
+### [Concrete Restoration Specialist/Concrete Finisher](https://www.linkedin.com/jobs/view/4468302661/) — BCR - Buckeye Construction & Restoration
+- 📍 **Location:** Oak Ridge, TN
 - 🕒 **Posted:** 2026-09-16
 
-### [PGD Renewable Environmental Specialist - Central Region](https://www.linkedin.com/jobs/view/4466210892/) — NextEra Energy Resources
-- 📍 **Location:** Cisco, TX
+### [Concrete Restoration Specialist/Concrete Finisher](https://www.linkedin.com/jobs/view/4465913938/) — BCR - Buckeye Construction & Restoration
+- 📍 **Location:** Maryville, TN
 - 🕒 **Posted:** 2026-09-16
 
-### [Senior Environmental Engineer - Water Group](https://www.linkedin.com/jobs/view/4435103454/) — CDM Smith
-- 📍 **Location:** Fort Myers, FL
+### [Water Restoration Technician](https://www.linkedin.com/jobs/view/4468282858/) — Wolgast Corporation
+- 📍 **Location:** Saginaw, MI
 - 🕒 **Posted:** 2026-09-16
 
-### [Senior Environmental Engineer - Wastewater Focused](https://www.linkedin.com/jobs/view/4435114405/) — CDM Smith
-- 📍 **Location:** Philadelphia, PA
+### [Complex Environmental Manager - Belgravia](https://www.linkedin.com/jobs/view/4457151587/) — Foster Farms
+- 📍 **Location:** Fresno, CA
+- 💰 **Salary:** $116,450 - $145,550 per year
 - 🕒 **Posted:** 2026-09-16
 
-### [Environmental Compliance Manager](https://www.linkedin.com/jobs/view/4466228033/) — ARRO Consulting, Inc.
-- 📍 **Location:** Pennsylvania, United States
+### [Fish and Wildlife Program Manager](https://www.linkedin.com/jobs/view/4467100035/) — Commonwealth of Kentucky
+- 📍 **Location:** Frankfort, KY
+- 💰 **Salary:** $64,527.60 - $94,892.88 Annually
 - 🕒 **Posted:** 2026-09-16
 
-### [Environmental Engineer 4](https://www.linkedin.com/jobs/view/4468266278/) — CDM Smith
-- 📍 **Location:** Portland, OR
+### [Land Use Attorney](https://www.linkedin.com/jobs/view/4467131103/) — Law Firms
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [Air Quality Engineer, AWS Environmental](https://www.linkedin.com/jobs/view/4459086202/) — Amazon Web Services (AWS)
-- 📍 **Location:** Austin, TX
+### [Environmental Services Officer](https://www.linkedin.com/jobs/view/4468295232/) — Sheffield City Council
+- 📍 **Location:** Sheffield, England, United Kingdom
 - 🕒 **Posted:** 2026-09-16
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4466209729/) — SVK Systems Inc
-- 📍 **Location:** Pittsburgh, PA
-- 💰 **Salary:** $60.00/hr - $66.00/hr
+### [Senior Director, Environmental Compliance](https://www.linkedin.com/jobs/view/4465844371/) — Veolia | North America
+- 📍 **Location:** Millville, NJ
+- 💰 **Salary:** $180000 to $200000 Per Year
 - 🕒 **Posted:** 2026-09-16
 
-### [MIS Data Processing Specialist](https://www.linkedin.com/jobs/view/4467110328/) — Cedar Global Solutions
-- 📍 **Location:** Lahore, Punjab, Pakistan
+### [GIS Technician I/II/III](https://www.linkedin.com/jobs/view/4466243482/) — Arizona Public Service - APS
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-09-16
+
+### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468296198/) — Ramboll
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $82,500 - $107,000 per year
+- 🕒 **Posted:** 2026-09-16
+
+### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468300195/) — Ramboll
+- 📍 **Location:** Westford, MA
+- 💰 **Salary:** $82,500 - $107,000 per year
+- 🕒 **Posted:** 2026-09-16
+
+### [Environmental Engineer Technologist II](https://www.linkedin.com/jobs/view/4464892980/) — Commonwealth of Kentucky
+- 📍 **Location:** Frankfort, KY
+- 💰 **Salary:** $5,324.48 - $6,060.44 Monthly
+- 🕒 **Posted:** 2026-09-16
+
+### [Environmental Manager](https://www.linkedin.com/jobs/view/4434748850/) — NABRICO Marine Products
+- 📍 **Location:** Ashland City, TN
+- 🕒 **Posted:** 2026-09-16
+
+### [Major Trauma Centre NMTR Data Coordinator](https://www.linkedin.com/jobs/view/4468301835/) — Bristol NHS Foundation Trust
+- 📍 **Location:** Bristol, England, United Kingdom
 - 🕒 **Posted:** 2026-09-16
