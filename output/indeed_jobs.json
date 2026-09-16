@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-16 19:20 UTC",
+  "scraped_at": "2026-09-16 22:36 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "ASRC Federal",
@@ -40,42 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ASRC Federal",
-      "title": "Geospatial Front-End Developer",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=efb173d30b62d11c",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/asrcfh/CANDIDATEPORTAL/jobs/28537",
-      "company_url": "https://www.indeed.com/cmp/Asrc-Federal",
-      "date_posted": "2026-09-16",
-      "description": "ASRC Federal is a leading government contractor furthering missions in space, public health and defense. As an Alaska Native owned corporation, our work helps secure an enduring future for our shareholders. Join our team and discover why we are a top veteran employer and Certified Great Place to Work™\n  \n  \n\nASRC Agile Decision Sciences is seeking a full\\-time Geospatial Front\\-End Developer to join to design, build, and maintain our web\\-based mapping application that supports mission\\-critical geospatial workflows. The ideal candidate will be highly proficient in modern JavaScript development, experienced with the ArcGIS JavaScript API (4\\.x), and capable of supporting geospatial data processing and system administration tasks.\n  \n**Work Location:** Remote\n  \nResponsibilities\n  \n* Develop, enhance, and maintain front\\-end geospatial web applications using robust Vanilla JavaScript architecture.\n* Implement and customize mapping functionality using the ArcGIS JavaScript API 4\\.x.\n* Collaborate with back\\-end developers, analysts, and GIS specialists to integrate spatial data and services.\n* Troubleshoot and optimize front\\-end performance, usability, and map rendering behavior.\n* Support MS SQL Server ETL processes, including understanding existing data pipelines and modifying them when needed.\n* Utilize ArcGIS Python tools (ArcPy or ArcGIS API for Python) for data loading, automation routines, and system administration workflows.\n* Participate in code reviews, architectural discussions, and best\\-practice development processes.\n* Prepare technical documentation for applications, workflows, and data processes.\n\n\nQualifications\n  \n* A bachelor’s degree in a related field and 4\\+ years of experience.\n* Demonstrable experience writing clean, modular, and well\\-structured JavaScript, including designing applications in Vanilla JavaScript without heavy frameworks.\n* Hands\\-on experience developing geospatial applications with ArcGIS JS API 4\\.x.\n* Working knowledge of SQL Server ETL workflows and the ability to modify or maintain existing processes.\n* Experience with ArcGIS Python (ArcPy or ArcGIS API for Python) for data preparation, loading, and administrative automation.\n* Ability to collaborate in a team environment and communicate effectively with both technical and non\\-technical stakeholders.\n* Strong problem\\-solving skills and attention to detail.\n* Experience with version control systems such as Git.\n* Familiarity with REST\\-based geospatial services and enterprise GIS architectures.\n* Understanding of modern web technologies (HTML5, CSS3, Webpack, Node.js, etc.).\n\n\nWe invest in the lives of our employees, both in and out of the workplace, by providing competitive pay and benefits packages. Benefits offered may include health care, dental, vision, life insurance; 401(k); education assistance; paid time off including PTO, holidays, and any other paid leave required by law. The salary offered will depend on several factors including, but not limited to, relevant experience, skills, education, geographic location, internal equity, business needs, and other factors permitted by law. Posted pay ranges are a general guideline only and are not a guarantee of compensation or salary.\n  \n  \n\nEEO Statement\n  \nASRC Federal and its Subsidiaries are Equal Opportunity employers. All qualified applicants will receive consideration for employment without regard to race, gender, color, age, sexual orientation, gender identification, national origin, religion, marital status, ancestry, citizenship, disability, protected veteran status, or any other factor prohibited by applicable law.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CAPE Environmental Management, Inc",
-      "title": "GIS Analyst",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=7a147677f711ea94",
-      "direct_url": "https://obi1.humanic.com/apex/12c_prd/f?p=6032012:8100:::NO::P8100_POSCODE:800427",
-      "company_url": "https://www.indeed.com/cmp/Cape-Environmental-Management,-Inc",
-      "date_posted": "2026-09-15",
-      "description": "**Posted:** 09/15/2026  \n\n  \n\n  \n\n  \n\n**SUMMARY OF JOB DESCRIPTION:**\n\n\nAs a member of CAPE’s Technical Services Organization, the GIS Analyst is responsible for ensuring that all geospatial project activities meet contractual, legal and regulatory requirements resulting in accurate and legally defensible data and project execution. The GIS Analyst is responsible for supporting the planning and execution of all project and proposal activities related to GIS, remote sensing, and/or data management. The ideal candidate will have experience in the environmental/remediation sector and demonstrated ability to drive efficient high\\-volume production of maps, charts, and figures. This position will work closely with various teams to support projects, proposals, and business development opportunities to achieve profit goals and excellent client satisfaction in alignment with the Mission, Vision and Values of CAPE.\n\n\nResponsibilities:\n\n\n* Use and update GIS libraries, Geodatabases, and project Map Packages\n* Support GIS projects, schedules and development of standards and libraries\n* Ensure each deliverable sent to an outside client has been produced and reviewed in accordance with established SOPs\n* Ensure timely and appropriate generation, collection, dissemination, storage, and ultimate disposition of project information\n\n**SALARY:**\n  \n\n$65,000 \\- $80,000 annually, commensurate with experience and qualifications.\n\n\n**TRAVEL:**\n  \n\nUp to 1\\-2 times per year for technical field support.\n\n\n**MINIMUM QUALIFICATIONS:**\n\n\n* B.A, B.S, or M.S in Geology, Geography, Environmental Science, GIS, or related field.\n* Two years of experience using ArcGIS or other geospatial software to generate unique maps and visualize datasets for technical reports.\n* Two years of experience in an environmental, engineering, or science field analyzing and visualizing complex project datasets.\n* Demonstrated skill with ArcGIS Pro software.\n  \n\n**PREFERRED QUALIFICATIONS**\n\n\n* B.S or M.S in Geology, Geography, Environmental Science, GIS, or related field.\n* Minimum of 2\\-5 years in a similar role, preference for candidates with experience in the environmental industry serving DoD clients.\n* Proficiency in MS Access and SQL relational database management/administration.\n* Proficiency in programming in SQL, VBA, and/or Python.\n  \n\n**WHY CAPE?**\n\n\nFor 35 years, CAPE has delivered construction and environmental remediation solutions to governmental and private organizations nationwide. Our projects are high\\-profile environmental remediation projects involving cleanup of contaminated soil, groundwater, and sediment. The culture of our company is one of working together to achieve our clients’ objectives, company goals, and employees’ professional goals, and is succinctly and accurately defined as “We, Not Me” behavior. To ensure long\\-term, sustainable growth, we tailor our 3\\-year vision to be ahead of our industry in delivering our projects, align with our clients and team partners to improve our existing market share, and develop new services to support smart growth.\n\n\nCAPE offers competitive benefits including Medical/Dental/Vision insurance, life insurance, ADP retirement savings plan including both traditional and Roth 401(k) with up to 4% match and lowest in class fees, health savings account (HSA) with investment option, flexible spending account (FSA), paid annual leave, paid maternity/paternity leave, and tuition reimbursement. CAPE also offers staff several other voluntary benefits options, as well as the option to work from home.\n\n\nCAPE is an Equal Employment Opportunity Employer. We invite all qualified applicants to apply to our open positions.\n\n\n**Communication**\n\n\nAny communication regarding this position will come from an email address ending in cape\\-inc.com. Scammers may try to imitate our HR team. Please use caution when replying to emails that are from other domains. To ensure you are applying for a legitimate job, please only complete a job application that originates from https://www.cape\\-inc.com/environmental\\-jobs.",
-      "salary": "$65k–$80k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
