@@ -1,91 +1,82 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-15 22:40 UTC*
+*Last updated: 2026-09-16 00:51 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [Geospatial Analyst - Airfield Foundation Data](https://www.linkedin.com/jobs/view/4465938068/) — MANTECH
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-09-15
+### [Environmental Coordinator](https://www.linkedin.com/jobs/view/4467905920/) — Magna International
+- 📍 **Location:** Bowling Green, KY
+- 🕒 **Posted:** 2026-09-16
 
-### [Geospatial Data Analyst](https://www.linkedin.com/jobs/view/4465930099/) — World Resources Institute (WRI) Indonesia
-- 📍 **Location:** Jakarta, Jakarta, Indonesia
-- 🕒 **Posted:** 2026-09-15
+### [Entry Level Remote Sensing Operator](https://www.linkedin.com/jobs/view/4463534280/) — Dewberry
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-09-16
 
-### [Environmental Analyst](https://www.linkedin.com/jobs/view/4465927137/) — International Association for Great Lakes Research
-- 📍 **Location:** Grand Isle, VT
-- 💰 **Salary:** $55,000 - $65,000
-- 🕒 **Posted:** 2026-09-15
+### [Senior Embedded Software Engineer (Small UAV Flight Controls)](https://www.linkedin.com/jobs/view/4466596567/) — Knightwerx
+- 📍 **Location:** Scottsdale, AZ
+- 🕒 **Posted:** 2026-09-16
 
-### [Assistant GIS Specialist](https://www.linkedin.com/jobs/view/4466567810/) — Randstad Digital Americas
-- 📍 **Location:** Akron, OH
-- 💰 **Salary:** $25.00/hr - $27.72/hr
-- 🕒 **Posted:** 2026-09-15
+### [Environmental Tanker Driver - 5000 Sign On Bonus](https://www.linkedin.com/jobs/view/4467914453/) — Clean Harbors
+- 📍 **Location:** Albany, NY
+- 💰 **Salary:** $15.00/hr - $41.00/hr
+- 🕒 **Posted:** 2026-09-16
 
-### [Responder - Environmental Scientist, Engineer, Chemist - Junior Level](https://www.linkedin.com/jobs/view/4465919772/) — Tetra Tech
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $56,000 - $65,000,
-- 🕒 **Posted:** 2026-09-15
+### [Class B CDL Driver – Environmental Services (CleanPack Chemist CDL)](https://www.linkedin.com/jobs/view/4467913585/) — Clean Harbors
+- 📍 **Location:** Bend, OR
+- 💰 **Salary:** $15.00/hr - $41.00/hr
+- 🕒 **Posted:** 2026-09-16
 
-### [GIS Specialist](https://www.linkedin.com/jobs/view/4466587461/) — Insight Global
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $25.00/hr - $27.00/hr
-- 🕒 **Posted:** 2026-09-15
+### [ENVIRONMENTAL PUSHER](https://www.linkedin.com/jobs/view/4467921276/) — Warrior Technologies, LLC
+- 📍 **Location:** Warrior, AL
+- 🕒 **Posted:** 2026-09-16
 
-### [Environmental Technician](https://www.linkedin.com/jobs/view/4467901358/) — Westwood Professional Services
-- 📍 **Location:** Midlothian, VA
-- 💰 **Salary:** $25-$30/Hr
-- 🕒 **Posted:** 2026-09-15
+### [ENVIRONMENTAL FIELD LABORER](https://www.linkedin.com/jobs/view/4467934182/) — Warrior Technologies, LLC
+- 📍 **Location:** Warrior, AL
+- 🕒 **Posted:** 2026-09-16
 
-### [Associate Environmental Scientist for Emergency Response Team](https://www.linkedin.com/jobs/view/4466580751/) — Weston Solutions, Inc.
-- 📍 **Location:** West Chester, PA
-- 💰 **Salary:** $45,374 - $59,489
-- 🕒 **Posted:** 2026-09-15
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4467922166/) — Kinross Gold Corporation
+- 📍 **Location:** Republic, WA
+- 💰 **Salary:** $90,000 - $100,000
+- 🕒 **Posted:** 2026-09-16
 
-### [Quality Manager - Drone Operations](https://www.linkedin.com/jobs/view/4461206708/) — Delft University of Technology
-- 📍 **Location:** Delft, South Holland, Netherlands
-- 🕒 **Posted:** 2026-09-15
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4467924242/) — CalRecycle
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $4,418.00/mo - $9,321.00/mo
+- 🕒 **Posted:** 2026-09-16
 
-### [Major Trauma Centre NMTR Data Coordinator](https://www.linkedin.com/jobs/view/4467910258/) — Bristol NHS Foundation Trust
-- 📍 **Location:** Bristol, England, United Kingdom
-- 🕒 **Posted:** 2026-09-15
+### [Environmental Specialist I](https://www.linkedin.com/jobs/view/4467927150/) — Veolia | North America
+- 📍 **Location:** Creedmoor, NC
+- 🕒 **Posted:** 2026-09-16
 
-### [Post-doctoral researcher position in aquatic food-web ecology, Danube University Krems, Austria](https://www.linkedin.com/jobs/view/4465933056/) — International Association for Great Lakes Research
-- 📍 **Location:** Krems an der Donau, Lower Austria, Austria
-- 🕒 **Posted:** 2026-09-15
-
-### [Veterinary Technician Assistant: Special Species](https://www.linkedin.com/jobs/view/4465905689/) — University of Wisconsin-Madison
-- 📍 **Location:** Madison, WI
-- 🕒 **Posted:** 2026-09-15
-
-### [Environmental Engineering, PE](https://www.linkedin.com/jobs/view/4467794096/) — WSP in the U.S.
-- 📍 **Location:** Columbus, OH
-- 🕒 **Posted:** 2026-09-15
-
-### [Environmental Field Technician - (Stack)](https://www.linkedin.com/jobs/view/4466587299/) — Onterris
-- 📍 **Location:** Roanoke, VA
-- 💰 **Salary:** $23.50 to $28.00 per hour
-- 🕒 **Posted:** 2026-09-15
-
-### [Concrete Restoration Specialist/Concrete Finisher](https://www.linkedin.com/jobs/view/4465912979/) — BCR - Buckeye Construction & Restoration
-- 📍 **Location:** Rockwood, TN
-- 🕒 **Posted:** 2026-09-15
-
-### [Concrete Restoration Specialist/Concrete Finisher](https://www.linkedin.com/jobs/view/4465913938/) — BCR - Buckeye Construction & Restoration
-- 📍 **Location:** Maryville, TN
-- 🕒 **Posted:** 2026-09-15
-
-### [Finance and Biodiversity Project Assistant](https://www.linkedin.com/jobs/view/4467906315/) — International Civil Aviation Organization
-- 📍 **Location:** Belmopan, Belize
-- 🕒 **Posted:** 2026-09-15
-
-### [Sr./Lead Environmental Permitting Specialist](https://www.linkedin.com/jobs/view/4462426293/) — Urban Grid
+### [Environmental Safety & Health (ESH) Manager](https://www.linkedin.com/jobs/view/4466593652/) — Layton Construction
 - 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-16
+
+### [Health, Safety & Environmental Manager](https://www.linkedin.com/jobs/view/4466806525/) — Inalfa Roof Systems Group
+- 📍 **Location:** Acworth, GA
+- 🕒 **Posted:** 2026-09-16
+
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4467903669/) — Parsons Corporation
+- 📍 **Location:** Bowling Green, VA
+- 💰 **Salary:** $74,800.00 - $130,900.00
 - 🕒 **Posted:** 2026-09-15
 
-### [Sr Environmental Project Manager](https://www.linkedin.com/jobs/view/4465932100/) — EEC Environmental
-- 📍 **Location:** Orange, CA
+### [Environmental GIS and Data Specialist](https://www.linkedin.com/jobs/view/4467904730/) — Parsons Corporation
+- 📍 **Location:** Winnipeg, Manitoba, Canada
 - 🕒 **Posted:** 2026-09-15
 
-### [Sustainability & Environmental Manager -  Azerbaijan](https://www.linkedin.com/jobs/view/4466595084/) — CKH Group
-- 📍 **Location:** Baku, Baku Ekonomic Zone, Azerbaijan
+### [Specialist III, Environmental](https://www.linkedin.com/jobs/view/4467901643/) — Virginia Natural Gas
+- 📍 **Location:** Virginia Beach, VA
+- 💰 **Salary:** $77,258.00 - $121,405.90 USD Annually
+- 🕒 **Posted:** 2026-09-15
+
+### [Scientist III Environmental](https://www.linkedin.com/jobs/view/4467904921/) — Mott MacDonald
+- 📍 **Location:** Morgantown, WV
+- 🕒 **Posted:** 2026-09-15
+
+### [Cortez - Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4466804402/) — Nevada Gold Mines
+- 📍 **Location:** Elko, NV
+- 🕒 **Posted:** 2026-09-15
+
+### [Scientist III Environmental](https://www.linkedin.com/jobs/view/4467909853/) — Mott MacDonald
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-09-15
