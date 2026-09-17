@@ -1,100 +1,110 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-17 19:27 UTC*
+*Last updated: 2026-09-17 22:36 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Geospatial Analyst](https://www.linkedin.com/jobs/view/4468689743/) — Leidos
-- 📍 **Location:** Springfield, VA
-- 💰 **Salary:** $59,150.00 - $106,925.00
+### [GIS Coordinator](https://www.linkedin.com/jobs/view/4468822466/) — Quanta Infrastructure Solutions Group
+- 📍 **Location:** Spokane Valley, WA
 - 🕒 **Posted:** 2026-09-17
 
-### [GIS Specialist- with CAD experience](https://www.linkedin.com/jobs/view/4468675911/) — AtkinsRéalis
-- 📍 **Location:** Riyadh Region
+### [GIS and Geospatial Data Specialist Consultant](https://www.linkedin.com/jobs/view/4468825427/) — Global Green Growth Institute
+- 📍 **Location:** Asuncion, Asunción, Paraguay
 - 🕒 **Posted:** 2026-09-17
 
-### [Lead Environmental Planning/Senior Siting Specialist](https://www.linkedin.com/jobs/view/4449349163/) — WSP in the U.S.
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $100,000 - $115,000
+### [Senior Environmental Planning and Siting Specialist](https://www.linkedin.com/jobs/view/4468815925/) — WSP in the U.S.
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $77,000 - $135,000
 - 🕒 **Posted:** 2026-09-17
 
-### [On-Call Field Biologist / Environmental Planner](https://www.linkedin.com/jobs/view/4449184927/) — WSP in the U.S.
-- 📍 **Location:** El Paso, TX
+### [Senior Environmental Planning and Siting Specialist](https://www.linkedin.com/jobs/view/4468831119/) — WSP in the U.S.
+- 📍 **Location:** Exton, PA
+- 💰 **Salary:** $77,000 - $135,000
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Land Use Planner](https://www.linkedin.com/jobs/view/4468802009/) — AKS Engineering & Forestry
-- 📍 **Location:** Keizer, OR
+### [CRE Environmental Risk Review Analyst](https://www.linkedin.com/jobs/view/4468814950/) — JPMorganChase
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-17
 
-### [Remote Sensing Operator](https://www.linkedin.com/jobs/view/4463538231/) — Dewberry
-- 📍 **Location:** Tampa, FL
+### [Environmental Permitting Specialist/Natural Resource Scientist](https://www.linkedin.com/jobs/view/4466628145/) — AECOM
+- 📍 **Location:** Chelmsford, MA
+- 💰 **Salary:** $94,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4449997337/) — RPS
-- 📍 **Location:** Fortitude Valley, Queensland, Australia
+### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4467597605/) — EnSafe
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-09-17
 
-### [ArcGIS Enterprise Systems Engineer](https://www.linkedin.com/jobs/view/4449451739/) — SAIC
-- 📍 **Location:** Vienna, VA
-- 💰 **Salary:** $160,001 - $200,000
+### [Wetland Delineator-Field Lead](https://www.linkedin.com/jobs/view/4468824026/) — Tetra Tech
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-17
 
-### [Indoor Environmental Quality Field Specialist](https://www.linkedin.com/jobs/view/4467589074/) — 9 Foundations, Inc.
-- 📍 **Location:** Greater Boston
+### [Environmental Geologist/Engineer/Scientist](https://www.linkedin.com/jobs/view/4467800578/) — EnSafe
+- 📍 **Location:** Long Beach, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Technical Manager, Environmental Engineer](https://www.linkedin.com/jobs/view/4424252490/) — WSP in the U.S.
-- 📍 **Location:** Duluth, GA
+### [Wildlife Ecologist | Mt Gibson](https://www.linkedin.com/jobs/view/4468823100/) — Australian Wildlife Conservancy
+- 📍 **Location:** Wubin, Western Australia, Australia
 - 🕒 **Posted:** 2026-09-17
 
-### [Entry Level Civil/Environmental Engineer (Industrial)](https://www.linkedin.com/jobs/view/4466295608/) — Carollo Engineers
-- 📍 **Location:** Portland, OR
+### [Natural Resources Water Educator](https://www.linkedin.com/jobs/view/4468812599/) — University of Wisconsin-Madison
+- 📍 **Location:** Wisconsin Rapids, WI
 - 🕒 **Posted:** 2026-09-17
 
-### [Entry Level Civil/Environmental Engineer (Industrial)](https://www.linkedin.com/jobs/view/4466605348/) — Carollo Engineers
-- 📍 **Location:** Midvale, UT
+### [Major Trauma Centre NMTR Data Coordinator](https://www.linkedin.com/jobs/view/4468822506/) — Bristol NHS Foundation Trust
+- 📍 **Location:** Bristol, England, United Kingdom
 - 🕒 **Posted:** 2026-09-17
 
-### [Director of Environmental Compliance & Sustainability](https://www.linkedin.com/jobs/view/4453412343/) — Boyden
-- 📍 **Location:** Shannon, County Clare, Ireland
+### [Senior Environmental Project Manager - CERCLA/RCRA](https://www.linkedin.com/jobs/view/4468806497/) — W3Global
+- 📍 **Location:** Marietta, OH
+- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-09-17
 
-### [💥 NEW | Land Use & Entitlements Attorney | Leading California Real Estate Practice | Up to $240k + Bonus | Hybrid | 📍 San Francisco](https://www.linkedin.com/jobs/view/4465985487/) — We Are Revolution
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $140,000.00/yr - $240,000.00/yr
+### [Principal Environmental Impact Assessment (EIA) Consultant](https://www.linkedin.com/jobs/view/4468828324/) — Jacobs
+- 📍 **Location:** Bristol, England, United Kingdom
 - 🕒 **Posted:** 2026-09-17
 
-### [QGIS-Entwickler*in (m/w/d)](https://www.linkedin.com/jobs/view/4468688901/) — hamburg-magazin.de
-- 📍 **Location:** Staufen im Breisgau, Baden-Württemberg, Germany
+### [Principal Environmental Impact Assessment (EIA) Consultant](https://www.linkedin.com/jobs/view/4468824412/) — Jacobs
+- 📍 **Location:** Birmingham, England, United Kingdom
 - 🕒 **Posted:** 2026-09-17
 
-### [Intermediate Professional, Environmental Engineering](https://www.linkedin.com/jobs/view/4449195651/) — WSP in the U.S.
-- 📍 **Location:** Valparaiso, IN
-- 💰 **Salary:** $74,100 - $92,600
+### [Project Executant- East Usambara Restoration Project](https://www.linkedin.com/jobs/view/4468843064/) — WWF Cities
+- 📍 **Location:** Tanzania
 - 🕒 **Posted:** 2026-09-17
 
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4468688904/) — State of Indiana
-- 📍 **Location:** Indianapolis, IN
+### [Internships /Volunteering: Environmental Marketing Officer](https://www.linkedin.com/jobs/view/4468821492/) — Embrace the Earth
+- 📍 **Location:** Aarschot, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-09-17
 
-### [Conservation Engineer - PCSM - Conservation District](https://www.linkedin.com/jobs/view/4468681710/) — Cumberland County, PA
-- 📍 **Location:** Carlisle, PA
-- 💰 **Salary:** $84,006.00/yr - $104,910.00/yr
+### [Sr Environmental Project Manager](https://www.linkedin.com/jobs/view/4468823187/) — Apex Companies
+- 📍 **Location:** Woburn, MA
+- 💰 **Salary:** $145,000 USD - $155,000 USD
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Technical Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4439499471/) — WSP in the U.S.
-- 📍 **Location:** Atlanta, GA
+### [Sr Environmental Project Manager](https://www.linkedin.com/jobs/view/4468830079/) — Apex Companies
+- 📍 **Location:** Quincy, MA
+- 💰 **Salary:** $145,000 USD - $155,000 USD
 - 🕒 **Posted:** 2026-09-17
 
-### [Entry Level Civil/Environmental Engineer (Industrial)](https://www.linkedin.com/jobs/view/4466299509/) — Carollo Engineers
-- 📍 **Location:** Phoenix, AZ
+### [Environmental Scientist/Geologist (CT)](https://www.linkedin.com/jobs/view/4467814069/) — Weston & Sampson
+- 📍 **Location:** Rocky Hill, CT
+- 💰 **Salary:** $55,000.00/yr - $57,000.00/yr
 - 🕒 **Posted:** 2026-09-17
 
-### [Lead Professional, Environmental Project Manager](https://www.linkedin.com/jobs/view/4457994232/) — WSP in the U.S.
-- 📍 **Location:** Portland, ME
-- 💰 **Salary:** $88,100 - $124,200
+### [Assistant or Associate Professor - Rangeland Ecology and Management](https://www.linkedin.com/jobs/view/4467599720/) — University of Idaho
+- 📍 **Location:** Moscow, ID
 - 🕒 **Posted:** 2026-09-17
 
-### [Water/Fire Restoration Crew Chief](https://www.linkedin.com/jobs/view/4466614471/) — ServiceMaster RRH
-- 📍 **Location:** Hillsboro, MO
-- 💰 **Salary:** $20.00 - $24.00 per hour
+### [Staff Environmental Planner](https://www.linkedin.com/jobs/view/4467802750/) — ECORP Consulting, Inc.
+- 📍 **Location:** Chico, CA
+- 💰 **Salary:** $35.00 to $45.00 per hour
+- 🕒 **Posted:** 2026-09-17
+
+### [Staff Environmental Planner](https://www.linkedin.com/jobs/view/4467597726/) — ECORP Consulting, Inc.
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $35.00 to $45.00 per hour
+- 🕒 **Posted:** 2026-09-17
+
+### [Field Restoration Specialist II](https://www.linkedin.com/jobs/view/4467804511/) — Cityside Fiber
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $23–$25 per hour
 - 🕒 **Posted:** 2026-09-17
