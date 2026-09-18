@@ -1,110 +1,132 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-17 22:36 UTC*
+*Last updated: 2026-09-18 00:48 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**30 new role(s)** since last run · 30 total in last 1h
 
-### [GIS Coordinator](https://www.linkedin.com/jobs/view/4468822466/) — Quanta Infrastructure Solutions Group
-- 📍 **Location:** Spokane Valley, WA
+### [Regional Environmental Engineer, AWS Environmental Team](https://www.linkedin.com/jobs/view/4468848227/) — Amazon Web Services (AWS)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Regional Environmental Engineer, AWS Environmental Team](https://www.linkedin.com/jobs/view/4468847230/) — Amazon Web Services (AWS)
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-09-18
+
+### [Sr. Regional Enviro Engineer -Water Compliance, AWS Environmental Team](https://www.linkedin.com/jobs/view/4468846292/) — Amazon Web Services (AWS)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Sr. Regional Enviro Engineer -Water Compliance, AWS Environmental Team](https://www.linkedin.com/jobs/view/4468855077/) — Amazon Web Services (AWS)
+- 📍 **Location:** Umatilla, OR
+- 🕒 **Posted:** 2026-09-18
+
+### [Regional Environmental Engineer, AWS Environmental Team](https://www.linkedin.com/jobs/view/4468856065/) — Amazon Web Services (AWS)
+- 📍 **Location:** Herndon, VA
+- 🕒 **Posted:** 2026-09-18
+
+### [Regional Environmental Engineer - Compliance, AWS Environmental Team](https://www.linkedin.com/jobs/view/4468855080/) — Amazon Web Services (AWS)
+- 📍 **Location:** Wink, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Regional Environmental Engineer - Compliance, AWS Environmental Team](https://www.linkedin.com/jobs/view/4468857045/) — Amazon Web Services (AWS)
+- 📍 **Location:** Andrews, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Regional Environmental Engineer - Compliance, AWS Environmental Team](https://www.linkedin.com/jobs/view/4468835961/) — Amazon Web Services (AWS)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Air Quality Engineer, AWS Environmental](https://www.linkedin.com/jobs/view/4468852146/) — Amazon Web Services (AWS)
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-09-18
+
+### [Air Quality Engineer, AWS Environmental](https://www.linkedin.com/jobs/view/4468845460/) — Amazon Web Services (AWS)
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-09-18
+
+### [Air Quality Engineer, AWS Environmental](https://www.linkedin.com/jobs/view/4468835956/) — Amazon Web Services (AWS)
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-09-18
+
+### [Air Quality Engineer, AWS Environmental](https://www.linkedin.com/jobs/view/4468844824/) — Amazon Web Services (AWS)
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-09-18
+
+### [Air Quality Engineer, AWS Environmental](https://www.linkedin.com/jobs/view/4468841871/) — Amazon Web Services (AWS)
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-09-18
+
+### [Air Quality Engineer, AWS Environmental](https://www.linkedin.com/jobs/view/4468840881/) — Amazon Web Services (AWS)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Air Quality Engineer, AWS Environmental](https://www.linkedin.com/jobs/view/4468848229/) — Amazon Web Services (AWS)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Air Quality Engineer, AWS Environmental](https://www.linkedin.com/jobs/view/4468846293/) — Amazon Web Services (AWS)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Sr. Regional Enviro Engineer -Water Compliance, AWS Environmental Team](https://www.linkedin.com/jobs/view/4468847220/) — Amazon Web Services (AWS)
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-09-18
+
+### [Global Environmental Biodiversity Program Lead, AWS Environmental](https://www.linkedin.com/jobs/view/4468850168/) — Amazon Web Services (AWS)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Environmental Services / Custodial Manager 1](https://www.linkedin.com/jobs/view/4468847481/) — Sodexo
+- 📍 **Location:** Buffalo, NY
+- 💰 **Salary:** $48,875.00/yr - $63,250.00/yr
+- 🕒 **Posted:** 2026-09-18
+
+### [Remote Sensing Engineer](https://www.linkedin.com/jobs/view/4459630150/) — Riverside Research
+- 📍 **Location:** Springfield, VA
+- 💰 **Salary:** $97,000 - $135,000
 - 🕒 **Posted:** 2026-09-17
 
-### [GIS and Geospatial Data Specialist Consultant](https://www.linkedin.com/jobs/view/4468825427/) — Global Green Growth Institute
-- 📍 **Location:** Asuncion, Asunción, Paraguay
+### [Senior GIS Technician](https://www.linkedin.com/jobs/view/4466622472/) — mua Group
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Environmental Planning and Siting Specialist](https://www.linkedin.com/jobs/view/4468815925/) — WSP in the U.S.
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $77,000 - $135,000
+### [Biodiversity Officer](https://www.linkedin.com/jobs/view/4467831136/) — Wannon Water
+- 📍 **Location:** Warrnambool, Victoria, Australia
+- 💰 **Salary:** $94,275 to $102,499
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Environmental Planning and Siting Specialist](https://www.linkedin.com/jobs/view/4468831119/) — WSP in the U.S.
-- 📍 **Location:** Exton, PA
-- 💰 **Salary:** $77,000 - $135,000
+### [Environmental Principal](https://www.linkedin.com/jobs/view/4468845361/) — Apex Companies
+- 📍 **Location:** Signal Hill, CA
+- 💰 **Salary:** $130,000 USD - $170,000 USD
 - 🕒 **Posted:** 2026-09-17
 
-### [CRE Environmental Risk Review Analyst](https://www.linkedin.com/jobs/view/4468814950/) — JPMorganChase
-- 📍 **Location:** Bengaluru, Karnataka, India
+### [Environment Officer (Conservation)](https://www.linkedin.com/jobs/view/4468850031/) — Cyfoeth Naturiol Cymru / Natural Resources Wales
+- 📍 **Location:** Melin-Y-Coed, Wales, United Kingdom
 - 🕒 **Posted:** 2026-09-17
 
-### [Environmental Permitting Specialist/Natural Resource Scientist](https://www.linkedin.com/jobs/view/4466628145/) — AECOM
-- 📍 **Location:** Chelmsford, MA
-- 💰 **Salary:** $94,000.00/yr - $130,000.00/yr
+### [Environmental Principal](https://www.linkedin.com/jobs/view/4468828982/) — Apex Companies
+- 📍 **Location:** Thousand Oaks, CA
+- 💰 **Salary:** $130,000 USD - $170,000 USD
 - 🕒 **Posted:** 2026-09-17
 
-### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4467597605/) — EnSafe
-- 📍 **Location:** Nashville, TN
+### [Executive Director, Public Works and Environmental Services](https://www.linkedin.com/jobs/view/4468842763/) — Regional Municipality of Wood Buffalo
+- 📍 **Location:** Fort McMurray, Alberta, Canada
 - 🕒 **Posted:** 2026-09-17
 
-### [Wetland Delineator-Field Lead](https://www.linkedin.com/jobs/view/4468824026/) — Tetra Tech
-- 📍 **Location:** Houston, TX
+### [Environment Officer (Conservation)](https://www.linkedin.com/jobs/view/4468833886/) — Cyfoeth Naturiol Cymru / Natural Resources Wales
+- 📍 **Location:** Melin-Y-Coed, Wales, United Kingdom
 - 🕒 **Posted:** 2026-09-17
 
-### [Environmental Geologist/Engineer/Scientist](https://www.linkedin.com/jobs/view/4467800578/) — EnSafe
-- 📍 **Location:** Long Beach, CA
+### [Environmental Principal](https://www.linkedin.com/jobs/view/4468848120/) — Apex Companies
+- 📍 **Location:** Pleasant Hill, CA
+- 💰 **Salary:** $130,000 USD - $170,000 USD
 - 🕒 **Posted:** 2026-09-17
 
-### [Wildlife Ecologist | Mt Gibson](https://www.linkedin.com/jobs/view/4468823100/) — Australian Wildlife Conservancy
-- 📍 **Location:** Wubin, Western Australia, Australia
+### [Environmental Technician 2](https://www.linkedin.com/jobs/view/4468847089/) — Apex Companies
+- 📍 **Location:** Pleasant Hill, CA
+- 💰 **Salary:** $30 USD - $40 USD
 - 🕒 **Posted:** 2026-09-17
 
-### [Natural Resources Water Educator](https://www.linkedin.com/jobs/view/4468812599/) — University of Wisconsin-Madison
-- 📍 **Location:** Wisconsin Rapids, WI
-- 🕒 **Posted:** 2026-09-17
-
-### [Major Trauma Centre NMTR Data Coordinator](https://www.linkedin.com/jobs/view/4468822506/) — Bristol NHS Foundation Trust
-- 📍 **Location:** Bristol, England, United Kingdom
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Environmental Project Manager - CERCLA/RCRA](https://www.linkedin.com/jobs/view/4468806497/) — W3Global
-- 📍 **Location:** Marietta, OH
-- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Principal Environmental Impact Assessment (EIA) Consultant](https://www.linkedin.com/jobs/view/4468828324/) — Jacobs
-- 📍 **Location:** Bristol, England, United Kingdom
-- 🕒 **Posted:** 2026-09-17
-
-### [Principal Environmental Impact Assessment (EIA) Consultant](https://www.linkedin.com/jobs/view/4468824412/) — Jacobs
-- 📍 **Location:** Birmingham, England, United Kingdom
-- 🕒 **Posted:** 2026-09-17
-
-### [Project Executant- East Usambara Restoration Project](https://www.linkedin.com/jobs/view/4468843064/) — WWF Cities
-- 📍 **Location:** Tanzania
-- 🕒 **Posted:** 2026-09-17
-
-### [Internships /Volunteering: Environmental Marketing Officer](https://www.linkedin.com/jobs/view/4468821492/) — Embrace the Earth
-- 📍 **Location:** Aarschot, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-09-17
-
-### [Sr Environmental Project Manager](https://www.linkedin.com/jobs/view/4468823187/) — Apex Companies
-- 📍 **Location:** Woburn, MA
-- 💰 **Salary:** $145,000 USD - $155,000 USD
-- 🕒 **Posted:** 2026-09-17
-
-### [Sr Environmental Project Manager](https://www.linkedin.com/jobs/view/4468830079/) — Apex Companies
-- 📍 **Location:** Quincy, MA
-- 💰 **Salary:** $145,000 USD - $155,000 USD
-- 🕒 **Posted:** 2026-09-17
-
-### [Environmental Scientist/Geologist (CT)](https://www.linkedin.com/jobs/view/4467814069/) — Weston & Sampson
-- 📍 **Location:** Rocky Hill, CT
-- 💰 **Salary:** $55,000.00/yr - $57,000.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Assistant or Associate Professor - Rangeland Ecology and Management](https://www.linkedin.com/jobs/view/4467599720/) — University of Idaho
-- 📍 **Location:** Moscow, ID
-- 🕒 **Posted:** 2026-09-17
-
-### [Staff Environmental Planner](https://www.linkedin.com/jobs/view/4467802750/) — ECORP Consulting, Inc.
-- 📍 **Location:** Chico, CA
-- 💰 **Salary:** $35.00 to $45.00 per hour
-- 🕒 **Posted:** 2026-09-17
-
-### [Staff Environmental Planner](https://www.linkedin.com/jobs/view/4467597726/) — ECORP Consulting, Inc.
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $35.00 to $45.00 per hour
-- 🕒 **Posted:** 2026-09-17
-
-### [Field Restoration Specialist II](https://www.linkedin.com/jobs/view/4467804511/) — Cityside Fiber
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $23–$25 per hour
+### [Environmental Technician 2](https://www.linkedin.com/jobs/view/4468831992/) — Apex Companies
+- 📍 **Location:** Signal Hill, CA
+- 💰 **Salary:** $30 USD - $40 USD
 - 🕒 **Posted:** 2026-09-17
