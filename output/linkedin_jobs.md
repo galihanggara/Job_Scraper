@@ -1,172 +1,126 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-18 18:57 UTC*
+*Last updated: 2026-09-18 22:05 UTC*
 
-**38 new role(s)** since last run · 38 total in last 1h
+**27 new role(s)** since last run · 27 total in last 1h
 
-### [Senior GIS Analyst](https://www.linkedin.com/jobs/view/4469201881/) — Stream Realty Partners
-- 📍 **Location:** United States
+### [Environmental Engineer/Geologist/Specialist](https://www.linkedin.com/jobs/view/4469244544/) — SpecPro Sustainment and Environmental, LLC
+- 📍 **Location:** Augusta, GA
 - 🕒 **Posted:** 2026-09-18
 
-### [Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4431891634/) — WSP in the U.S.
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** $76,600 - $90,300
+### [Environmental Senior Field Coordinator](https://www.linkedin.com/jobs/view/4469243342/) — SynergyAspen Environmental Inc.
+- 📍 **Location:** Fort St John, British Columbia, Canada
+- 💰 **Salary:** $38 to $47/hour
 - 🕒 **Posted:** 2026-09-18
 
-### [Intermediate Professional, Environmental Engineering](https://www.linkedin.com/jobs/view/4449189817/) — WSP in the U.S.
-- 📍 **Location:** Fort Wayne, IN
-- 💰 **Salary:** $74,100 - $92,600
+### [Environmental Compliance Specialist II](https://www.linkedin.com/jobs/view/4466921654/) — Alliance Technical Group
+- 📍 **Location:** Milwaukee, WI
+- 💰 **Salary:** $80,000-$85,000
 - 🕒 **Posted:** 2026-09-18
 
-### [Environmental Specialist 3](https://www.linkedin.com/jobs/view/4469195922/) — GAI Consultants, Inc.
-- 📍 **Location:** Charlotte, NC
+### [Senior Environmental Consulting Professional](https://www.linkedin.com/jobs/view/4468030345/) — EnSafe
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $120,000 - $220,000 USD
 - 🕒 **Posted:** 2026-09-18
 
-### [Geomatics & Remote Sensing Business Class Lead](https://www.linkedin.com/jobs/view/4467895586/) — HDR
-- 📍 **Location:** Columbia, MO
+### [Senior Environmental Consulting Professional](https://www.linkedin.com/jobs/view/4468019433/) — EnSafe
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $120,000 - $220,000 USD
 - 🕒 **Posted:** 2026-09-18
 
-### [Geomatics & Remote Sensing Business Class Lead](https://www.linkedin.com/jobs/view/4467891689/) — HDR
-- 📍 **Location:** Springfield, MO
+### [Senior Technical Manager, Environmental Engineer](https://www.linkedin.com/jobs/view/4469255128/) — WSP in the U.S.
+- 📍 **Location:** Duluth, GA
 - 🕒 **Posted:** 2026-09-18
 
-### [Global GIS Lead (Principal GIS Consultant)](https://www.linkedin.com/jobs/view/4460320923/) — Blue Power Partners
-- 📍 **Location:** Chennai, Tamil Nadu, India
+### [Senior Technical Manager, Environmental Engineer](https://www.linkedin.com/jobs/view/4469260010/) — WSP in the U.S.
+- 📍 **Location:** Kennesaw, GA
 - 🕒 **Posted:** 2026-09-18
 
-### [Intermediate Environmental Engineer or Scientist](https://www.linkedin.com/jobs/view/4410316405/) — WSP in Canada
-- 📍 **Location:** St. Catharines, Ontario, Canada
-- 💰 **Salary:** $69,700 – $92,300
+### [Senior Technical Manager, Environmental Engineer](https://www.linkedin.com/jobs/view/4469257150/) — WSP in the U.S.
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-09-18
 
-### [Junior Biologist / Junior Environmental Professional](https://www.linkedin.com/jobs/view/4422479449/) — BBA Consultants
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-09-18
-
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4469215043/) — Whitestone Associates, Inc.
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $60,000 USD - $85,000 USD
-- 🕒 **Posted:** 2026-09-18
-
-### [Autonomy Integration Engineer - Drone Stack](https://www.linkedin.com/jobs/view/4467897607/) — Applied Intuition
-- 📍 **Location:** Freeport, FL
-- 💰 **Salary:** $120,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-09-18
-
-### [Drone Project Superintendent](https://www.linkedin.com/jobs/view/4464225912/) — Acuren
-- 📍 **Location:** Cincinnati, OH
-- 🕒 **Posted:** 2026-09-18
-
-### [Geomatics & Remote Sensing Business Class Lead](https://www.linkedin.com/jobs/view/4468008430/) — HDR
-- 📍 **Location:** Forsyth, MO
-- 🕒 **Posted:** 2026-09-18
-
-### [Autonomy Integration Engineer - Drone Stack](https://www.linkedin.com/jobs/view/4467889932/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $135,000.00/yr - $195,000.00/yr
-- 🕒 **Posted:** 2026-09-18
-
-### [UAV Controls And Simulation Engineer](https://www.linkedin.com/jobs/view/4444017608/) — optim.Aero
-- 📍 **Location:** United States
-- 💰 **Salary:** $70-$100/hour
-- 🕒 **Posted:** 2026-09-18
-
-### [Entry Level Environmental Geologist / Scientist](https://www.linkedin.com/jobs/view/4469178824/) — Jacobs
+### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4469251014/) — Tetra Tech
 - 📍 **Location:** Midland, TX
-- 💰 **Salary:** $58,656.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-09-18
 
-### [Tenured and Tenure-Track Faculty in Environmental Health](https://www.linkedin.com/jobs/view/4468005008/) — Rice University
-- 📍 **Location:** Houston, TX
+### [Environmental Technician](https://www.linkedin.com/jobs/view/4468025392/) — RWDI
+- 📍 **Location:** Windsor, Ontario, Canada
+- 💰 **Salary:** $55,000 – $65,000
 - 🕒 **Posted:** 2026-09-18
 
-### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4450205214/) — RPS
-- 📍 **Location:** Cairns, Queensland, Australia
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468027252/) — HDR
+- 📍 **Location:** Omaha, NE
 - 🕒 **Posted:** 2026-09-18
 
-### [Intermediate Aquatic Biologist/Environmental Professional](https://www.linkedin.com/jobs/view/4429491062/) — BBA Consultants
-- 📍 **Location:** Sherwood Park, Alberta, Canada
+### [Managing Environmental Health Scientist](https://www.linkedin.com/jobs/view/4468232513/) — Ramboll
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $149,365 to $165,000
 - 🕒 **Posted:** 2026-09-18
 
-### [Geomatics & Remote Sensing Business Class Lead](https://www.linkedin.com/jobs/view/4467896604/) — HDR
-- 📍 **Location:** St Louis, MO
+### [Environmental Senior / Account Manager](https://www.linkedin.com/jobs/view/4469253089/) — SynergyAspen Environmental Inc.
+- 📍 **Location:** Fort St John, British Columbia, Canada
+- 💰 **Salary:** $48.08 to $72.11
 - 🕒 **Posted:** 2026-09-18
 
-### [Sr Business Director - Environmental Services](https://www.linkedin.com/jobs/view/4449908973/) — Univar Solutions
-- 📍 **Location:** Dublin, OH
-- 💰 **Salary:** $223,000 - $265,000 annually
+### [Wildlife Ecologist | Mornington](https://www.linkedin.com/jobs/view/4463114678/) — Australian Wildlife Conservancy
+- 📍 **Location:** Kimberley, Western Australia, Australia
 - 🕒 **Posted:** 2026-09-18
 
-### [Sr Business Director - Environmental Services](https://www.linkedin.com/jobs/view/4449926046/) — Univar Solutions
-- 📍 **Location:** Bedford Park, IL
-- 💰 **Salary:** $223,000 - $265,000 annually
+### [Environmental & Erosion Control Manager](https://www.linkedin.com/jobs/view/4468013920/) — Ralph L. Wadsworth Construction
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-09-18
 
-### [Land Use and Zoning Associate | Dallas | Am Law 200 ranked](https://www.linkedin.com/jobs/view/4466930007/) — We Are Legal Revolution
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468296198/) — Ramboll
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $82,500 - $107,000 per year
 - 🕒 **Posted:** 2026-09-18
 
-### [💥 NEW | Land Use & Entitlements Attorney | Leading California Real Estate Practice | Up to $240k + Bonus | Hybrid | 📍 San Francisco](https://www.linkedin.com/jobs/view/4466922162/) — We Are Revolution
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $100,000.00/yr - $240,000.00/yr
+### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468291276/) — Ramboll
+- 📍 **Location:** Portland, ME
+- 💰 **Salary:** $82,500 - $107,000 per year
 - 🕒 **Posted:** 2026-09-18
 
-### [Environmental Permitting Manager](https://www.linkedin.com/jobs/view/4458689194/) — WSP in the U.S.
-- 📍 **Location:** Binghamton, NY
-- 💰 **Salary:** $92,700 - $137,700
+### [Quality Data Coordinator Nonexempt](https://www.linkedin.com/jobs/view/4469258153/) — AdventHealth
+- 📍 **Location:** Greenwood Village, CO
+- 💰 **Salary:** $27.38 - $50.92
 - 🕒 **Posted:** 2026-09-18
 
-### [Environmental Planner](https://www.linkedin.com/jobs/view/4469210516/) — Dillon Consulting Limited
-- 📍 **Location:** London, Ontario, Canada
-- 💰 **Salary:** $60,000 - $90,000
+### [Environmental Professional (UST / AST)](https://www.linkedin.com/jobs/view/4469246407/) — Kleinfelder
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $52,656 - $87,906
 - 🕒 **Posted:** 2026-09-18
 
-### [Environmental Planner](https://www.linkedin.com/jobs/view/4469213118/) — Dillon Consulting Limited
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 💰 **Salary:** $60,000 - $90,000
+### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468304079/) — Ramboll
+- 📍 **Location:** Hartford, CT
+- 💰 **Salary:** $82,500 - $107,000 per year
 - 🕒 **Posted:** 2026-09-18
 
-### [Phoenix - Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4423998475/) — Nevada Gold Mines
-- 📍 **Location:** Battle Mountain, NV
+### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468300195/) — Ramboll
+- 📍 **Location:** Westford, MA
+- 💰 **Salary:** $82,500 - $107,000 per year
 - 🕒 **Posted:** 2026-09-18
 
-### [On-Call Field Biologist / Environmental Planner](https://www.linkedin.com/jobs/view/4449301649/) — WSP in the U.S.
-- 📍 **Location:** Albuquerque, NM
+### [Master Data Coordinator](https://www.linkedin.com/jobs/view/4469249203/) — Visual Comfort & Co.
+- 📍 **Location:** Skokie, IL
 - 🕒 **Posted:** 2026-09-18
 
-### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4466907961/) — Urba Marker
-- 📍 **Location:** Karāchi, Sindh, Pakistan
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4469246072/) — Clarios
+- 📍 **Location:** St Joseph, MO
 - 🕒 **Posted:** 2026-09-18
 
-### [Senior Wetland Ecologist](https://www.linkedin.com/jobs/view/4440622491/) — WSP in the U.S.
-- 📍 **Location:** Laramie, WY
-- 💰 **Salary:** $74,200 - $146,900
+### [Field Environmental Manager - Solar - MS](https://www.linkedin.com/jobs/view/4469243612/) — Black & Veatch
+- 📍 **Location:** Cleveland, MS
 - 🕒 **Posted:** 2026-09-18
 
-### [Geomatics & Remote Sensing Business Class Lead](https://www.linkedin.com/jobs/view/4467893654/) — HDR
-- 📍 **Location:** Wichita, KS
+### [Field Environmental Manager - Solar - FL, GA](https://www.linkedin.com/jobs/view/4469249438/) — Black & Veatch
+- 📍 **Location:** Florida, United States
 - 🕒 **Posted:** 2026-09-18
 
-### [Geomatics & Remote Sensing Business Class Lead](https://www.linkedin.com/jobs/view/4467895587/) — HDR
-- 📍 **Location:** Kansas City, MO
+### [Senior Director, Environmental Compliance](https://www.linkedin.com/jobs/view/4468021387/) — Veolia | North America
+- 📍 **Location:** Haworth, NJ
+- 💰 **Salary:** $180000 to $200000 Per Year
 - 🕒 **Posted:** 2026-09-18
 
-### [CCTV Rig Leader – Sewer Rehabilitation & Surveys](https://www.linkedin.com/jobs/view/4469199782/) — Environmental Techniques
-- 📍 **Location:** Lisburn, Northern Ireland, United Kingdom
-- 🕒 **Posted:** 2026-09-18
-
-### [Principal – Natural Capital (Flexible around location)](https://www.linkedin.com/jobs/view/4467737593/) — AtkinsRéalis
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-18
-
-### [Project Manager / GIS Expert_BID Position](https://www.linkedin.com/jobs/view/4469215259/) — SYSTRA
-- 📍 **Location:** Greater Delhi Area
-- 🕒 **Posted:** 2026-09-18
-
-### [Chief Safety, Health and Environmental Expert – Elevated- BID Position](https://www.linkedin.com/jobs/view/4469224080/) — SYSTRA
-- 📍 **Location:** Greater Delhi Area
-- 🕒 **Posted:** 2026-09-18
-
-### [SALES MANAGER – WASTE MANAGEMENT / ENVIRONMENTAL SERVICES](https://www.linkedin.com/jobs/view/4466612462/) — NexusArc HR Consultants and Recruitment Firm
-- 📍 **Location:** Thane, Maharashtra, India
+### [Major Trauma Centre NMTR Data Coordinator](https://www.linkedin.com/jobs/view/4469238807/) — Bristol NHS Foundation Trust
+- 📍 **Location:** Bristol, England, United Kingdom
 - 🕒 **Posted:** 2026-09-18
