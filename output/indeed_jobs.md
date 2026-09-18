@@ -1,9 +1,6 @@
 # 🟦 Indeed — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-17 22:37 UTC*
+*Last updated: 2026-09-18 00:49 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**0 new role(s)** since last run · 0 total in last 24h
 
-### [Technical Associate – Environmental (GIS and Coding) - Retainer](https://www.indeed.com/viewjob?jk=c1840c15ea36f62b) — United Nations Office for Project Services
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-17
+No new roles since the last run.
