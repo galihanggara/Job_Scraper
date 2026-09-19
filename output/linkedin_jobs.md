@@ -1,126 +1,199 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-18 22:05 UTC*
+*Last updated: 2026-09-19 00:47 UTC*
 
-**27 new role(s)** since last run · 27 total in last 1h
+**41 new role(s)** since last run · 41 total in last 1h
 
-### [Environmental Engineer/Geologist/Specialist](https://www.linkedin.com/jobs/view/4469244544/) — SpecPro Sustainment and Environmental, LLC
-- 📍 **Location:** Augusta, GA
-- 🕒 **Posted:** 2026-09-18
+### [Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions](https://www.linkedin.com/jobs/view/4469261965/) — Deloitte
+- 📍 **Location:** Gilbert, AZ
+- 🕒 **Posted:** 2026-09-19
 
-### [Environmental Senior Field Coordinator](https://www.linkedin.com/jobs/view/4469243342/) — SynergyAspen Environmental Inc.
-- 📍 **Location:** Fort St John, British Columbia, Canada
-- 💰 **Salary:** $38 to $47/hour
-- 🕒 **Posted:** 2026-09-18
+### [Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions](https://www.linkedin.com/jobs/view/4469272432/) — Deloitte
+- 📍 **Location:** Lake Mary, FL
+- 🕒 **Posted:** 2026-09-19
 
-### [Environmental Compliance Specialist II](https://www.linkedin.com/jobs/view/4466921654/) — Alliance Technical Group
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $80,000-$85,000
-- 🕒 **Posted:** 2026-09-18
+### [Lead Geospatial Data Engineer](https://www.linkedin.com/jobs/view/4466935814/) — Logic20/20, Inc.
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $173,077.00/yr - $179,863.00/yr
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Environmental Consulting Professional](https://www.linkedin.com/jobs/view/4468030345/) — EnSafe
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $120,000 - $220,000 USD
-- 🕒 **Posted:** 2026-09-18
+### [Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions](https://www.linkedin.com/jobs/view/4469278362/) — Deloitte
+- 📍 **Location:** Mechanicsburg, PA
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Environmental Consulting Professional](https://www.linkedin.com/jobs/view/4468019433/) — EnSafe
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $120,000 - $220,000 USD
-- 🕒 **Posted:** 2026-09-18
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4466942130/) — TRC Companies, Inc.
+- 📍 **Location:** Exton, PA
+- 💰 **Salary:** USD $23.10 - USD $26.00 /Hr
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Technical Manager, Environmental Engineer](https://www.linkedin.com/jobs/view/4469255128/) — WSP in the U.S.
-- 📍 **Location:** Duluth, GA
-- 🕒 **Posted:** 2026-09-18
+### [Lead Geospatial Data Engineer](https://www.linkedin.com/jobs/view/4469281287/) — Logic20/20, Inc.
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $173,077.00/yr - $179,863.00/yr
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Technical Manager, Environmental Engineer](https://www.linkedin.com/jobs/view/4469260010/) — WSP in the U.S.
-- 📍 **Location:** Kennesaw, GA
-- 🕒 **Posted:** 2026-09-18
+### [Lead Electrical Engineer (UAV/UAS)](https://www.linkedin.com/jobs/view/4468058033/) — Drone.vet
+- 📍 **Location:** Rockville, MD
+- 💰 **Salary:** $140,000-190,000 Annually
+- 🕒 **Posted:** 2026-09-19
 
-### [Senior Technical Manager, Environmental Engineer](https://www.linkedin.com/jobs/view/4469257150/) — WSP in the U.S.
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-09-18
+### [(104) Commercial Drone Pilot/Aerial Applicator](https://www.linkedin.com/jobs/view/4468035885/) — Drone.vet
+- 📍 **Location:** Bartow, FL
+- 🕒 **Posted:** 2026-09-19
 
-### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4469251014/) — Tetra Tech
-- 📍 **Location:** Midland, TX
-- 🕒 **Posted:** 2026-09-18
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468052166/) — HDR
+- 📍 **Location:** Savannah, GA
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
 
-### [Environmental Technician](https://www.linkedin.com/jobs/view/4468025392/) — RWDI
-- 📍 **Location:** Windsor, Ontario, Canada
-- 💰 **Salary:** $55,000 – $65,000
-- 🕒 **Posted:** 2026-09-18
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468044286/) — HDR
+- 📍 **Location:** Greenville, SC
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
 
-### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468027252/) — HDR
-- 📍 **Location:** Omaha, NE
-- 🕒 **Posted:** 2026-09-18
+### [Supervisory Wildlife Biologist (Assistant District Supervisor)](https://www.linkedin.com/jobs/view/4469282286/) — USDA Animal and Plant Health Inspection Service (APHIS)
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-09-19
 
-### [Managing Environmental Health Scientist](https://www.linkedin.com/jobs/view/4468232513/) — Ramboll
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $149,365 to $165,000
-- 🕒 **Posted:** 2026-09-18
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468055053/) — HDR
+- 📍 **Location:** Winston-Salem, NC
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
 
-### [Environmental Senior / Account Manager](https://www.linkedin.com/jobs/view/4469253089/) — SynergyAspen Environmental Inc.
-- 📍 **Location:** Fort St John, British Columbia, Canada
-- 💰 **Salary:** $48.08 to $72.11
-- 🕒 **Posted:** 2026-09-18
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468054086/) — HDR
+- 📍 **Location:** Columbia, SC
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
 
-### [Wildlife Ecologist | Mornington](https://www.linkedin.com/jobs/view/4463114678/) — Australian Wildlife Conservancy
-- 📍 **Location:** Kimberley, Western Australia, Australia
-- 🕒 **Posted:** 2026-09-18
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468040472/) — HDR
+- 📍 **Location:** Jacksonville, FL
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
 
-### [Environmental & Erosion Control Manager](https://www.linkedin.com/jobs/view/4468013920/) — Ralph L. Wadsworth Construction
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-09-18
+### [Medior Contractmanager energietransitie UAV-GC](https://www.linkedin.com/jobs/view/4469279205/) — Dosign
+- 📍 **Location:** Dordrecht, South Holland, Netherlands
+- 🕒 **Posted:** 2026-09-19
 
-### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468296198/) — Ramboll
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $82,500 - $107,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468291276/) — Ramboll
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468036957/) — HDR
 - 📍 **Location:** Portland, ME
-- 💰 **Salary:** $82,500 - $107,000 per year
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468036958/) — HDR
+- 📍 **Location:** El Paso, TX
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [ENVIRONMENTAL HYDROGEOLOGIST](https://www.linkedin.com/jobs/view/4466931931/) — Arizona Department of Environmental Quality ADEQ
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $65K-$70K
+- 🕒 **Posted:** 2026-09-19
+
+### [Unmanned Aerial Systems (UAS)/Drone Technology Instructor](https://www.linkedin.com/jobs/view/4468048182/) — Drone.vet
+- 📍 **Location:** Hanceville, AL
+- 🕒 **Posted:** 2026-09-19
+
+### [Drone Engineer](https://www.linkedin.com/jobs/view/4468050164/) — Drone.vet
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $100,000 - $125,000
+- 🕒 **Posted:** 2026-09-19
+
+### [UAV Instructor/Technician Part-time](https://www.linkedin.com/jobs/view/4468036935/) — Drone.vet
+- 📍 **Location:** Fort Collins, CO
+- 💰 **Salary:** $75,000 - $80,000
+- 🕒 **Posted:** 2026-09-19
+
+### [(115) Commercial Drone Pilot/Aerial Applicator](https://www.linkedin.com/jobs/view/4468051142/) — Drone.vet
+- 📍 **Location:** Candor, NC
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468058047/) — HDR
+- 📍 **Location:** Greater Cleveland
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468044290/) — HDR
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468039791/) — HDR
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468042318/) — HDR
+- 📍 **Location:** Iowa, United States
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468052160/) — HDR
+- 📍 **Location:** Tennessee, United States
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468049148/) — HDR
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468036954/) — HDR
+- 📍 **Location:** Greater Sioux Falls Area
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468043327/) — HDR
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468051157/) — HDR
+- 📍 **Location:** Omaha, NE
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468046238/) — HDR
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468039796/) — HDR
+- 📍 **Location:** St Louis Park, MN
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468035896/) — HDR
+- 📍 **Location:** Baton Rouge, LA
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468037891/) — HDR
+- 📍 **Location:** Greater Lansing
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468035894/) — HDR
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468038749/) — HDR
+- 📍 **Location:** Fort Mill, SC
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468057057/) — HDR
+- 📍 **Location:** Cheyenne, WY
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468038751/) — HDR
+- 📍 **Location:** Madison, WI
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior GIS Technician](https://www.linkedin.com/jobs/view/4466924954/) — mua Group
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-18
 
-### [Quality Data Coordinator Nonexempt](https://www.linkedin.com/jobs/view/4469258153/) — AdventHealth
-- 📍 **Location:** Greenwood Village, CO
-- 💰 **Salary:** $27.38 - $50.92
-- 🕒 **Posted:** 2026-09-18
-
-### [Environmental Professional (UST / AST)](https://www.linkedin.com/jobs/view/4469246407/) — Kleinfelder
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $52,656 - $87,906
-- 🕒 **Posted:** 2026-09-18
-
-### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468304079/) — Ramboll
-- 📍 **Location:** Hartford, CT
-- 💰 **Salary:** $82,500 - $107,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Lead Consultant, Environmental Due Diligence](https://www.linkedin.com/jobs/view/4468300195/) — Ramboll
-- 📍 **Location:** Westford, MA
-- 💰 **Salary:** $82,500 - $107,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Master Data Coordinator](https://www.linkedin.com/jobs/view/4469249203/) — Visual Comfort & Co.
-- 📍 **Location:** Skokie, IL
-- 🕒 **Posted:** 2026-09-18
-
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4469246072/) — Clarios
-- 📍 **Location:** St Joseph, MO
-- 🕒 **Posted:** 2026-09-18
-
-### [Field Environmental Manager - Solar - MS](https://www.linkedin.com/jobs/view/4469243612/) — Black & Veatch
-- 📍 **Location:** Cleveland, MS
-- 🕒 **Posted:** 2026-09-18
-
-### [Field Environmental Manager - Solar - FL, GA](https://www.linkedin.com/jobs/view/4469249438/) — Black & Veatch
-- 📍 **Location:** Florida, United States
-- 🕒 **Posted:** 2026-09-18
-
-### [Senior Director, Environmental Compliance](https://www.linkedin.com/jobs/view/4468021387/) — Veolia | North America
-- 📍 **Location:** Haworth, NJ
-- 💰 **Salary:** $180000 to $200000 Per Year
-- 🕒 **Posted:** 2026-09-18
-
-### [Major Trauma Centre NMTR Data Coordinator](https://www.linkedin.com/jobs/view/4469238807/) — Bristol NHS Foundation Trust
-- 📍 **Location:** Bristol, England, United Kingdom
+### [Project Manager, Natural Resources](https://www.linkedin.com/jobs/view/4468018898/) — RK&K
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-09-18
