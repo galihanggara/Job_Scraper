@@ -1,21 +1,13 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-19 23:26 UTC*
+*Last updated: 2026-09-20 01:36 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Residential Field Technician - Drone Pilot](https://www.linkedin.com/jobs/view/4466988536/) — PostJobFree
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $80 - $125 per survey
-- 🕒 **Posted:** 2026-09-19
+### [Deputy General Manager / General Manager- Distributed Renewable Energy : SwitchON Foundation (Environment Conservation Society)](https://www.linkedin.com/jobs/view/4467309052/) — DevInfoIN
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-09-20
 
-### [Land Use and Environmental Attorney](https://www.linkedin.com/jobs/view/4469564332/) — Barbas Cremer, PLLC
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-09-19
-
-### [Health, Safety and Environmental Manager](https://www.linkedin.com/jobs/view/4469571073/) — Jobs.co.uk
-- 📍 **Location:** Warwick, England, United Kingdom
-- 🕒 **Posted:** 2026-09-19
-
-### [Getty Post-Baccalaureate Conservation Internships](https://www.linkedin.com/jobs/view/4467302322/) — Collections That Care
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-19
+### [Environmental Health & Safety (EHS) Specialist](https://www.linkedin.com/jobs/view/4468423145/) — CV Resources
+- 📍 **Location:** Ontario, CA
+- 💰 **Salary:** $70,000–$78,500
+- 🕒 **Posted:** 2026-09-20
