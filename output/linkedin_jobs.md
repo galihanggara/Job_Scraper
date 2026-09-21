@@ -1,118 +1,102 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-21 20:23 UTC*
+*Last updated: 2026-09-21 23:42 UTC*
 
-**26 new role(s)** since last run · 26 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [Environmental Data & GIS Innovation Lead (Program Admin Officer 4)](https://www.linkedin.com/jobs/view/4469950627/) — Government of Nova Scotia
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 💰 **Salary:** $3,410.48 - $4,005.58
+### [Research Specialist (Geospatial/Stats)](https://www.linkedin.com/jobs/view/4459429530/) — CNA Corporation
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $64,200 - $70,000
 - 🕒 **Posted:** 2026-09-21
 
-### [Geospatial Support Specialist](https://www.linkedin.com/jobs/view/4469957451/) — Anakim Consulting Incorporated
-- 📍 **Location:** Garretson, SD
+### [LiDAR-UAV Analyst](https://www.linkedin.com/jobs/view/4469987486/) — Weyerhaeuser
+- 📍 **Location:** Centralia, WA
+- 💰 **Salary:** $90,244 - $135,509
 - 🕒 **Posted:** 2026-09-21
 
-### [Scientific Computing & Spatial Analytics Engineer](https://www.linkedin.com/jobs/view/4468764843/) — SoftServe
-- 📍 **Location:** Poland
+### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4470206223/) — ICF
+- 📍 **Location:** Fort Collins, CO
+- 💰 **Salary:** $81,147.00 - $137,949.00
 - 🕒 **Posted:** 2026-09-21
 
-### [Scientific Computing & Spatial Analytics Engineer](https://www.linkedin.com/jobs/view/4468778007/) — SoftServe
-- 📍 **Location:** Bulgaria
+### [GIS Analyst (On-Call)](https://www.linkedin.com/jobs/view/4469994947/) — ICF
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $60,967.00 - $103,643.00
 - 🕒 **Posted:** 2026-09-21
 
-### [CIRES/ CSL Temporary Researcher, Lidar Scientist](https://www.linkedin.com/jobs/view/4469950964/) — University of Colorado Boulder
-- 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $48.56 - $64.42 per hour
+### [Principal Ecological Consultant - Edinburgh / Glasgow](https://www.linkedin.com/jobs/view/4468191011/) — Pegasus Group
+- 📍 **Location:** Edinburgh, Scotland, United Kingdom
 - 🕒 **Posted:** 2026-09-21
 
-### [Environmental Staff Project Manager I](https://www.linkedin.com/jobs/view/4469967043/) — ECS Group of Companies
-- 📍 **Location:** Mount Laurel, NJ
-- 💰 **Salary:** $55,000 - $65,000/year
+### [Drone & Geospatial Specialist](https://www.linkedin.com/jobs/view/4470202405/) — EA Engineering, Science, and Technology, Inc., PBC
+- 📍 **Location:** Hunt Valley, MD
+- 💰 **Salary:** $65,000—$85,000 USD
 - 🕒 **Posted:** 2026-09-21
 
-### [Environmental Staff Project Manager I](https://www.linkedin.com/jobs/view/4469951690/) — ECS Group of Companies
-- 📍 **Location:** King of Prussia, PA
-- 💰 **Salary:** $55,000 - $65,000/year
+### [ENVIRONMENTAL SCIENTIST](https://www.linkedin.com/jobs/view/4468180234/) — Caltrans
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $4,418.00/mo - $9,321.00/mo
 - 🕒 **Posted:** 2026-09-21
 
-### [Scientific Computing & Spatial Analytics Engineer](https://www.linkedin.com/jobs/view/4468758900/) — SoftServe
-- 📍 **Location:** Romania
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4468168898/) — Liberty Personnel Services, Inc.
+- 📍 **Location:** Morristown, NJ
 - 🕒 **Posted:** 2026-09-21
 
-### [Geospatial Technical Support and Training Specialist - Alberta](https://www.linkedin.com/jobs/view/4401680668/) — Cansel
-- 📍 **Location:** Calgary, Alberta, Canada
+### [Getty Post-Baccalaureate Conservation Internships](https://www.linkedin.com/jobs/view/4468194038/) — Collections That Care
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Wetland Scientist](https://www.linkedin.com/jobs/view/4469961448/) — HNTB
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $89,301.41 - $133,952.12
+### [Senior Environmental Engineer / Project Manager](https://www.linkedin.com/jobs/view/4468180190/) — Liberty Personnel Services, Inc.
+- 📍 **Location:** Morristown, NJ
 - 🕒 **Posted:** 2026-09-21
 
-### [RESA I: Field Ecology of Pasture Mealybugs](https://www.linkedin.com/jobs/view/4465893858/) — The University of Texas at Austin
-- 📍 **Location:** Austin, TX
+### [Environmental Manager](https://www.linkedin.com/jobs/view/4468187275/) — BMD Group
+- 📍 **Location:** Brisbane City, Queensland, Australia
 - 🕒 **Posted:** 2026-09-21
 
-### [Property Photographer/Drone Pilot](https://www.linkedin.com/jobs/view/4469965025/) — Skycraft UAV
-- 📍 **Location:** Greater Leeds Area
+### [Restoration Supervisor](https://www.linkedin.com/jobs/view/4466539427/) — BluSky Restoration Contractors
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $25 - $35 per hour
 - 🕒 **Posted:** 2026-09-21
 
-### [Wetland Scientist](https://www.linkedin.com/jobs/view/4469972127/) — HNTB
-- 📍 **Location:** Chelmsford, MA
-- 💰 **Salary:** $89,301.41 - $133,952.12
+### [Project Manager (Civil/Environmental Engineer)](https://www.linkedin.com/jobs/view/4468191100/) — Yemen HR Consulting
+- 📍 **Location:** Mukalla, Hadramaut Governorate, Yemen
 - 🕒 **Posted:** 2026-09-21
 
-### [Associate GIS Analyst](https://www.linkedin.com/jobs/view/4468135552/) — TRC Companies, Inc.
-- 📍 **Location:** Woodinville, WA
-- 💰 **Salary:** USD $30.00 - USD $36.00 /Hr
+### [Senior Environmental Engineer - Water Group](https://www.linkedin.com/jobs/view/4435103454/) — CDM Smith
+- 📍 **Location:** Fort Myers, FL
 - 🕒 **Posted:** 2026-09-21
 
-### [Senior Civil/Environmental Engineer](https://www.linkedin.com/jobs/view/4468117443/) — Salas O'Brien
-- 📍 **Location:** Bethesda, MD
-- 💰 **Salary:** $125,000 - $135,000 USD per year
+### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4470210104/) — ICF
+- 📍 **Location:** Cheyenne, WY
+- 💰 **Salary:** $81,147.00 - $137,949.00
 - 🕒 **Posted:** 2026-09-21
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4469964018/) — Teamergent
+### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4470206222/) — ICF
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $81,147.00 - $137,949.00
+- 🕒 **Posted:** 2026-09-21
+
+### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4469998641/) — ICF
+- 📍 **Location:** Carson City, NV
+- 💰 **Salary:** $81,147.00 - $137,949.00
+- 🕒 **Posted:** 2026-09-21
+
+### [Senior Environmental Planner](https://www.linkedin.com/jobs/view/4470205298/) — ICF
+- 📍 **Location:** Helena, MT
+- 💰 **Salary:** $81,147.00 - $137,949.00
+- 🕒 **Posted:** 2026-09-21
+
+### [Wildlife Repair/Exclusion Technician](https://www.linkedin.com/jobs/view/4468173941/) — Rollins, Inc.
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $20 - $20
+- 🕒 **Posted:** 2026-09-21
+
+### [Restoration Contents Cleaning Technician](https://www.linkedin.com/jobs/view/4469987525/) — Goodwill of Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $22.00 - $25.00 per hour
+- 🕒 **Posted:** 2026-09-21
+
+### [Senior Business Development Manager, Biomass Supply](https://www.linkedin.com/jobs/view/4470216011/) — Piper Maddox
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4469963152/) — SOCOTEC
-- 📍 **Location:** Mechanicsburg, PA
-- 🕒 **Posted:** 2026-09-21
-
-### [Laborer for Pipeline Grouting and Manhole Rehabilitation](https://www.linkedin.com/jobs/view/4468121867/) — Iron Horse LLC
-- 📍 **Location:** Kent, WA
-- 🕒 **Posted:** 2026-09-21
-
-### [Water Restoration Technician](https://www.linkedin.com/jobs/view/4469962564/) — RestoreCore
-- 📍 **Location:** Edison, NJ
-- 🕒 **Posted:** 2026-09-21
-
-### [Environmental Remediation Technician](https://www.linkedin.com/jobs/view/4469946911/) — Top Tier Talent Group
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 💰 **Salary:** $25.00–$30.00 per hour
-- 🕒 **Posted:** 2026-09-21
-
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4468125418/) — Circle K
-- 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-09-21
-
-### [Environmental and Marine Science Teaching Associate](https://www.linkedin.com/jobs/view/4451433259/) — Coastal Carolina University
-- 📍 **Location:** Conway, SC
-- 🕒 **Posted:** 2026-09-21
-
-### [Wildlife Management Specialist](https://www.linkedin.com/jobs/view/4469958644/) — Pheasants Forever and Quail Forever
-- 📍 **Location:** Panora, IA
-- 🕒 **Posted:** 2026-09-21
-
-### [Senior Environmental Project Manager (Brownfields)](https://www.linkedin.com/jobs/view/4456710877/) — ECS Group of Companies
-- 📍 **Location:** Marietta, GA
-- 🕒 **Posted:** 2026-09-21
-
-### [Environmental Education Specialist](https://www.linkedin.com/jobs/view/4469957448/) — Cape Fear Botanical Garden
-- 📍 **Location:** Fayetteville, North Carolina Metropolitan Area
-- 💰 **Salary:** $16–$18 per hour
-- 🕒 **Posted:** 2026-09-21
-
-### [Vice President, Global Environmental, Health, and Safety](https://www.linkedin.com/jobs/view/4468144380/) — TPI Composites
-- 📍 **Location:** Scottsdale, AZ
+- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-09-21
