@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-09-22 01:54 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-09-22 07:58 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Cloudnet Systems",
+      "title": "Part-Time GIS Developer - Federal Contract (Remote, US)",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=09d84d0e042bb1bd",
+      "direct_url": "http://www.indeed.com/job/part-time-gis-developer-federal-contract-remote-us-09d84d0e042bb1bd",
+      "company_url": "https://www.indeed.com/cmp/Cloudnet-Systems-1",
+      "date_posted": "2026-09-22",
+      "description": "Cloudnet Systems LLC, a small business federal IT contractor (GSA Multiple Award Schedule holder), is assembling the delivery team for a US Fish and Wildlife Service web platform support and improvement contract we are actively bidding. We are seeking a part\\-time GIS Developer to join the proposed team.\n\n**Compensation:** $60 per hour (1099 or W2 hourly depending on arrangement), paid for hours worked.\n\n**What you will do:**\n\n\\- Support geospatial data alignment for a national wildlife refuge platform: hunt\\-unit boundary analysis and correction, spatial data QA, and synchronization with an annually published authoritative feature layer.\n\n\\- Work with ArcGIS Online feature layers, related tables, and public and authorized REST APIs under a federal agency's ArcGIS organization (collaborator account provided).\n\n\\- Integrate spatial data and map views into web modules (Angular front end); support species\\-to\\-hunt\\-unit data relationships feeding an annual federal rulemaking cycle.\n\n\\- Provide elevated GIS support during the January\\-May rulemaking season, including boundary corrections and spatial layer reliability.\n\n\\- Coordinate with the agency's GIS advisory committee and data stewards on authoritative data layers.\n\n**Role\\-specific qualifications:** At least 3 years with the Esri platform, ArcGIS Online strongly preferred; feature services and REST APIs; spatial data quality workflows. Experience with federal or state natural\\-resource GIS data a plus.\n\n**The engagement:** approximately 240 hours in year one, then approximately 120 hours per year in subsequent option years spread as steady part\\-time work, not a single block. Fully remote from anywhere in the United States, during Eastern business hours (9:00 AM to 5:00 PM ET). No on\\-call or after\\-hours work, including for critical incidents. One annual planning trip to Fort Collins, CO or Falls Church, VA may be requested for lead personnel. A Government laptop is provided.\n\n**Important \\- contingent role:** This position is contingent upon contract award, expected in fall 2026\\. Selected candidates will be named in our proposal and must provide a one\\-page resume and sign a brief letter of commitment by Wednesday, September 23, 2026\\. There is no obligation and no work performed unless the contract is awarded. Candidates must be able to complete a federal background investigation and PIV credentialing before system access.\n\n**General requirements:** US\\-based and working on US soil; Bachelors degree plus at least 3 years of relevant experience (required by our GSA contract); federal contracting experience a plus.\n\n**To apply:** send your resume with \"GIS Developer \\- FWS\" in the subject line. We are moving quickly; qualified respondents will receive a 15\\-minute screening call within one business day.\n\nPay: $55\\.00 \\- $60\\.00 per hour\n\nWork Location: Remote",
+      "salary": "$55–$60/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "contract",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Cloudnet Systems",
+      "title": "Part-Time GIS Developer - Federal Contract (Remote, US)",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=09d84d0e042bb1bd",
+      "direct_url": "http://www.indeed.com/job/part-time-gis-developer-federal-contract-remote-us-09d84d0e042bb1bd",
+      "company_url": "https://www.indeed.com/cmp/Cloudnet-Systems-1",
+      "date_posted": "2026-09-22",
+      "description": "Cloudnet Systems LLC, a small business federal IT contractor (GSA Multiple Award Schedule holder), is assembling the delivery team for a US Fish and Wildlife Service web platform support and improvement contract we are actively bidding. We are seeking a part\\-time GIS Developer to join the proposed team.\n\n**Compensation:** $60 per hour (1099 or W2 hourly depending on arrangement), paid for hours worked.\n\n**What you will do:**\n\n\\- Support geospatial data alignment for a national wildlife refuge platform: hunt\\-unit boundary analysis and correction, spatial data QA, and synchronization with an annually published authoritative feature layer.\n\n\\- Work with ArcGIS Online feature layers, related tables, and public and authorized REST APIs under a federal agency's ArcGIS organization (collaborator account provided).\n\n\\- Integrate spatial data and map views into web modules (Angular front end); support species\\-to\\-hunt\\-unit data relationships feeding an annual federal rulemaking cycle.\n\n\\- Provide elevated GIS support during the January\\-May rulemaking season, including boundary corrections and spatial layer reliability.\n\n\\- Coordinate with the agency's GIS advisory committee and data stewards on authoritative data layers.\n\n**Role\\-specific qualifications:** At least 3 years with the Esri platform, ArcGIS Online strongly preferred; feature services and REST APIs; spatial data quality workflows. Experience with federal or state natural\\-resource GIS data a plus.\n\n**The engagement:** approximately 240 hours in year one, then approximately 120 hours per year in subsequent option years spread as steady part\\-time work, not a single block. Fully remote from anywhere in the United States, during Eastern business hours (9:00 AM to 5:00 PM ET). No on\\-call or after\\-hours work, including for critical incidents. One annual planning trip to Fort Collins, CO or Falls Church, VA may be requested for lead personnel. A Government laptop is provided.\n\n**Important \\- contingent role:** This position is contingent upon contract award, expected in fall 2026\\. Selected candidates will be named in our proposal and must provide a one\\-page resume and sign a brief letter of commitment by Wednesday, September 23, 2026\\. There is no obligation and no work performed unless the contract is awarded. Candidates must be able to complete a federal background investigation and PIV credentialing before system access.\n\n**General requirements:** US\\-based and working on US soil; Bachelors degree plus at least 3 years of relevant experience (required by our GSA contract); federal contracting experience a plus.\n\n**To apply:** send your resume with \"GIS Developer \\- FWS\" in the subject line. We are moving quickly; qualified respondents will receive a 15\\-minute screening call within one business day.\n\nPay: $55\\.00 \\- $60\\.00 per hour\n\nWork Location: Remote",
+      "salary": "$55–$60/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "contract",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
