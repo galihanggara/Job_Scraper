@@ -1,133 +1,87 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-22 19:22 UTC*
+*Last updated: 2026-09-22 22:36 UTC*
 
-**28 new role(s)** since last run · 28 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4470496221/) — AtkinsRéalis
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Data Scientist, Geospatial](https://www.linkedin.com/jobs/view/4470627526/) — Neara
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $140K - $150K
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Geospatial Researcher III/IV](https://www.linkedin.com/jobs/view/4460082092/) — National Laboratory of the Rockies
-- 📍 **Location:** Golden, CO
-- 💰 **Salary:** $100,400 - $180,700
+### [Senior GIS Technical Analyst / Programmer](https://www.linkedin.com/jobs/view/4470615887/) — Avangrid
+- 📍 **Location:** Orange, CT
+- 💰 **Salary:** $130,000.00/yr - $167,000.00/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Environmental Scientists, Engineers, Geologists, and Business Support Professionals - All Levels](https://www.linkedin.com/jobs/view/4469044085/) — Elkhorn Environmental Solutions, Inc
-- 📍 **Location:** Grass Valley, CA
+### [Field Technician (GIS/ArcGIS)](https://www.linkedin.com/jobs/view/4470627403/) — MasTec Power Delivery
+- 📍 **Location:** Blue Bell, PA
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Geospatial Backend Engineer](https://www.linkedin.com/jobs/view/4469027659/) — M33
-- 📍 **Location:** United States
+### [GIS Technician](https://www.linkedin.com/jobs/view/4468920880/) — Leidos
+- 📍 **Location:** Chapel Hill, NC
+- 💰 **Salary:** $42,640 - $45,760
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Environmental Scientist 2-NEPA](https://www.linkedin.com/jobs/view/4470490296/) — RETTEW
-- 📍 **Location:** Lancaster, PA
+### [GIS Technician](https://www.linkedin.com/jobs/view/4468927669/) — Leidos
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** $42,640 - $45,760
 - 🕒 **Posted:** 2026-09-22
 
-### [Environmental Project Manager](https://www.linkedin.com/jobs/view/4468917633/) — EIS
-- 📍 **Location:** Colorado, United States
-- 💰 **Salary:** $90,000.00/yr - $115,000.00/yr
+### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4469067217/) — Colliers Engineering & Design
+- 📍 **Location:** Cary, NC
 - 🕒 **Posted:** 2026-09-22
 
-### [Geologist, Environmental Scientist or Environmental Engineer](https://www.linkedin.com/jobs/view/4468911842/) — TRC Companies, Inc.
-- 📍 **Location:** Clifton Park, NY
-- 💰 **Salary:** USD $65,894.40 - USD $100,547.20 /Yr
+### [Staff Civil / Environmental Engineer I](https://www.linkedin.com/jobs/view/4468929652/) — Roux
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-22
 
-### [Environmental Compliance Inspector](https://www.linkedin.com/jobs/view/4464229487/) — Seattle Public Utilities
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $53.60 - $62.40 per hour
+### [Senior Enablon Environmental/AQS and Metrics Implementation Consultant](https://www.linkedin.com/jobs/view/4470629280/) — WSP in the U.S.
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-22
 
-### [GIS Technician](https://www.linkedin.com/jobs/view/4470487742/) — AtkinsRéalis
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Environmental Test Engineer - Space Technologies](https://www.linkedin.com/jobs/view/4470618864/) — AV
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $74,500 - $113,500
 - 🕒 **Posted:** 2026-09-22
 
-### [GIS Technician](https://www.linkedin.com/jobs/view/4470602033/) — AtkinsRéalis
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Geologist/Environmental Scientist](https://www.linkedin.com/jobs/view/4469046996/) — EnSafe
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-09-22
 
-### [Environmental Scientists, Engineers, Geologists, and Business Support Professionals - All Levels](https://www.linkedin.com/jobs/view/4469047178/) — Elkhorn Environmental Solutions, Inc
-- 📍 **Location:** Grass Valley, CA
+### [Director, Development Permitting & Environmental](https://www.linkedin.com/jobs/view/4468944021/) — Talen Energy
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-22
 
-### [Master Thesis, 30HP: Finding the UAV in a Haystack of Birds -- Deep Models for Target Classification in Radar Tracking](https://www.linkedin.com/jobs/view/4470496277/) — Saab
-- 📍 **Location:** Gothenburg, Västra Götaland County, Sweden
+### [Environmental Coordinator](https://www.linkedin.com/jobs/view/4470620858/) — Western Extrusions Corporation
+- 📍 **Location:** Carrollton, TX
+- 💰 **Salary:** $60,000.00/yr - $70,000.00/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [İHA(Drone) Pilotu](https://www.linkedin.com/jobs/view/4468917509/) — HOVERFLY AVIATION AND EDUCATION
-- 📍 **Location:** İzmir, Türkiye
+### [Environmental Geologist](https://www.linkedin.com/jobs/view/4469042656/) — AECOM
+- 📍 **Location:** Chelmsford, MA
+- 💰 **Salary:** $75000 to $100000
 - 🕒 **Posted:** 2026-09-22
 
-### [Assistant Scientist (AR) - School of Medicine Rehabilitation](https://www.linkedin.com/jobs/view/4468927111/) — Emory University
-- 📍 **Location:** Atlanta, GA
+### [Entry-Level Environmental Engineer - Hiring Event with AECOM - Philadelphia](https://www.linkedin.com/jobs/view/4469049431/) — AECOM
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $62000 to $85000
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Environmental Consultant Manager](https://www.linkedin.com/jobs/view/4451488300/) — Sargent & Lundy
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $165,610 - $253,015
+### [Entry-Level Environmental Engineers - Networking Event with AECOM – Arlington, VA](https://www.linkedin.com/jobs/view/4469050408/) — AECOM
+- 📍 **Location:** Arlington, VA
+- 💰 **Salary:** $62000 to $82000
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Environmental Advisor](https://www.linkedin.com/jobs/view/4470486830/) — M Group Energy
-- 📍 **Location:** Aberdeen, Scotland, United Kingdom
+### [Field Environmental Geologist](https://www.linkedin.com/jobs/view/4469063216/) — AECOM
+- 📍 **Location:** Providence, RI
+- 💰 **Salary:** $70000 to $95000
 - 🕒 **Posted:** 2026-09-22
 
-### [Intermediate Environmental Scientist](https://www.linkedin.com/jobs/view/4469034744/) — 360 Engineering & Environmental
-- 📍 **Location:** Fort St John, British Columbia, Canada
-- 💰 **Salary:** $69,000.00/yr - CA$87,000.00/yr
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4469043685/) — AECOM
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $70000 to $95000
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Director of Environmental Certifications](https://www.linkedin.com/jobs/view/4469023424/) — Audubon International
-- 📍 **Location:** Troy, NY
-- 🕒 **Posted:** 2026-09-22
-
-### [Environmental Consultant](https://www.linkedin.com/jobs/view/4470486494/) — Dillon Consulting Limited
-- 📍 **Location:** Hamilton, Ontario, Canada
-- 💰 **Salary:** $100,000 - $150,000
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Environmental Consultant Manager](https://www.linkedin.com/jobs/view/4451477938/) — Sargent & Lundy
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $165,610 - $253,015
-- 🕒 **Posted:** 2026-09-22
-
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4470490652/) — Leidos
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $73,450.00 - $132,775.00
-- 🕒 **Posted:** 2026-09-22
-
-### [Principal Airborne LiDAR Systems Engineer](https://www.linkedin.com/jobs/view/4470498128/) — Woolpert
-- 📍 **Location:** United States
-- 💰 **Salary:** $101,000 - $126,500 USD
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior Environmental Program Manager](https://www.linkedin.com/jobs/view/4470491322/) — KaiHonua
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $160,000-$180,000
-- 🕒 **Posted:** 2026-09-22
-
-### [Environmental Technician (Field Operations)](https://www.linkedin.com/jobs/view/4468903995/) — VIYA Environmental
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Western Policy & Conservation Manager](https://www.linkedin.com/jobs/view/4469047045/) — Backcountry Hunters & Anglers
-- 📍 **Location:** Colorado, United States
-- 🕒 **Posted:** 2026-09-22
-
-### [Project Co-ordinator Ecology](https://www.linkedin.com/jobs/view/4470484819/) — AtkinsRéalis
-- 📍 **Location:** Bristol, England, United Kingdom
-- 🕒 **Posted:** 2026-09-22
-
-### [HEAD OF UAV ENGINEERING](https://www.linkedin.com/jobs/view/4469033631/) — Agnivox Private Limited
-- 📍 **Location:** Kerala, India
-- 🕒 **Posted:** 2026-09-22
-
-### [{
-  'jobTitle': 'Human Resources Manager',
-  'locationName': 'Surat Head Office',
-  'jobType': '!None!',
-  'workplaceType': 'ONSITE',
-  'companyName': 'Earth Engineers'
-}](https://www.linkedin.com/jobs/view/4468934029/) — EARTH ENGINEERS
-- 📍 **Location:** Surat, Gujarat, India
+### [Restoration Technician](https://www.linkedin.com/jobs/view/4469045974/) — ATI Restoration, LLC
+- 📍 **Location:** Auburn Hills, MI
 - 🕒 **Posted:** 2026-09-22
