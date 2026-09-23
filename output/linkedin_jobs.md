@@ -1,61 +1,80 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-23 06:23 UTC*
+*Last updated: 2026-09-23 19:29 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [GIS Specialist / Geospatial Data Manager (m/f/d) – Remote / Mobile Work Possible](https://www.linkedin.com/jobs/view/4468970620/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4452618486/) — PwC
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-09-23
 
-### [GIS Technician (F/M/X) – Versailles (78)](https://www.linkedin.com/jobs/view/4468987268/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Junior Geospatial / Full-Motion Video (FMV) Analyst](https://www.linkedin.com/jobs/view/4459085435/) — Nightwing
+- 📍 **Location:** Lumber Bridge, NC
 - 🕒 **Posted:** 2026-09-23
 
-### [Geospatial Data Analyst / Developer](https://www.linkedin.com/jobs/view/4470682656/) — GEOMIRA
-- 📍 **Location:** United States
+### [Développeur(euse) en géomatique / GIS Developer](https://www.linkedin.com/jobs/view/4471101363/) — AtkinsRéalis
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $64,000 - $90,000 annually
 - 🕒 **Posted:** 2026-09-23
 
-### [GIS Specialist – PostGIS & Geospatial Data ETL](https://www.linkedin.com/jobs/view/4468976554/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Senior Geo-Environmental Engineer](https://www.linkedin.com/jobs/view/4353640423/) — Balfour Beatty plc
+- 📍 **Location:** Derby, England, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Environmental Protection Officer](https://www.linkedin.com/jobs/view/4470685500/) — Connecticut Chapter of the American Planning Association (CCAPA)
-- 📍 **Location:** Darien, GA
+### [Civil/Environmental EIT/Coordinator](https://www.linkedin.com/jobs/view/4469474907/) — HDR
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $61,908.00 - $88,440.00
 - 🕒 **Posted:** 2026-09-23
 
-### [Environmental Compliance Consultant](https://www.linkedin.com/jobs/view/4470688114/) — Jacobs
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $91,400.00/yr - $136,000.00/yr
+### [Principal Geo-Environmental Consultant](https://www.linkedin.com/jobs/view/4469490491/) — RSK Geosciences
+- 📍 **Location:** Somerset, England, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Surveying Technician, Engineer, or CAD/GIS Specialist (m/f/d)](https://www.linkedin.com/jobs/view/4468975536/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Field Biologists/Environmental Monitors](https://www.linkedin.com/jobs/view/4460911177/) — WSP in the U.S.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $38 - $50/hour
 - 🕒 **Posted:** 2026-09-23
 
-### [Environmental Engineering (Tenure-Track, Assistant Professor)](https://www.linkedin.com/jobs/view/4467478146/) — Central Michigan University
-- 📍 **Location:** Mount Pleasant, MI
+### [Geospatial and Geomatics Graduate Programme](https://www.linkedin.com/jobs/view/4469150494/) — AtkinsRéalis
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [GIS Specialist (80–100%)](https://www.linkedin.com/jobs/view/4468977421/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Ecology Resource Manager](https://www.linkedin.com/jobs/view/4462434059/) — WSP in the UK & Ireland
+- 📍 **Location:** Glasgow, Scotland, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [WebGIS & Spatial Data Management Assistant](https://www.linkedin.com/jobs/view/4468979394/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Environmental Specialist – Remote](https://www.linkedin.com/jobs/view/4471110091/) — MYO Talent
+- 📍 **Location:** United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Rehabilitation Consultant](https://www.linkedin.com/jobs/view/4456586321/) — Nordwake
-- 📍 **Location:** Mackay, Queensland, Australia
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4469483665/) — Insight Global
+- 📍 **Location:** Abernathy, TX
+- 💰 **Salary:** $50.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Consultant, Environmental Permitting Specialist, FERC Generalist](https://www.linkedin.com/jobs/view/4468990031/) — ERM
-- 📍 **Location:** Cranberry Township, PA
+### [Director of Conservation Biotechnologies](https://www.linkedin.com/jobs/view/4469492384/) — San Diego Zoo Wildlife Alliance
+- 📍 **Location:** Escondido, CA
+- 💰 **Salary:** $173,982.00/yr - $195,730.00/yr
 - 🕒 **Posted:** 2026-09-23
 
-### [Design Engineer (UAV, CFD & FEA Specialist)](https://www.linkedin.com/jobs/view/4468974696/) — Skylark Group
-- 📍 **Location:** Manesar, Haryana, India
+### [Civil/Environmental Engineer](https://www.linkedin.com/jobs/view/4469487788/) — HDR
+- 📍 **Location:** Salt Lake City, UT
 - 🕒 **Posted:** 2026-09-23
 
-### [Freshers – Geospatial / LiDAR](https://www.linkedin.com/jobs/view/4468984497/) — Blue Fish Technologies
-- 📍 **Location:** Bengaluru, Karnataka, India
+### [Energy & Environmental Attorney](https://www.linkedin.com/jobs/view/4435171312/) — Bond, Schoeneck & King PLLC
+- 📍 **Location:** Syracuse, NY
+- 💰 **Salary:** $125,000.00/yr - $350,000.00/yr
+- 🕒 **Posted:** 2026-09-23
+
+### [Commercial / Industrial Environmental Services Lead](https://www.linkedin.com/jobs/view/4452384896/) — WSP in the U.S.
+- 📍 **Location:** Buffalo, NY
+- 💰 **Salary:** $104,400 - 177,300
+- 🕒 **Posted:** 2026-09-23
+
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4463508219/) — Dunhill Staffing Systems
+- 📍 **Location:** Charleston, South Carolina Metropolitan Area
+- 🕒 **Posted:** 2026-09-23
+
+### [Environmental Monitoring and Regulatory Compliance Professional - Red Dog Mine, AK](https://www.linkedin.com/jobs/view/4469485936/) — Kuna Engineering
+- 📍 **Location:** Red Dog Mine, AK
 - 🕒 **Posted:** 2026-09-23
