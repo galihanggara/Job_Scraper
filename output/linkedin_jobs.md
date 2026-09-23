@@ -1,85 +1,61 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-23 01:01 UTC*
+*Last updated: 2026-09-23 06:23 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Geospatial Analyst II](https://www.linkedin.com/jobs/view/4463527424/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $69,000-$88,000 annually
+### [GIS Specialist / Geospatial Data Manager (m/f/d) – Remote / Mobile Work Possible](https://www.linkedin.com/jobs/view/4468970620/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
 - 🕒 **Posted:** 2026-09-23
 
-### [Environmental Compliance Inspector](https://www.linkedin.com/jobs/view/4464229487/) — Seattle Public Utilities
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $53.60 - $62.40 per hour
+### [GIS Technician (F/M/X) – Versailles (78)](https://www.linkedin.com/jobs/view/4468987268/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
 - 🕒 **Posted:** 2026-09-23
 
-### [Environmental Protection Specialist III](https://www.linkedin.com/jobs/view/4470650645/) — WM
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $96,000.00/yr - $120,000.00/yr
+### [Geospatial Data Analyst / Developer](https://www.linkedin.com/jobs/view/4470682656/) — GEOMIRA
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-23
 
-### [Experienced Senior Consultant Environmental Due Diligence](https://www.linkedin.com/jobs/view/4467603612/) — Ramboll
-- 📍 **Location:** London, England, United Kingdom
+### [GIS Specialist – PostGIS & Geospatial Data ETL](https://www.linkedin.com/jobs/view/4468976554/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
 - 🕒 **Posted:** 2026-09-23
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4470651464/) — Florence Copper
-- 📍 **Location:** Florence, AZ
+### [Environmental Protection Officer](https://www.linkedin.com/jobs/view/4470685500/) — Connecticut Chapter of the American Planning Association (CCAPA)
+- 📍 **Location:** Darien, GA
 - 🕒 **Posted:** 2026-09-23
 
-### [GIS Specialist- with CAD experience](https://www.linkedin.com/jobs/view/4468675911/) — AtkinsRéalis
-- 📍 **Location:** Riyadh Region
-- 🕒 **Posted:** 2026-09-23
-
-### [Environmental Engineer 4](https://www.linkedin.com/jobs/view/4435115207/) — CDM Smith
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Environmental Project Manager](https://www.linkedin.com/jobs/view/4469076472/) — HDR
-- 📍 **Location:** Lafayette, LA
-- 🕒 **Posted:** 2026-09-23
-
-### [Experienced Senior Consultant Environmental Due Diligence](https://www.linkedin.com/jobs/view/4467611041/) — Ramboll
-- 📍 **Location:** Birmingham, England, United Kingdom
-- 🕒 **Posted:** 2026-09-23
-
-### [Environmental Compliance Project Manager](https://www.linkedin.com/jobs/view/4451836690/) — WM
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $85,000.00/yr - $124,000.00/yr
-- 🕒 **Posted:** 2026-09-23
-
-### [Environmental Protection Manager II](https://www.linkedin.com/jobs/view/4462733279/) — WM
-- 📍 **Location:** Plymouth, MI
-- 🕒 **Posted:** 2026-09-23
-
-### [Environmental Protection Manager I](https://www.linkedin.com/jobs/view/4470642910/) — WM
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $91,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-09-23
-
-### [Chef for droner og counter-drone hos Forsvarsministeriets Materiel- og Indkøbsstyrelse](https://www.linkedin.com/jobs/view/4470215546/) — Forsvaret
-- 📍 **Location:** Copenhagen Metropolitan Area
-- 🕒 **Posted:** 2026-09-23
-
-### [Remote Sensing Engineer](https://www.linkedin.com/jobs/view/4470638813/) — Riverside Research
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $97,000 - $135,000
-- 🕒 **Posted:** 2026-09-22
-
-### [Climate Change: Greenhouse Gas Emissions Engineer (Environmental Engineer 2) Two Positions](https://www.linkedin.com/jobs/view/4466421041/) — Washington State Department of Ecology
-- 📍 **Location:** Lacey, WA
-- 🕒 **Posted:** 2026-09-22
-
-### [Staff Environmental Engineer (NEPA)](https://www.linkedin.com/jobs/view/4470648233/) — GDH
+### [Environmental Compliance Consultant](https://www.linkedin.com/jobs/view/4470688114/) — Jacobs
 - 📍 **Location:** Houston, TX
-- 💰 **Salary:** $130,000.00 – $150,000.00 annually
-- 🕒 **Posted:** 2026-09-22
+- 💰 **Salary:** $91,400.00/yr - $136,000.00/yr
+- 🕒 **Posted:** 2026-09-23
 
-### [Environmental Advisory Consultant](https://www.linkedin.com/jobs/view/4470650186/) — Mott MacDonald
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $93,000 - $114,000
-- 🕒 **Posted:** 2026-09-22
+### [Surveying Technician, Engineer, or CAD/GIS Specialist (m/f/d)](https://www.linkedin.com/jobs/view/4468975536/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-09-23
 
-### [Senior Environmental Compliance Project Manager](https://www.linkedin.com/jobs/view/4470638837/) — Dudek
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $110,000-$150,000 annually
-- 🕒 **Posted:** 2026-09-22
+### [Environmental Engineering (Tenure-Track, Assistant Professor)](https://www.linkedin.com/jobs/view/4467478146/) — Central Michigan University
+- 📍 **Location:** Mount Pleasant, MI
+- 🕒 **Posted:** 2026-09-23
+
+### [GIS Specialist (80–100%)](https://www.linkedin.com/jobs/view/4468977421/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-09-23
+
+### [WebGIS & Spatial Data Management Assistant](https://www.linkedin.com/jobs/view/4468979394/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-09-23
+
+### [Rehabilitation Consultant](https://www.linkedin.com/jobs/view/4456586321/) — Nordwake
+- 📍 **Location:** Mackay, Queensland, Australia
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Consultant, Environmental Permitting Specialist, FERC Generalist](https://www.linkedin.com/jobs/view/4468990031/) — ERM
+- 📍 **Location:** Cranberry Township, PA
+- 🕒 **Posted:** 2026-09-23
+
+### [Design Engineer (UAV, CFD & FEA Specialist)](https://www.linkedin.com/jobs/view/4468974696/) — Skylark Group
+- 📍 **Location:** Manesar, Haryana, India
+- 🕒 **Posted:** 2026-09-23
+
+### [Freshers – Geospatial / LiDAR](https://www.linkedin.com/jobs/view/4468984497/) — Blue Fish Technologies
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-23
