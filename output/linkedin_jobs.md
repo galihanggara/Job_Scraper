@@ -1,82 +1,89 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-23 22:41 UTC*
+*Last updated: 2026-09-24 01:53 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Web GIS Application Developer - Associate](https://www.linkedin.com/jobs/view/4469344880/) — PwC Acceleration Center India
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-09-23
+### [Senior Bio Information Analyst - UAV & Environmental Tech](https://www.linkedin.com/jobs/view/4469631350/) — Auckland Council
+- 📍 **Location:** Auckland, Auckland, New Zealand
+- 🕒 **Posted:** 2026-09-24
 
-### [ArcGIS Developer](https://www.linkedin.com/jobs/view/4469346895/) — Vtechys
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-09-23
+### [GIS Analyst (IT Analyst, Senior Technical)](https://www.linkedin.com/jobs/view/4469639057/) — Tacoma Public Utilities
+- 📍 **Location:** Tacoma, WA
+- 💰 **Salary:** $47.70 - $74.00
+- 🕒 **Posted:** 2026-09-24
 
-### [Environmental Specialist (Entry)](https://www.linkedin.com/jobs/view/4471131677/) — Cherokee Federal
-- 📍 **Location:** Joint Base Pearl Harbor-Hickam, HI
-- 🕒 **Posted:** 2026-09-23
+### [NATURAL RESOURCES PLANNER II](https://www.linkedin.com/jobs/view/4471177086/) — State of Maryland
+- 📍 **Location:** Maryland, United States
+- 💰 **Salary:** $67,309.00 -$106,155.00
+- 🕒 **Posted:** 2026-09-24
 
-### [Environmental Remediation Project Manager/Office Manager](https://www.linkedin.com/jobs/view/4471118737/) — WSP in the U.S.
-- 📍 **Location:** Rifle, CO
-- 💰 **Salary:** $105,000 - $175,000
-- 🕒 **Posted:** 2026-09-23
+### [Environmental Manager 2 - Stormwater Specialist](https://www.linkedin.com/jobs/view/4471170414/) — State of Indiana
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-09-24
 
-### [Environmental Project Manager (Environmental Remediation) - Goshen, NY or Woodbridge, NJ](https://www.linkedin.com/jobs/view/4471117560/) — Tetra Tech
-- 📍 **Location:** Goshen, NY
-- 🕒 **Posted:** 2026-09-23
+### [Environmental Graphics Officer](https://www.linkedin.com/jobs/view/4469631268/) — Newport World Resorts
+- 📍 **Location:** Pasay, National Capital Region, Philippines
+- 🕒 **Posted:** 2026-09-24
 
-### [Environmental Remediation Project Manager/Office Manager](https://www.linkedin.com/jobs/view/4471134212/) — WSP in the U.S.
-- 📍 **Location:** Grand Junction, CO
-- 💰 **Salary:** $105,000 - $175,000
-- 🕒 **Posted:** 2026-09-23
+### [Assistant Scientist (AR) - School of Medicine Rehabilitation](https://www.linkedin.com/jobs/view/4468927111/) — Emory University
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-09-24
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4471120769/) — General Motors
-- 📍 **Location:** Bay City, MI
-- 🕒 **Posted:** 2026-09-23
+### [Soil and Water Conservation Scientist](https://www.linkedin.com/jobs/view/4471162661/) — Alignerr
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-09-24
 
-### [Natural Resources Specialist (Park Ranger)](https://www.linkedin.com/jobs/view/4469498946/) — US Army Corps of Engineers
-- 📍 **Location:** Williston, ND
-- 🕒 **Posted:** 2026-09-23
+### [Senior Environmental Manager Supervisor](https://www.linkedin.com/jobs/view/4471159916/) — State of Indiana
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-09-24
 
-### [Environmental and Solid Waste Project Manager](https://www.linkedin.com/jobs/view/4469608582/) — Turner & Townsend
-- 📍 **Location:** La Plata, MD
-- 💰 **Salary:** $125,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-09-23
+### [Large Loss Restoration Project Manager](https://www.linkedin.com/jobs/view/4471159712/) — SERVPRO Team Wall
+- 📍 **Location:** Elkridge, MD
+- 💰 **Salary:** $25.00 - $30.00 per month
+- 🕒 **Posted:** 2026-09-24
 
-### [Restoration Industry Career Fair](https://www.linkedin.com/jobs/view/4469495943/) — United Water Restoration Group, Inc.
-- 📍 **Location:** Orlando, FL
-- 🕒 **Posted:** 2026-09-23
+### [Rehabilitation Counsellor](https://www.linkedin.com/jobs/view/4471154912/) — Prairie Mountain Health
+- 📍 **Location:** Ste. Rose du Lac, Manitoba, Canada
+- 🕒 **Posted:** 2026-09-24
 
-### [Applications and Sales Engineer (Environmental Market)-Industrial Flow South America](https://www.linkedin.com/jobs/view/4469607682/) — Atlas Copco
-- 📍 **Location:** Sorocaba, São Paulo, Brazil
-- 🕒 **Posted:** 2026-09-23
+### [Civil/Environmental Engineer](https://www.linkedin.com/jobs/view/4469615889/) — HDR
+- 📍 **Location:** Salt Lake City, UT
+- 🕒 **Posted:** 2026-09-24
 
-### [Archaeologist/Environmental Specialist II](https://www.linkedin.com/jobs/view/4471131440/) — JSI
-- 📍 **Location:** Lubbock, TX
-- 💰 **Salary:** $30.00/hr - $36.00/hr
-- 🕒 **Posted:** 2026-09-23
+### [Natural Resources Permitting Coordinator](https://www.linkedin.com/jobs/view/4469380319/) — NiSource
+- 📍 **Location:** Dunbar, PA
+- 💰 **Salary:** $82,200.00 - $123,200.00
+- 🕒 **Posted:** 2026-09-24
 
-### [Environmental Supervisor](https://www.linkedin.com/jobs/view/4471138012/) — General Motors
-- 📍 **Location:** Lansing, MI
-- 🕒 **Posted:** 2026-09-23
+### [Environmental Coordinator 3](https://www.linkedin.com/jobs/view/4469362862/) — NiSource
+- 📍 **Location:** Merrillville, IN
+- 💰 **Salary:** $96,600.00 - $144,900.00
+- 🕒 **Posted:** 2026-09-24
 
-### [Environmental Specialist (Mid)](https://www.linkedin.com/jobs/view/4471125928/) — Cherokee Federal
-- 📍 **Location:** Joint Base Pearl Harbor-Hickam, HI
-- 🕒 **Posted:** 2026-09-23
-
-### [Data Coordinator](https://www.linkedin.com/jobs/view/4469349774/) — ActivMed Practices & Research, LLC.
-- 📍 **Location:** Decatur, GA
-- 🕒 **Posted:** 2026-09-23
-
-### [Sr. Project Manager - Environmental Remediation](https://www.linkedin.com/jobs/view/4469497913/) — Cape Environmental Management Inc
-- 📍 **Location:** Byram, NJ
-- 🕒 **Posted:** 2026-09-23
-
-### [Environmental Senior Attorney / Partner](https://www.linkedin.com/jobs/view/4469612597/) — Law firm
+### [Senior Environmental Associate](https://www.linkedin.com/jobs/view/4469627332/) — Sargent & Lundy
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $300,000.00/yr - $600,000.00/yr
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** $100,019 - $152,807
+- 🕒 **Posted:** 2026-09-24
 
-### [Environmental Senior Attorney / Partner](https://www.linkedin.com/jobs/view/4469610657/) — Law firm
-- 📍 **Location:** District of Columbia, United States
-- 💰 **Salary:** $300,000.00/yr - $600,000.00/yr
+### [Natural Resources Permitting Coordinator](https://www.linkedin.com/jobs/view/4469380318/) — NiSource
+- 📍 **Location:** Chester, VA
+- 💰 **Salary:** $82,200.00 - $123,200.00
+- 🕒 **Posted:** 2026-09-24
+
+### [Restoration Assistant Project Manager](https://www.linkedin.com/jobs/view/4467800124/) — Cotton Holdings Inc.
+- 📍 **Location:** Waco, TX
+- 💰 **Salary:** $25.00/hr - $25.00/hr
+- 🕒 **Posted:** 2026-09-24
+
+### [Environmental Graduate Programme](https://www.linkedin.com/jobs/view/4469154389/) — AtkinsRéalis
+- 📍 **Location:** Belfast, Northern Ireland, United Kingdom
+- 🕒 **Posted:** 2026-09-24
+
+### [Environmental Health Safety Specialist (Operations)](https://www.linkedin.com/jobs/view/4469621818/) — GE Evergreen
+- 📍 **Location:** Taoyuan City, Taiwan
+- 🕒 **Posted:** 2026-09-24
+
+### [Phoenix - Environmental Specialist](https://www.linkedin.com/jobs/view/4469623287/) — Nevada Gold Mines
+- 📍 **Location:** Winnemucca, NV
 - 🕒 **Posted:** 2026-09-23
