@@ -1,89 +1,72 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-24 01:53 UTC*
+*Last updated: 2026-09-24 08:01 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Senior Bio Information Analyst - UAV & Environmental Tech](https://www.linkedin.com/jobs/view/4469631350/) — Auckland Council
+### [Senior Bio Information Analyst - Ecological Data & Significant Natural Areas](https://www.linkedin.com/jobs/view/4469395622/) — Auckland Council
 - 📍 **Location:** Auckland, Auckland, New Zealand
 - 🕒 **Posted:** 2026-09-24
 
-### [GIS Analyst (IT Analyst, Senior Technical)](https://www.linkedin.com/jobs/view/4469639057/) — Tacoma Public Utilities
-- 📍 **Location:** Tacoma, WA
-- 💰 **Salary:** $47.70 - $74.00
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4471410583/) — Sofomation
+- 📍 **Location:** Malaysia
 - 🕒 **Posted:** 2026-09-24
 
-### [NATURAL RESOURCES PLANNER II](https://www.linkedin.com/jobs/view/4471177086/) — State of Maryland
-- 📍 **Location:** Maryland, United States
-- 💰 **Salary:** $67,309.00 -$106,155.00
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4469701489/) — TechConnect
+- 📍 **Location:** Jakarta, Jakarta, Indonesia
 - 🕒 **Posted:** 2026-09-24
 
-### [Environmental Manager 2 - Stormwater Specialist](https://www.linkedin.com/jobs/view/4471170414/) — State of Indiana
-- 📍 **Location:** Indianapolis, IN
+### [Environmental Laboratory Chemist](https://www.linkedin.com/jobs/view/4471428278/) — ACZ Laboratories
+- 📍 **Location:** Steamboat Springs, CO
 - 🕒 **Posted:** 2026-09-24
 
-### [Environmental Graphics Officer](https://www.linkedin.com/jobs/view/4469631268/) — Newport World Resorts
-- 📍 **Location:** Pasay, National Capital Region, Philippines
+### [Environmental Analyst](https://www.linkedin.com/jobs/view/4471430103/) — Sofomation
+- 📍 **Location:** Malaysia
 - 🕒 **Posted:** 2026-09-24
 
-### [Assistant Scientist (AR) - School of Medicine Rehabilitation](https://www.linkedin.com/jobs/view/4468927111/) — Emory University
-- 📍 **Location:** Atlanta, GA
+### [Master Data Coordinator](https://www.linkedin.com/jobs/view/4469672322/) — Interface
+- 📍 **Location:** Taicang, Jiangsu, China
 - 🕒 **Posted:** 2026-09-24
 
-### [Soil and Water Conservation Scientist](https://www.linkedin.com/jobs/view/4471162661/) — Alignerr
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+### [Sustainability & Environmental Manager (LEED AP)](https://www.linkedin.com/jobs/view/4469705264/) — Hill International, Inc.
+- 📍 **Location:** Cairo, Egypt
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Environmental Manager Supervisor](https://www.linkedin.com/jobs/view/4471159916/) — State of Indiana
-- 📍 **Location:** Indianapolis, IN
+### [Certificates and Dairy Data Coordinator - State Program Administrator Intermediate](https://www.linkedin.com/jobs/view/4471418474/) — Minnesota Department of Agriculture
+- 📍 **Location:** St Paul, MN
+- 💰 **Salary:** $25.67 - $37.26
 - 🕒 **Posted:** 2026-09-24
 
-### [Large Loss Restoration Project Manager](https://www.linkedin.com/jobs/view/4471159712/) — SERVPRO Team Wall
-- 📍 **Location:** Elkridge, MD
-- 💰 **Salary:** $25.00 - $30.00 per month
+### [Contents Restoration Project Manager / Fire & Water Damage](https://www.linkedin.com/jobs/view/4471421612/) — PuroClean LA | OC | IE
+- 📍 **Location:** Burlington, WI
+- 💰 **Salary:** $65,000–$75,000
 - 🕒 **Posted:** 2026-09-24
 
-### [Rehabilitation Counsellor](https://www.linkedin.com/jobs/view/4471154912/) — Prairie Mountain Health
-- 📍 **Location:** Ste. Rose du Lac, Manitoba, Canada
+### [Restoration Technician](https://www.linkedin.com/jobs/view/4471421614/) — PuroClean LA | OC | IE
+- 📍 **Location:** Middlesex, NJ
+- 💰 **Salary:** $18–$25/hour
 - 🕒 **Posted:** 2026-09-24
 
-### [Civil/Environmental Engineer](https://www.linkedin.com/jobs/view/4469615889/) — HDR
-- 📍 **Location:** Salt Lake City, UT
+### [Project Coordinator - Property Restoration](https://www.linkedin.com/jobs/view/4471426439/) — PuroClean LA | OC | IE
+- 📍 **Location:** Lawrenceville, GA
 - 🕒 **Posted:** 2026-09-24
 
-### [Natural Resources Permitting Coordinator](https://www.linkedin.com/jobs/view/4469380319/) — NiSource
-- 📍 **Location:** Dunbar, PA
-- 💰 **Salary:** $82,200.00 - $123,200.00
+### [Restoration Lead Production Technician](https://www.linkedin.com/jobs/view/4471431274/) — PuroClean LA | OC | IE
+- 📍 **Location:** Vineland, NJ
+- 💰 **Salary:** $25.00 - $30.00 per hour
 - 🕒 **Posted:** 2026-09-24
 
-### [Environmental Coordinator 3](https://www.linkedin.com/jobs/view/4469362862/) — NiSource
-- 📍 **Location:** Merrillville, IN
-- 💰 **Salary:** $96,600.00 - $144,900.00
+### [Manager of Environmental Programs & Services](https://www.linkedin.com/jobs/view/4469706410/) — Pepco Holdings
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Environmental Associate](https://www.linkedin.com/jobs/view/4469627332/) — Sargent & Lundy
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $100,019 - $152,807
+### [ArcGIS Konfigurationsspezialist (m/w/d)](https://www.linkedin.com/jobs/view/4469713091/) — Madison Black
+- 📍 **Location:** Frankfurt am Main, Hesse, Germany
 - 🕒 **Posted:** 2026-09-24
 
-### [Natural Resources Permitting Coordinator](https://www.linkedin.com/jobs/view/4469380318/) — NiSource
-- 📍 **Location:** Chester, VA
-- 💰 **Salary:** $82,200.00 - $123,200.00
+### [Data Entry and Data Processor](https://www.linkedin.com/jobs/view/4469385385/) — CAST Laboratories Pte Ltd
+- 📍 **Location:** Malaysia
 - 🕒 **Posted:** 2026-09-24
 
-### [Restoration Assistant Project Manager](https://www.linkedin.com/jobs/view/4467800124/) — Cotton Holdings Inc.
-- 📍 **Location:** Waco, TX
-- 💰 **Salary:** $25.00/hr - $25.00/hr
+### [Environmental Health Safety Staff](https://www.linkedin.com/jobs/view/4471431139/) — LIXIL
+- 📍 **Location:** Hanoi, Hanoi, Vietnam
 - 🕒 **Posted:** 2026-09-24
-
-### [Environmental Graduate Programme](https://www.linkedin.com/jobs/view/4469154389/) — AtkinsRéalis
-- 📍 **Location:** Belfast, Northern Ireland, United Kingdom
-- 🕒 **Posted:** 2026-09-24
-
-### [Environmental Health Safety Specialist (Operations)](https://www.linkedin.com/jobs/view/4469621818/) — GE Evergreen
-- 📍 **Location:** Taoyuan City, Taiwan
-- 🕒 **Posted:** 2026-09-24
-
-### [Phoenix - Environmental Specialist](https://www.linkedin.com/jobs/view/4469623287/) — Nevada Gold Mines
-- 📍 **Location:** Winnemucca, NV
-- 🕒 **Posted:** 2026-09-23
