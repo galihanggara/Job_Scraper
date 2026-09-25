@@ -1,119 +1,50 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-25 02:01 UTC*
+*Last updated: 2026-09-25 08:16 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [GIS Specialist - RPU](https://www.linkedin.com/jobs/view/4469793753/) — City of Rochester, MN
-- 📍 **Location:** Rochester, MN
-- 💰 **Salary:** $85,632-$100,743
+### [GIS Technician](https://www.linkedin.com/jobs/view/4471875100/) — Actalent
+- 📍 **Location:** Armonk, NY
+- 💰 **Salary:** $55,000 - $70,000 annually
 - 🕒 **Posted:** 2026-09-25
 
-### [Environmental Regulatory Specialist II](https://www.linkedin.com/jobs/view/4448224669/) — HydroGeoLogic, Inc.
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $67,631.00/yr - $98,066.00/yr
+### [Environmental Engineer (Open for freshers)](https://www.linkedin.com/jobs/view/4470144017/) — SGS
+- 📍 **Location:** Phường Chí Minh, Hai Duong, Vietnam
 - 🕒 **Posted:** 2026-09-25
 
-### [Regional Environmental Engineer, AWS Environmental Team](https://www.linkedin.com/jobs/view/4471814458/) — Amazon Web Services (AWS)
-- 📍 **Location:** Shreveport, LA
+### [Environmental Engineer (Open for freshers)](https://www.linkedin.com/jobs/view/4470132444/) — SGS
+- 📍 **Location:** Phường Chí Minh, Hai Duong, Vietnam
 - 🕒 **Posted:** 2026-09-25
 
-### [Regional Environmental Engineer, AWS Environmental Team](https://www.linkedin.com/jobs/view/4471800971/) — Amazon Web Services (AWS)
-- 📍 **Location:** Benton, LA
-- 🕒 **Posted:** 2026-09-25
-
-### [Wildlife Biologist](https://www.linkedin.com/jobs/view/4471832021/) — Mountainview Biological Consulting, LLC
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471819862/) — Alignerr
-- 📍 **Location:** Wollongong, New South Wales, Australia
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471836089/) — Alignerr
-- 📍 **Location:** Christchurch, England, United Kingdom
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471825500/) — Alignerr
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471816979/) — Alignerr
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4471831168/) — Alignerr
-- 📍 **Location:** Sydney, New South Wales, Australia
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471838053/) — Alignerr
-- 📍 **Location:** Sydney, New South Wales, Australia
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4471829205/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471823660/) — Alignerr
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471826445/) — Alignerr
-- 📍 **Location:** Germany
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471838051/) — Alignerr
-- 📍 **Location:** Birmingham, England, United Kingdom
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Genehmigungsmanager/ Permit & Environmental Specialist (m/w/d)](https://www.linkedin.com/jobs/view/4471835154/) — ERSG Careers
-- 📍 **Location:** Hamburg, Hamburg, Germany
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4470065012/) — Bridgestone Americas
-- 📍 **Location:** Normal, IL
-- 💰 **Salary:** $82,700.00 - $128,200.00
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4471833450/) — ACCIONA
-- 📍 **Location:** Melbourne, Victoria, Australia
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Inspection Supervisor](https://www.linkedin.com/jobs/view/4470064065/) — City of Aurora
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $88,164 - $110,205 per year
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471820885/) — Alignerr
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Restoration Assistant Project Manager](https://www.linkedin.com/jobs/view/4470065195/) — Cotton Holdings Inc.
+### [Environmental Coordinator II (Dallas Water Utilities - Civil Service)](https://www.linkedin.com/jobs/view/4471865437/) — City of Dallas
 - 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $22.00/hr - $23.00/hr
+- 💰 **Salary:** $58,801.60 - $70,574.40
 - 🕒 **Posted:** 2026-09-25
 
-### [Environmental Programs Manager](https://www.linkedin.com/jobs/view/4470066007/) — Flexcar
-- 📍 **Location:** El Monte, CA
-- 💰 **Salary:** $85,000- $118,000
+### [Research Scholar - Spatial Planning and Ecological Modelling - (2 positions)](https://www.linkedin.com/jobs/view/4437159685/) — International Institute for Applied Systems Analysis (IIASA)
+- 📍 **Location:** Laxenburg, Lower Austria, Austria
 - 🕒 **Posted:** 2026-09-25
 
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471834148/) — Alignerr
-- 📍 **Location:** United Kingdom
-- 💰 **Salary:** $35.00/hr - $60.00/hr
+### [Environmental Advisor](https://www.linkedin.com/jobs/view/4470145255/) — Ontario Power Generation
+- 📍 **Location:** Pickering, Ontario, Canada
+- 💰 **Salary:** $1,664.34 - $2,622.59
 - 🕒 **Posted:** 2026-09-25
 
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4471823657/) — Alignerr
-- 📍 **Location:** Glasgow, Scotland, United Kingdom
-- 💰 **Salary:** $35.00/hr - $60.00/hr
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4471853945/) — Actalent
+- 📍 **Location:** Easley, SC
+- 💰 **Salary:** $35.00 - $43.00/hr
+- 🕒 **Posted:** 2026-09-25
+
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4471864639/) — Actalent
+- 📍 **Location:** Anderson, SC
+- 💰 **Salary:** $35.00 - $43.00/hr
+- 🕒 **Posted:** 2026-09-25
+
+### [Health and Land Use Assistant](https://www.linkedin.com/jobs/view/4470087567/) — Town of Carlisle
+- 📍 **Location:** To, Ibaraki, Japan
+- 💰 **Salary:** $36.01 to $36.73 per hour
+- 🕒 **Posted:** 2026-09-25
+
+### [Art Conservation & Restoration Associate](https://www.linkedin.com/jobs/view/4468805986/) — I'Arte Rinasce
+- 📍 **Location:** Mumbai, Maharashtra, India
 - 🕒 **Posted:** 2026-09-25
