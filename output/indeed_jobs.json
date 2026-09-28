@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28 07:40 UTC",
+  "scraped_at": "2026-09-28 21:39 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "SNEI Biological",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "SNEI Biological",
-      "title": "Environmental Technical Writer & Reporting Specialist",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=9bbe8aed213039bd",
-      "direct_url": "http://www.indeed.com/job/environmental-technical-writer-reporting-specialist-9bbe8aed213039bd",
-      "company_url": "https://www.indeed.com/cmp/Snei-Biological-2",
-      "date_posted": "2026-09-28",
-      "description": "**Job Title:** Environmental Technical Writer \\& Reporting Specialist\n\n**Location:** Remote\n\n**Job Type:** Part\\-Time\n\nSouthern Nevada Environmental, Inc. **(SNEI)** is seeking an experienced environmental technical writer with **prior experience on Mojave Desert projects** to prepare biological survey and environmental compliance reports for utility, renewable energy, and infrastructure projects. Much of our work involves **botanical and desert tortoise surveys**, so experience reporting on either or both is especially valuable.\n\nSNEI needs someone who can take ownership of a report from first draft through final delivery. You will organize field data and project records, work with biologists and project managers to resolve questions, coordinate technical review, and produce clear, accurate documents for our clients.\n\n**Responsibilities**\n\n* Draft and edit botanical, desert tortoise, other biological survey, monitoring, environmental summary, and compliance reports.\n* Turn field notes, datasets, GIS information, photographs, permit requirements, and input from technical staff into organized reports.\n* Develop reports using project templates, previous reporting periods, and project\\-specific documentation.\n* Identify missing information, conflicting figures, and unclear conclusions; work with technical staff to resolve them.\n* Coordinate reviews, incorporate comments, and check consistency across report text, tables, figures, photographs, and appendices.\n* Manage multiple assignments and communicate progress and deadlines to project managers.\n* As workload allows, assist with proposals, qualifications packages, and other technical documents.\n\n**Required Qualifications**\n\n* Prior experience working on Mojave Desert environmental or biological projects, including familiarity with the region’s habitats and sensitive species.\n* Demonstrated experience preparing environmental or biological technical reports, preferably in an environmental consulting setting.\n* Ability to interpret field data and accurately present survey methods, biological findings, and environmental compliance requirements.\n* Strong writing, editing, proofreading, and organizational skills.\n* Proficiency in Microsoft Word, including formatting complex documents and managing tables, captions, and cross\\-references.\n* Ability to work independently and communicate effectively with technical staff in a remote setting.\n\n**Preferred Qualifications**\n\n* Experience writing botanical survey, rare plant, vegetation, habitat assessment, or desert tortoise survey reports.\n* Experience with utility, renewable energy, transmission, pipeline, or other infrastructure projects.\n* Familiarity with environmental and biological resource requirements of agencies such as BLM, USFWS, CDFW, or NDOW.\n\n**Position Details**\n\nThis is a part\\-time, remote role with regular weekly availability. Workload may vary with project schedules, and some reports will have firm client deadlines. **Starting pay is $40–$50 per hour, depending on relevant experience and writing samples.**\n\n**To apply, please submit a résumé and one or two redacted environmental reports or comparable technical writing samples that you substantially authored.** Briefly describe your role in preparing each sample and your experience with Mojave Desert projects. Botanical or desert tortoise report samples are especially welcome.\n\n**Submit resume and samples to :** Careers@SNEI.com\n\nThis position is part\\-time and does not include benefits.\n\nPay: From $40\\.00 per hour\n\nWork Location: Remote",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "parttime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "Careers@SNEI.com",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
