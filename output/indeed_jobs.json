@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-09-30 06:02 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-09-30 20:29 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Tek Annoa LLC",
+      "title": "GIS Analyst II",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=f5169757b9f838e1",
+      "direct_url": "http://www.indeed.com/job/gis-analyst-ii-f5169757b9f838e1",
+      "company_url": "https://www.indeed.com/cmp/Tek-Annoa-LLC",
+      "date_posted": "2026-09-30",
+      "description": "**Overview**  \nJoin our dynamic team as a GIS Analyst II and play a pivotal role in advancing spatial data management, analysis, and visualization. This energetic position offers the opportunity to leverage cutting\\-edge GIS technologies and tools to support infrastructure projects, land surveying initiatives, and data\\-driven decision\\-making. As a key contributor, you will collaborate across departments to enhance mapping accuracy, streamline data workflows, and deliver insightful spatial solutions that drive operational excellence.\n\n**Responsibilities**\n\n* Implements analytical techniques necessary to solve recurring, procedural, and factual geospatial and GIS issues. Knowledge of legal land descriptions, right of ways \\& leases.\n* Administers geospatial databases and implements quality control and assurance guidelines for geospatial data projects within ESRI parcel fabric environment.\n* Participates on interdisciplinary teams with various stakeholders such as other federal agencies, Regional Geospatial Coordinators and other BIA divisions on various mapping projects.\n* Implements analytical techniques necessary to solve recurring, procedural, and factual geospatial and GIS issues (i.e. identifying data needs for specific projects, determining compatibility with other platforms, locating missing information).\n* Knowledge of geographic/cartographic sciences, interdisciplinary resource management, and database management in order to learn to administer geospatial databases. Knowledge of appropriate database design principles in order to identify interrelationships within GIS data.\n* Knowledge of standardized geospatial and GIS software/hardware applicable to the BIA/tribes.\n* Ability to develop and maintain metadata for all GIS projects for the Division.\n\n**Experience**\n\n* Proven experience working with GIS software such as ArcGIS and CAD tools like AutoCAD or similar drafting applications.\n* Strong understanding of land surveying principles combined with practical GPS data collection skills.\n* Demonstrated proficiency in SQL databases, relational database management systems, and data modeling techniques.\n* Skilled in scripting languages including Python and JavaScript for automation and customization of GIS workflows.\n* Experience with data visualization tools to create engaging maps and reports that facilitate decision\\-making.\n* Knowledge of project management principles applied within geospatial projects involving construction or infrastructure development.\n* Ability to analyze complex spatial datasets using analysis skills to derive actionable insights.\n* Familiarity with SharePoint or other document management systems for organizing geospatial project files.\n* Leadership qualities with experience guiding junior team members or leading small projects related to GIS or land surveying initiatives. Embark on a career where your technical expertise fuels impactful projects! We’re dedicated to fostering an environment of innovation where your skills in GIS analysis, drafting, data management, and project coordination will thrive—empowering you to make a tangible difference every day!\n\nJob Type: Full\\-time\n\nPay: $55,000\\.00 \\- $64,000\\.00 per year\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Dental insurance\n* Health insurance\n* Life insurance\n* Paid time off\n* Vision insurance\n\nWork Location: Remote",
+      "salary": "$55k–$64k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "Select Water Solutions",
       "title": "GIS Analyst",
@@ -22,5 +40,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Tek Annoa LLC",
+      "title": "GIS Analyst II",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=f5169757b9f838e1",
+      "direct_url": "http://www.indeed.com/job/gis-analyst-ii-f5169757b9f838e1",
+      "company_url": "https://www.indeed.com/cmp/Tek-Annoa-LLC",
+      "date_posted": "2026-09-30",
+      "description": "**Overview**  \nJoin our dynamic team as a GIS Analyst II and play a pivotal role in advancing spatial data management, analysis, and visualization. This energetic position offers the opportunity to leverage cutting\\-edge GIS technologies and tools to support infrastructure projects, land surveying initiatives, and data\\-driven decision\\-making. As a key contributor, you will collaborate across departments to enhance mapping accuracy, streamline data workflows, and deliver insightful spatial solutions that drive operational excellence.\n\n**Responsibilities**\n\n* Implements analytical techniques necessary to solve recurring, procedural, and factual geospatial and GIS issues. Knowledge of legal land descriptions, right of ways \\& leases.\n* Administers geospatial databases and implements quality control and assurance guidelines for geospatial data projects within ESRI parcel fabric environment.\n* Participates on interdisciplinary teams with various stakeholders such as other federal agencies, Regional Geospatial Coordinators and other BIA divisions on various mapping projects.\n* Implements analytical techniques necessary to solve recurring, procedural, and factual geospatial and GIS issues (i.e. identifying data needs for specific projects, determining compatibility with other platforms, locating missing information).\n* Knowledge of geographic/cartographic sciences, interdisciplinary resource management, and database management in order to learn to administer geospatial databases. Knowledge of appropriate database design principles in order to identify interrelationships within GIS data.\n* Knowledge of standardized geospatial and GIS software/hardware applicable to the BIA/tribes.\n* Ability to develop and maintain metadata for all GIS projects for the Division.\n\n**Experience**\n\n* Proven experience working with GIS software such as ArcGIS and CAD tools like AutoCAD or similar drafting applications.\n* Strong understanding of land surveying principles combined with practical GPS data collection skills.\n* Demonstrated proficiency in SQL databases, relational database management systems, and data modeling techniques.\n* Skilled in scripting languages including Python and JavaScript for automation and customization of GIS workflows.\n* Experience with data visualization tools to create engaging maps and reports that facilitate decision\\-making.\n* Knowledge of project management principles applied within geospatial projects involving construction or infrastructure development.\n* Ability to analyze complex spatial datasets using analysis skills to derive actionable insights.\n* Familiarity with SharePoint or other document management systems for organizing geospatial project files.\n* Leadership qualities with experience guiding junior team members or leading small projects related to GIS or land surveying initiatives. Embark on a career where your technical expertise fuels impactful projects! We’re dedicated to fostering an environment of innovation where your skills in GIS analysis, drafting, data management, and project coordination will thrive—empowering you to make a tangible difference every day!\n\nJob Type: Full\\-time\n\nPay: $55,000\\.00 \\- $64,000\\.00 per year\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Dental insurance\n* Health insurance\n* Life insurance\n* Paid time off\n* Vision insurance\n\nWork Location: Remote",
+      "salary": "$55k–$64k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
