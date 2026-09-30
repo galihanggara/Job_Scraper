@@ -1,44 +1,107 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-09-30 06:00 UTC*
+*Last updated: 2026-09-30 20:28 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Census Geospatial Analyst](https://www.linkedin.com/jobs/view/4472112172/) — Office for National Statistics
-- 📍 **Location:** Titchfield, England, United Kingdom
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4473939732/) — MRA Recruiting Services
+- 📍 **Location:** South Beloit, IL
+- 💰 **Salary:** $60 - $70,000 per year
 - 🕒 **Posted:** 2026-09-30
 
-### [Census Senior Geospatial Analyst](https://www.linkedin.com/jobs/view/4472112173/) — Office for National Statistics
-- 📍 **Location:** Titchfield, England, United Kingdom
+### [Consulting Senior Associate, Environmental Engineer, Geologist, or Scientist](https://www.linkedin.com/jobs/view/4472629644/) — ERM
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-09-30
 
-### [GIS Specialist – Technical Documentation for Utility Infrastructure](https://www.linkedin.com/jobs/view/4473713546/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Cadista / Desenhista Técnico – Vetorização de Levantamentos com Drone](https://www.linkedin.com/jobs/view/4473950326/) — Drones Solution Europe
+- 📍 **Location:** Brazil
 - 🕒 **Posted:** 2026-09-30
 
-### [Permit Writer (Environmental Specialist 4)](https://www.linkedin.com/jobs/view/4472122102/) — Washington State Department of Ecology
-- 📍 **Location:** Lacey, WA
+### [Regional Environmental Engineer](https://www.linkedin.com/jobs/view/4473916824/) — Amazon Web Services (AWS)
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-30
 
-### [Hydrographic GIS Developer with Esri & Python](https://www.linkedin.com/jobs/view/4473718033/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Environmental Remediation Engineer or Geologist](https://www.linkedin.com/jobs/view/4472344420/) — Geosyntec Consultants
+- 📍 **Location:** Las Cruces, NM
 - 🕒 **Posted:** 2026-09-30
 
-### [GIS/CAD Specialist – Geospatial Data Processing (m/f/d)](https://www.linkedin.com/jobs/view/4473596972/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Environmental Remediation Engineer or Geologist](https://www.linkedin.com/jobs/view/4472343541/) — Geosyntec Consultants
+- 📍 **Location:** Midland, TX
 - 🕒 **Posted:** 2026-09-30
 
-### [Drone Pilot](https://www.linkedin.com/jobs/view/4473539823/) — DroneXclean
-- 📍 **Location:** Greater London, England, United Kingdom
+### [Department Manager, Geospatial](https://www.linkedin.com/jobs/view/4473933941/) — Cobb, Fendley & Associates, Inc.
+- 📍 **Location:** Greater Houston
 - 🕒 **Posted:** 2026-09-30
 
-### [GIS Specialist for Road & Parks and Nature & Outdoor Recreation](https://www.linkedin.com/jobs/view/4473713545/) — GIS Career Hub
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+### [Environmental Permitting Manager - #3066](https://www.linkedin.com/jobs/view/4473943679/) — Wade Trim
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-09-30
 
-### [Environmental Advisor](https://www.linkedin.com/jobs/view/4473719087/) — Abergeldie Complex Infrastructure
-- 📍 **Location:** Sydney, New South Wales, Australia
+### [Intermediate Restoration Technician](https://www.linkedin.com/jobs/view/4471763479/) — BELFOR Property Restoration
+- 📍 **Location:** Windsor, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [Regional Compliance Inspector - Refrigerant Management Program (Environmental Specialist 3)](https://www.linkedin.com/jobs/view/4472251731/) — Washington State Department of Ecology
-- 📍 **Location:** Shoreline, WA
+### [Restoration Technician](https://www.linkedin.com/jobs/view/4473959125/) — SERVPRO of Vacaville / Dixon
+- 📍 **Location:** Cheyenne, WY
+- 🕒 **Posted:** 2026-09-30
+
+### [Biomass Sales Manager (F/M)](https://www.linkedin.com/jobs/view/4473961115/) — Axens
+- 📍 **Location:** ’s-Hertogenbosch, North Brabant, Netherlands
+- 🕒 **Posted:** 2026-09-30
+
+### [Environmental Planning Analyst](https://www.linkedin.com/jobs/view/4472328921/) — Kimley-Horn
+- 📍 **Location:** Orange, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Lead Environmental Compliance Manager (Owner's Advisor) (Field Based)](https://www.linkedin.com/jobs/view/4472624812/) — ERM
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-30
+
+### [Early career Environmental Scientist](https://www.linkedin.com/jobs/view/4472336959/) — WSP in the U.S.
+- 📍 **Location:** Savannah, GA
+- 🕒 **Posted:** 2026-09-30
+
+### [Environmental Staff Project Manager](https://www.linkedin.com/jobs/view/4473942526/) — ECS Group of Companies
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Software Engineer (Remote Sensing)](https://www.linkedin.com/jobs/view/4472351231/) — Lawrence Harvey
+- 📍 **Location:** Arlington, VA
+- 💰 **Salary:** $155,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Photonics Engineer, LiDAR / FSOC](https://www.linkedin.com/jobs/view/4472329895/) — Analog Photonics
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $130,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [*Manufacturing Data Coordinator*](https://www.linkedin.com/jobs/view/4472339645/) — CITTERIO USA
+- 📍 **Location:** Freeland, PA
+- 🕒 **Posted:** 2026-09-30
+
+### [Research Data Coordinator I Lymphoma/Myeloma](https://www.linkedin.com/jobs/view/4473524275/) — Moffitt Cancer Center
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-09-30
+
+### [Principal Investigator, LiDAR / FSOC Programs](https://www.linkedin.com/jobs/view/4472344390/) — Analog Photonics
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $200,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Tile Restoration Service Technician](https://www.linkedin.com/jobs/view/4473933956/) — Sir Grout
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $45,000 to $55,000
+- 🕒 **Posted:** 2026-09-30
+
+### [Restoration Technician](https://www.linkedin.com/jobs/view/4473945684/) — SERVPRO of Vacaville / Dixon
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $18.00 - $26.00 per hour
+- 🕒 **Posted:** 2026-09-30
+
+### [Experienced Water Restoration Crew Chief](https://www.linkedin.com/jobs/view/4473950136/) — Michael and Son Services
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $21-$25 per hour
+- 🕒 **Posted:** 2026-09-30
+
+### [Environmental Consultant](https://www.linkedin.com/jobs/view/4471532898/) — AECOM
+- 📍 **Location:** Mons, Walloon Region, Belgium
 - 🕒 **Posted:** 2026-09-30
