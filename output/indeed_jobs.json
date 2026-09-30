@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-30 00:09 UTC",
+  "scraped_at": "2026-09-30 06:02 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Select Water Solutions",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Select Water Solutions",
-      "title": "GIS Analyst",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=d13ac32960065f87",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/CANDIDATEPORTAL/jobs/33182",
-      "company_url": "https://www.indeed.com/cmp/Select-Water-Solutions",
-      "date_posted": "2026-09-29",
-      "description": "Job Details\n  \n**Full Time / Part Time:** Full Time\n  \n**FLSA Classification:** Exempt\n  \n**Business Unit:** IT Data and Viz\n  \n**Reports to:** Senior Manager\n  \n**Travel Requirement:** No\n  \n  \n\nJOB DESCRIPTION\n  \n  \n\nSelect’s GIS Analyst applies knowledge of Geographic Information Systems (GIS) to a variety of projects for analytical, land use, and environmental purposes; designs, compiles and analyzes data; and prepares data, analysis, maps and mapping applications.\n  \n  \n\nThe essential job functions include, but are not limited to\n  \n* Maintains and enhances geographic information system data sets, according to evolving needs and resources including digitizing, editing, research, creation, calculation and editing of attributes and merging of data from different sources; documents data sets, applications and procedures.\n* Creates, maintains, and conducts quality assurance/quality control (QA/QC) of geographic data sets using a variety of software and source data.\n\n\nOther duties\n  \nPlease note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.\n  \n  \n\nRequirements\n  \nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required:\n  \n* Bachelor’s degree in a related field is required.\n* 2 to 4 years of related work experience is preferred.\n* 3\\+ years of experience with ESRI software preferred.\n* 2\\+ years of experience using ArcGIS Pro preferred.\n* Oral and written communication skills.\n* Technical expertise.\n* Analytical thinking skills.\n* Research skills.\n\n\nSelect Values and Guiding Principles\n  \n* W: Working Safe\n* A: Accountability\n* T: Teamwork\n* E: Excellence\n* R: Respect\n\n\nCompensation Information\n  \nCompensation is competitive and commensurate with experience.\n  \n  \n\nTop Tier Benefits\n  \n* Medical, dental, vision, coverage in addition to life and disability insurance plans.\n* Paid Vacation Days and Paid Holidays.\n* Retirement and Savings (401K) Plan.\n\n\nPhysical Demands and Exposures\n  \n* This position works inside a climate\\-controlled environment. The Company will supply adequate training and equipment to perform the functions of the job.\n* Monday – Friday, 8am\\-5pm.\n* Involves sitting at a desk for extended periods of time.\n* Needs high degree of concentration in a busy area.\n* Ability to lift up to 25 lbs.\n\n\nSelect Water Solutions is an equal opportunity employer. It is Select’s policy to prohibit discrimination and harassment of any type and to afford equal employment opportunities to employees and applicants without regard to any protected class, status, characteristic, or activity. All employment decisions, including decisions regarding recruitment, selection, hiring, compensation, benefits, training, advancement, discipline, discharge, and other terms, conditions, and privileges of employment are made without regard to any lawfully protected class, status, characteristic, or activity.\n  \n  \n\nSelect Water Solutions requires all employees whose jobs may involve environmental compliance to understand and comply with the U.S. Environmental Protections Agency’s Clean Air Act that regulates air emissions from stationary and mobile sources. A copy of the Clean Air Act can be provided to you upon request from Human Resources.\n  \n  \n\nSelect Water Solutions participates in E\\-Verify and will provide the federal government with your Form I\\-9 information to confirm that you are authorized to work in the U.S. If E\\-Verify cannot confirm that you are authorized to work, Select is required to give you written instructions and an opportunity to contact Department of Homeland Security (DHS) or Social Security Administration (SSA) so you can begin to resolve the issue before the employer can take any action against you, including terminating your employment. Select only uses E\\-Verify once you have accepted a job offer and completed the Form I\\-9\\.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
