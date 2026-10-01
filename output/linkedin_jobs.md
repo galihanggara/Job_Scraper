@@ -1,74 +1,51 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-10-01 00:10 UTC*
+*Last updated: 2026-10-01 06:29 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [GIS Technician - North Carolina](https://www.linkedin.com/jobs/view/4472649406/) — ORC
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $42,443.00/yr - $67,669.00/yr
-- 🕒 **Posted:** 2026-09-30
+### [GIS Specialist (m/f/d) – Network Documentation & Surveying (Part-time, 19.5 hrs/week)](https://www.linkedin.com/jobs/view/4472696062/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-10-01
 
-### [GIS Technician - South Carolina](https://www.linkedin.com/jobs/view/4472647467/) — ORC
-- 📍 **Location:** Columbia, SC
-- 💰 **Salary:** $42,443.00/yr - $67,669.00/yr
-- 🕒 **Posted:** 2026-09-30
+### [Technical Lead – Web GIS (H/F)](https://www.linkedin.com/jobs/view/4472693199/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-10-01
 
-### [Professional Environmental Engineer](https://www.linkedin.com/jobs/view/4464138449/) — Kansas Department of Health and Environment
-- 📍 **Location:** Shawnee County, KS
-- 🕒 **Posted:** 2026-09-30
+### [GIS Consultant & Solution Engineer](https://www.linkedin.com/jobs/view/4472680893/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-10-01
 
-### [Researcher in Environmental Psychology](https://www.linkedin.com/jobs/view/4472366664/) — Norwegian University of Science and Technology (NTNU)
-- 📍 **Location:** Trondheim Region
-- 🕒 **Posted:** 2026-09-30
+### [Geospatial Analyst Officer (Intelligence & Security) – WO Level](https://www.linkedin.com/jobs/view/4472685579/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-10-01
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4472360712/) — Collabera
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $80,000.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-09-30
+### [Researcher (Ecological, Evolutionary & Environmental Sciences/ Health, Applied & Quantitative Scienc](https://www.linkedin.com/jobs/view/4474130177/) — AppLab Systems, Inc
+- 📍 **Location:** United States
+- 💰 **Salary:** $ 100-$120
+- 🕒 **Posted:** 2026-10-01
 
-### [Permit Writer (Environmental Specialist 4)](https://www.linkedin.com/jobs/view/4472122102/) — Washington State Department of Ecology
-- 📍 **Location:** Lacey, WA
-- 🕒 **Posted:** 2026-09-30
+### [GIS Specialist (Geographic Information Specialist II–III)](https://www.linkedin.com/jobs/view/4472689418/) — GIS Career Hub
+- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
+- 🕒 **Posted:** 2026-10-01
 
-### [Project Manager - Natural Resources](https://www.linkedin.com/jobs/view/4472657186/) — TRC Companies, Inc.
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** USD $100,000.00 - USD $131,144.00 /Yr
-- 🕒 **Posted:** 2026-09-30
+### [Environmental Health Officer](https://www.linkedin.com/jobs/view/4474111832/) — Orange City Council
+- 📍 **Location:** Orange, New South Wales, Australia
+- 🕒 **Posted:** 2026-10-01
 
-### [Project Manager - Natural Resources](https://www.linkedin.com/jobs/view/4472643687/) — TRC Companies, Inc.
-- 📍 **Location:** Norcross, GA
-- 💰 **Salary:** USD $100,000.00 - USD $131,144.00 /Yr
-- 🕒 **Posted:** 2026-09-30
+### [Environmental Field Superintendent - Georgia](https://www.linkedin.com/jobs/view/4472696195/) — DEPCOM Power, Inc
+- 📍 **Location:** Baconton, GA
+- 💰 **Salary:** $100,000 - $130,000
+- 🕒 **Posted:** 2026-10-01
 
-### [Environmental Planner](https://www.linkedin.com/jobs/view/4473981298/) — Jacobs
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $75,300.00/yr - $117,600.00/yr
-- 🕒 **Posted:** 2026-09-30
+### [Environmental Analyst](https://www.linkedin.com/jobs/view/4474128474/) — Colliers
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $38.46 to $44.23
+- 🕒 **Posted:** 2026-10-01
 
-### [Sr. Engineer/Project Manager – Civil & Environmental Engineering](https://www.linkedin.com/jobs/view/4472657099/) — Clark Dietz, Inc.
-- 📍 **Location:** Kenosha, WI
-- 💰 **Salary:** $114,483 - $139,984
-- 🕒 **Posted:** 2026-09-30
+### [Manager (m/w/d) Environmental, Health & Safety](https://www.linkedin.com/jobs/view/4474127423/) — CSL
+- 📍 **Location:** Marburg an der Lahn, Hesse, Germany
+- 🕒 **Posted:** 2026-10-01
 
-### [Environmental Health Educator](https://www.linkedin.com/jobs/view/4473983133/) — State of Colorado
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-09-30
-
-### [Project Manager - Natural Resources](https://www.linkedin.com/jobs/view/4472660017/) — TRC Companies, Inc.
-- 📍 **Location:** Baton Rouge, LA
-- 💰 **Salary:** USD $100,000.00 - USD $131,144.00 /Yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Getty Post-Baccalaureate Conservation Internships](https://www.linkedin.com/jobs/view/4472655182/) — Collections That Care
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Environmental Manager](https://www.linkedin.com/jobs/view/4472373359/) — Insight Global
-- 📍 **Location:** Brook, IN
-- 💰 **Salary:** $98,000.00/yr - $124,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Environmental Planner](https://www.linkedin.com/jobs/view/4473975399/) — Jacobs
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $75,300.00/yr - $117,600.00/yr
-- 🕒 **Posted:** 2026-09-30
+### [Environmental Manager](https://www.linkedin.com/jobs/view/4472684727/) — PeopleStrong
+- 📍 **Location:** Vishakhapatnam, Andhra Pradesh, India
+- 🕒 **Posted:** 2026-10-01
