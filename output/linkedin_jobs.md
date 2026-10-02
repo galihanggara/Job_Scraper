@@ -1,106 +1,67 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-10-02 01:13 UTC*
+*Last updated: 2026-10-02 07:25 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Geospatial Quality Analyst](https://www.linkedin.com/jobs/view/4470019167/) — Dewberry
-- 📍 **Location:** Tampa, FL
+### [Environmental Advisor](https://www.linkedin.com/jobs/view/4474710157/) — Northern Star Resources Limited
+- 📍 **Location:** Perth, Western Australia, Australia
 - 🕒 **Posted:** 2026-10-02
 
-### [NRRI-Associate Staff Scientist, Environmental Scientist](https://www.linkedin.com/jobs/view/4472992189/) — University of Minnesota
-- 📍 **Location:** Duluth, MN
-- 💰 **Salary:** $46,155.20 - $57,345.60 annually
+### [Environmental Compliance Water Specialist](https://www.linkedin.com/jobs/view/4459235938/) — Herndon Solutions Group
+- 📍 **Location:** Hampton, VA
+- 💰 **Salary:** $69,000.00/yr - $74,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Lead Geospatial Data Engineer](https://www.linkedin.com/jobs/view/4472997039/) — Logic20/20, Inc.
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $156,348.00/yr - $175,194.00/yr
+### [Environmental Engineer](https://www.linkedin.com/jobs/view/4473105677/) — NMDC Dredging & Marine
+- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Environmental Scientist (Specialist)](https://www.linkedin.com/jobs/view/4474547798/) — CalRecycle
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $7,820.00/mo - $10,732.00/mo
+### [Data Processing Programmer](https://www.linkedin.com/jobs/view/4472874622/) — InsightAsia
+- 📍 **Location:** Ho Chi Minh City, Vietnam
 - 🕒 **Posted:** 2026-10-02
 
-### [Integrated Watershed Management Business Class Lead for Water Resource Plan Formulation](https://www.linkedin.com/jobs/view/4472856032/) — HDR
-- 📍 **Location:** Greater Cleveland
-- 💰 **Salary:** $160,000-$250,000
+### [LiDAR/Laser System Engineer](https://www.linkedin.com/jobs/view/4428255715/) — OVERTECH Consulting
+- 📍 **Location:** Rome, Latium, Italy
 - 🕒 **Posted:** 2026-10-02
 
-### [Environmental Planner 2](https://www.linkedin.com/jobs/view/4472854042/) — HDR
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $84,000 - $126,000
+### [Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4473108610/) — NMDC Dredging & Marine
+- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
 - 🕒 **Posted:** 2026-10-02
 
-### [Environmental Planner 2](https://www.linkedin.com/jobs/view/4472849236/) — HDR
+### [Environmental Health Scientist at U.S. Department of Health and Human Services](https://www.linkedin.com/jobs/view/4474702473/) — UCI-OC Alliance
+- 📍 **Location:** Kouffo Department, Benin
+- 🕒 **Posted:** 2026-10-02
+
+### [Water damage restoration technician](https://www.linkedin.com/jobs/view/4472818479/) — American Water Restoration Inc.
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $84,000 - $126,000
+- 💰 **Salary:** $25.00–$30.00 per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Environmental Technical Support Specialist](https://www.linkedin.com/jobs/view/4474544820/) — EFI Global
-- 📍 **Location:** Wilmington, MA
-- 💰 **Salary:** $50,000 - $60,000
+### [Director of Agricultural Programs at Resource Conservation District of Greater San Diego](https://www.linkedin.com/jobs/view/4474596778/) — UCI-OC Alliance
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Environmental Health Program Supervisor](https://www.linkedin.com/jobs/view/4474563213/) — County of San Mateo
-- 📍 **Location:** San Mateo County, CA
-- 💰 **Salary:** $11,989.47/mo - $14,984.67/mo
+### [Environmental Officer](https://www.linkedin.com/jobs/view/4472999942/) — NMDC Dredging & Marine
+- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
 - 🕒 **Posted:** 2026-10-02
 
-### [REGIONAL PARK SUPERINTENDENT II, Environmental Justice Center](https://www.linkedin.com/jobs/view/4474550848/) — County of Los Angeles
-- 📍 **Location:** Los Angeles County, CA
+### [Environmental Protection Specialist (Direct Hire)](https://www.linkedin.com/jobs/view/4473110413/) — NASA - National Aeronautics and Space Administration
+- 📍 **Location:** Pasadena, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Building Environmental Services Technician - Grounds](https://www.linkedin.com/jobs/view/4472987514/) — NCCU Public Administration
-- 📍 **Location:** Durham, NC
-- 💰 **Salary:** $33,540 - $36,520
+### [Environmental Analyst 1 at State of Connecticut Executive Branch](https://www.linkedin.com/jobs/view/4474701574/) — UCI-OC Alliance
+- 📍 **Location:** West Branch, IA
 - 🕒 **Posted:** 2026-10-02
 
-### [Environmental Planner 2](https://www.linkedin.com/jobs/view/4472856031/) — HDR
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $84,000 - $126,000
+### [Project Coordinator III - (DWU Pipeline - ArcGIS) (Dallas Water Utilities - Civil Service)](https://www.linkedin.com/jobs/view/4474709289/) — City of Dallas
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $62,379.20 - $76,585.60
 - 🕒 **Posted:** 2026-10-02
 
-### [Online Course Developers and Instructors for BS in Wildlife Biology, Marine Biology (Remote)](https://www.linkedin.com/jobs/view/4474570096/) — Husson University
-- 📍 **Location:** Bangor, ME
-- 💰 **Salary:** $933.33/hr - $1,100.00/hr
+### [QGIS-Entwickler*in (m/w/d)](https://www.linkedin.com/jobs/view/4474704389/) — hamburg-magazin.de
+- 📍 **Location:** Staufen im Breisgau, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-10-02
 
-### [Fuel Restoration Technician](https://www.linkedin.com/jobs/view/4474568257/) — OWL Services
-- 📍 **Location:** Des Moines, IA
-- 💰 **Salary:** $24.16/hr - $27.00/hr
+### [Working Student - Automation of Data Processing (f/m/div)](https://www.linkedin.com/jobs/view/4473251497/) — Infineon Technologies
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-10-02
-
-### [Fuel Restoration Technician](https://www.linkedin.com/jobs/view/4474565405/) — OWL Services
-- 📍 **Location:** Tulsa, OK
-- 💰 **Salary:** $24.16/hr - $27.00/hr
-- 🕒 **Posted:** 2026-10-02
-
-### [Land Use Planner/(Community Dev) Full-Time](https://www.linkedin.com/jobs/view/4474564299/) — Williamson Fire-Rescue
-- 📍 **Location:** Job, Auvergne-Rhône-Alpes, France
-- 🕒 **Posted:** 2026-10-02
-
-### [Geospatial Analyst](https://www.linkedin.com/jobs/view/4474547494/) — GDH
-- 📍 **Location:** Eielson Air Force Base, AK
-- 💰 **Salary:** $100,000.00 – $115,000.00 Annually
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior / Staff Intelligence Analyst, Environmental Crimes](https://www.linkedin.com/jobs/view/4474560014/) — TRM Labs
-- 📍 **Location:** United Kingdom
-- 💰 **Salary:** $105,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior / Staff Intelligence Analyst, Environmental Crimes](https://www.linkedin.com/jobs/view/4474547499/) — TRM Labs
-- 📍 **Location:** Singapore
-- 💰 **Salary:** $105,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior / Staff Intelligence Analyst, Environmental Crimes](https://www.linkedin.com/jobs/view/4474541905/) — TRM Labs
-- 📍 **Location:** United States
-- 💰 **Salary:** $105,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior / Staff Intelligence Analyst, Environmental Crimes](https://www.linkedin.com/jobs/view/4474539906/) — TRM Labs
-- 📍 **Location:** Seoul, Seoul, South Korea
-- 💰 **Salary:** $105,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-01
