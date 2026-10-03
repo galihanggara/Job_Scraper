@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-02 20:25 UTC",
+  "scraped_at": "2026-10-03 00:14 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "RSA Tech Group",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "RSA Tech Group",
-      "title": "Remote - Robotics Hydro Drone Architect",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=946047798961932f",
-      "direct_url": "http://www.indeed.com/job/remote-robotics-hydro-drone-architect-946047798961932f",
-      "company_url": "https://www.indeed.com/cmp/Rsa-Tech-Group",
-      "date_posted": "2026-10-02",
-      "description": "AMR Architect Marine Drone Architect or(ASV) Architect AUV/USV Systems Architect  \nRemote  \nJob Summary\n\nWe are seeking an experienced Hydro Drone Architect to design and architect advanced autonomous drone systems for water-based, marine, and hydro-environment applications. The role will focus on autonomous navigation, robotics, sensing, AI, communication, and control systems.\n\nKey Responsibilities\n\nDesign end-to-end architecture for water-based autonomous drone systems.\n\nDevelop solutions for navigation, positioning, control, sensing, and autonomous operations.\n\nIntegrate AI/ML, computer vision, LiDAR, sonar, GPS/GNSS, IMU, cameras, and environmental sensors.\n\nDesign communication and telemetry architecture for remote and autonomous operations.\n\nDevelop integration between flight/vehicle controllers, robotics software, edge computing, and cloud platforms.\n\nArchitect real-time data collection, processing, analytics, and monitoring systems.\n\nDesign fail-safe mechanisms, redundancy, geofencing, and autonomous recovery capabilities.\n\nCollaborate with robotics, embedded, AI/ML, mechanical, electrical, and software engineering teams.\n\nLead technical architecture, proof-of-concepts, system integration, testing, and deployment.\n\nRequired Skills\n\n10+ years in robotics, autonomous systems, drone/UAV/USV architecture, or related engineering.\n\nStrong experience with autonomous robotics and control systems.\n\nExpertise in ROS/ROS2, Python, C/C++, and real-time systems.\n\nExperience with GPS/GNSS, IMU, LiDAR, sonar, computer vision, and sensor fusion.\n\nStrong understanding of navigation, localization, path planning, and obstacle avoidance.\n\nExperience with embedded systems, microcontrollers, and robotics communication protocols.\n\nKnowledge of AI/ML and computer vision for autonomous operations.\n\nExperience with AWS/Azure/GCP, edge computing, IoT, telemetry, and data pipelines.\n\nStrong understanding of system safety, reliability, cybersecurity, and fault tolerance.\n\nPreferred Skills\n\nExperience with marine robotics, autonomous surface vehicles (ASVs), underwater drones (AUVs), or hydrographic surveying.\n\nExperience with sonar, bathymetric mapping, water-quality sensors, and marine navigation.\n\nKnowledge of MAVLink, PX4, ArduPilot, DDS, CAN, MQTT, or similar protocols.\n\nExperience with digital twins, simulation, Gazebo, or NVIDIA Isaac.\n\nExperience designing systems for harsh environmental conditions.\n\nPay: $50.00 - $80.00 per hour\n\nWork Location: Remote",
-      "salary": "$50–$80/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
