@@ -1,26 +1,45 @@
 {
-  "scraped_at": "2026-10-03 05:47 UTC",
+  "scraped_at": "2026-10-03 19:06 UTC",
   "total": 1,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "RSA Tech Group",
-      "title": "Remote - Robotics Hydro Drone Architect",
+      "company": "Unknown",
+      "title": "REQUEST FOR PROPOSALS Maine Municipal Planning & GIS Consultants Raymond, Maine",
       "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=946047798961932f",
-      "direct_url": "http://www.indeed.com/job/remote-robotics-hydro-drone-architect-946047798961932f",
-      "company_url": "https://www.indeed.com/cmp/Rsa-Tech-Group",
-      "date_posted": "2026-10-02",
-      "description": "AMR Architect Marine Drone Architect or(ASV) Architect AUV/USV Systems Architect  \nRemote  \nJob Summary\n\nWe are seeking an experienced Hydro Drone Architect to design and architect advanced autonomous drone systems for water-based, marine, and hydro-environment applications. The role will focus on autonomous navigation, robotics, sensing, AI, communication, and control systems.\n\nKey Responsibilities\n\nDesign end-to-end architecture for water-based autonomous drone systems.\n\nDevelop solutions for navigation, positioning, control, sensing, and autonomous operations.\n\nIntegrate AI/ML, computer vision, LiDAR, sonar, GPS/GNSS, IMU, cameras, and environmental sensors.\n\nDesign communication and telemetry architecture for remote and autonomous operations.\n\nDevelop integration between flight/vehicle controllers, robotics software, edge computing, and cloud platforms.\n\nArchitect real-time data collection, processing, analytics, and monitoring systems.\n\nDesign fail-safe mechanisms, redundancy, geofencing, and autonomous recovery capabilities.\n\nCollaborate with robotics, embedded, AI/ML, mechanical, electrical, and software engineering teams.\n\nLead technical architecture, proof-of-concepts, system integration, testing, and deployment.\n\nRequired Skills\n\n10+ years in robotics, autonomous systems, drone/UAV/USV architecture, or related engineering.\n\nStrong experience with autonomous robotics and control systems.\n\nExpertise in ROS/ROS2, Python, C/C++, and real-time systems.\n\nExperience with GPS/GNSS, IMU, LiDAR, sonar, computer vision, and sensor fusion.\n\nStrong understanding of navigation, localization, path planning, and obstacle avoidance.\n\nExperience with embedded systems, microcontrollers, and robotics communication protocols.\n\nKnowledge of AI/ML and computer vision for autonomous operations.\n\nExperience with AWS/Azure/GCP, edge computing, IoT, telemetry, and data pipelines.\n\nStrong understanding of system safety, reliability, cybersecurity, and fault tolerance.\n\nPreferred Skills\n\nExperience with marine robotics, autonomous surface vehicles (ASVs), underwater drones (AUVs), or hydrographic surveying.\n\nExperience with sonar, bathymetric mapping, water-quality sensors, and marine navigation.\n\nKnowledge of MAVLink, PX4, ArduPilot, DDS, CAN, MQTT, or similar protocols.\n\nExperience with digital twins, simulation, Gazebo, or NVIDIA Isaac.\n\nExperience designing systems for harsh environmental conditions.\n\nPay: $50.00 - $80.00 per hour\n\nWork Location: Remote",
-      "salary": "$50–$80/hr",
+      "url": "https://www.indeed.com/viewjob?jk=55dd6a8be919bac3",
+      "direct_url": "http://www.indeed.com/job/request-proposals-maine-municipal-planning-gis-consultants-raymond-maine-55dd6a8be919bac3",
+      "company_url": "https://www.indeed.comNone",
+      "date_posted": "2026-10-03",
+      "description": "**REQUEST FOR PROPOSALS**\n\n*Maine Municipal Planning & GIS Consultants*\n\nRaymond, Maine — Open Space Plan Update\n\nPDF proposals due October 16, 2026, at 10:00 a.m. Eastern—two weeks before the Town’s October 30 deadline.\n\nI am seeking a qualified Maine municipal planner and GIS specialist—or a firm providing both—to join a proposed team updating Raymond’s 2009 Open Space Plan and aligning it with the 2025 Comprehensive Plan.\n\nThis is a prospective paid consulting/subconsulting opportunity, contingent on Town award and an agreed contract. It is not a Town employment vacancy; no award has been secured.\n\nSCOPE\n\n- Review plans and update open-space/natural-resource inventories.\n\n- Develop GIS datasets and conservation, recreation, stewardship and connectivity maps.\n\n- Support public outreach, an early community session and prioritized implementation/funding recommendations.\n\n- Support Conservation Commission review and Select Board presentation.\n\nQUALIFICATIONS\n\n- Comparable planning experience for Maine municipalities of similar size and character.\n\n- Knowledge of Maine land-use, conservation and municipal planning.\n\n- GIS analysis, cartography, metadata and Town-compatible deliverables in Maine State Plane, NAD83, feet.\n\n- Public-engagement skills, availability and applicable insurance.\n\nPlanning, GIS or combined proposals welcome. Remote analysis is anticipated; in-person needs remain subject to confirmation.\n\nSEND A SEARCHABLE PDF\n\nTo Zach Stevenson: [zach.stevenson907@gmail.com](mailto:zach.stevenson907@gmail.com)\n\nSubject: Raymond Open Space Plan — Planning/GIS Proposal\n\nInclude contact details, proposed role, résumés, 2–3 comparable Maine projects with dates/status, scale and your role; 3 references; approach/deliverables; task/staff hours, rates, expenses and total fee; availability; insurance and conflicts, including any independent bid.\n\n[RFP: Raymond Open Space Plan Update](https://lnkd.in/gp-SKgTs]\n\nSend questions needing Town clarification by October 12. Early introductions welcome. No SSNs or bank statements.\n\n#MainePlanning #GIS #ConsultingOpportunity\n\nSources\n\n* [1] Raymond\\_Open\\_Space\\_Plan\\_RFP.pdf https://lnkd.in/g57xvBCx\n\nPay: $30.00 - $100.00 per hour\n\nExpected hours: 40.0 per week\n\nBenefits:\n\n* Dental insurance\n* Health insurance\n* Vision insurance\n* Work from home\n\nWork Location: Remote",
+      "salary": "$30–$100/hr",
       "salary_source": "direct_data",
       "salary_currency": "USD",
       "job_type": "contract",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "emails": "",
+      "emails": "zach.stevenson907@gmail.com, zach.stevenson907@gmail.com",
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Unknown",
+      "title": "REQUEST FOR PROPOSALS Maine Municipal Planning & GIS Consultants Raymond, Maine",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=55dd6a8be919bac3",
+      "direct_url": "http://www.indeed.com/job/request-proposals-maine-municipal-planning-gis-consultants-raymond-maine-55dd6a8be919bac3",
+      "company_url": "https://www.indeed.comNone",
+      "date_posted": "2026-10-03",
+      "description": "**REQUEST FOR PROPOSALS**\n\n*Maine Municipal Planning & GIS Consultants*\n\nRaymond, Maine — Open Space Plan Update\n\nPDF proposals due October 16, 2026, at 10:00 a.m. Eastern—two weeks before the Town’s October 30 deadline.\n\nI am seeking a qualified Maine municipal planner and GIS specialist—or a firm providing both—to join a proposed team updating Raymond’s 2009 Open Space Plan and aligning it with the 2025 Comprehensive Plan.\n\nThis is a prospective paid consulting/subconsulting opportunity, contingent on Town award and an agreed contract. It is not a Town employment vacancy; no award has been secured.\n\nSCOPE\n\n- Review plans and update open-space/natural-resource inventories.\n\n- Develop GIS datasets and conservation, recreation, stewardship and connectivity maps.\n\n- Support public outreach, an early community session and prioritized implementation/funding recommendations.\n\n- Support Conservation Commission review and Select Board presentation.\n\nQUALIFICATIONS\n\n- Comparable planning experience for Maine municipalities of similar size and character.\n\n- Knowledge of Maine land-use, conservation and municipal planning.\n\n- GIS analysis, cartography, metadata and Town-compatible deliverables in Maine State Plane, NAD83, feet.\n\n- Public-engagement skills, availability and applicable insurance.\n\nPlanning, GIS or combined proposals welcome. Remote analysis is anticipated; in-person needs remain subject to confirmation.\n\nSEND A SEARCHABLE PDF\n\nTo Zach Stevenson: [zach.stevenson907@gmail.com](mailto:zach.stevenson907@gmail.com)\n\nSubject: Raymond Open Space Plan — Planning/GIS Proposal\n\nInclude contact details, proposed role, résumés, 2–3 comparable Maine projects with dates/status, scale and your role; 3 references; approach/deliverables; task/staff hours, rates, expenses and total fee; availability; insurance and conflicts, including any independent bid.\n\n[RFP: Raymond Open Space Plan Update](https://lnkd.in/gp-SKgTs]\n\nSend questions needing Town clarification by October 12. Early introductions welcome. No SSNs or bank statements.\n\n#MainePlanning #GIS #ConsultingOpportunity\n\nSources\n\n* [1] Raymond\\_Open\\_Space\\_Plan\\_RFP.pdf https://lnkd.in/g57xvBCx\n\nPay: $30.00 - $100.00 per hour\n\nExpected hours: 40.0 per week\n\nBenefits:\n\n* Dental insurance\n* Health insurance\n* Vision insurance\n* Work from home\n\nWork Location: Remote",
+      "salary": "$30–$100/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "contract",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "zach.stevenson907@gmail.com, zach.stevenson907@gmail.com",
+      "ats": "Indeed"
+    }
+  ]
 }
