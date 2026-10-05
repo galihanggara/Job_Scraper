@@ -1,17 +1,31 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-10-04 22:39 UTC*
+*Last updated: 2026-10-05 02:23 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Bus Data Coordinator](https://www.linkedin.com/jobs/view/4473604224/) — Department of Transport and Planning
-- 📍 **Location:** Melbourne, Victoria, Australia
-- 🕒 **Posted:** 2026-10-04
+### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4475515595/) — Alignerr
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-10-05
 
-### [Conservation Officer](https://www.linkedin.com/jobs/view/4475525065/) — Bath & North East Somerset Council
-- 📍 **Location:** Keynsham, England, United Kingdom
-- 🕒 **Posted:** 2026-10-04
+### [Environmental Management Scientist (AI Training)](https://www.linkedin.com/jobs/view/4475513808/) — Alignerr
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-10-05
 
-### [Junior Sales Trader - Environmental Commodities](https://www.linkedin.com/jobs/view/4438654556/) — OTC FLOW U.S.
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $55,000.00/yr - $65,000.00/yr
-- 🕒 **Posted:** 2026-10-04
+### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4475521494/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-10-05
+
+### [Site Inspector - Reclamation](https://www.linkedin.com/jobs/view/4475525462/) — SMEC (an SJ Group company)
+- 📍 **Location:** Pasig, National Capital Region, Philippines
+- 🕒 **Posted:** 2026-10-05
+
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4475524631/) — City of Gresham
+- 📍 **Location:** Gresham, OR
+- 🕒 **Posted:** 2026-10-05
+
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4474225725/) — Marketech International Corporation
+- 📍 **Location:** Dresden, Saxony, Germany
+- 🕒 **Posted:** 2026-10-05
