@@ -1,6 +1,11 @@
 # 🟦 Indeed — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-10-05 07:42 UTC*
+*Last updated: 2026-10-05 22:27 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [GIS Technician](https://www.indeed.com/viewjob?jk=f99dcaeec71cdd47) — Kansara systems
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $27.29–$32.86/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** contract
+- 🕒 **Posted:** 2026-10-05
