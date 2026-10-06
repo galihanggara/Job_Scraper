@@ -1,45 +1,7 @@
 {
-  "scraped_at": "2026-10-05 22:27 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Kansara systems",
-      "title": "GIS Technician",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=f99dcaeec71cdd47",
-      "direct_url": "http://www.indeed.com/job/gis-technician-f99dcaeec71cdd47",
-      "company_url": "https://www.indeed.com/cmp/Kansara-Systems",
-      "date_posted": "2026-10-05",
-      "description": "**Job Title**\n\nGIS Technician - Fully REMOTE - Short-term project (4-5 months)\n\n**Location**\n\n[Oklahoma City, OK, 73164]\n\n**Client**\n\nState of OK\n\n**Job Description**\n\n**GIS Technician**\n\n**The GIS Technician will be responsible for the configuration, development, enhancement, testing, and ongoing support of GIS applications and related geospatial solutions. The position will work closely with GIS, technical, and business teams to translate operational requirements into effective GIS configurations, workflows, reports, data structures, and integrations.**\n\n**Key Responsibilities:**\n\n* Lead the configuration, development, and enhancement of GIS applications, tools, and technical solutions based on business and operational requirements.\n* Configure application components, GIS layers, feature classes, attributes, domains, relationships, symbology, templates, and other system settings.\n* Design, develop, and maintain geospatial data models and supporting database structures to ensure accurate, consistent, and reliable spatial information.\n* Develop and maintain calculation logic, spatial queries, validation rules, and automated processes used for GIS data processing, analysis, and reporting.\n* Configure and automate workflows for data collection, editing, validation, transformation, approval, publishing, and ongoing GIS data maintenance.\n* Develop and support integrations between GIS applications and enterprise systems, databases, APIs, web services, and external data sources to facilitate accurate and timely data exchange.\n* Design, develop, configure, and maintain GIS reports, dashboards, maps, queries, and other reporting solutions to support operational and management requirements.\n* Support data conversion and migration activities, including data extraction, cleansing, transformation, field mapping, loading, validation, and reconciliation between legacy and target GIS systems.\n* Analyze existing GIS datasets and identify data quality, formatting, mapping, duplication, or compatibility issues that could affect system conversion or application functionality.\n* Perform technical validation of converted data to ensure spatial accuracy, attribute completeness, data integrity, and compliance with established GIS standards.\n* Support unit, system, integration, regression, and user acceptance testing by developing test scenarios, validating results, documenting issues, and assisting users throughout the testing lifecycle.\n* Investigate, troubleshoot, and resolve application defects, GIS data issues, workflow failures, reporting discrepancies, integration errors, and other production support issues.\n* Perform root-cause analysis for technical defects and coordinate appropriate configuration changes, development fixes, data corrections, or process improvements.\n* Support GIS application upgrades, patches, enhancements, releases, and production deployments, including post-deployment validation and troubleshooting.\n* Monitor GIS application and data-processing workflows to identify performance, reliability, and data-quality issues and recommend appropriate improvements.\n* Collaborate with GIS analysts, developers, database teams, business users, project managers, and other stakeholders to gather requirements and deliver technical GIS solutions.\n* Maintain technical documentation covering application configurations, data models, conversion mappings, calculation rules, automated workflows, integrations, reports, testing results, defects, and production support procedures.\n* Provide technical guidance and support to GIS team members and end users while promoting GIS development, configuration, data management, and quality standards.\n\nPay: $27.29 - $32.86 per hour\n\nWork Location: Remote",
-      "salary": "$27.29–$32.86/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Kansara systems",
-      "title": "GIS Technician",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=f99dcaeec71cdd47",
-      "direct_url": "http://www.indeed.com/job/gis-technician-f99dcaeec71cdd47",
-      "company_url": "https://www.indeed.com/cmp/Kansara-Systems",
-      "date_posted": "2026-10-05",
-      "description": "**Job Title**\n\nGIS Technician - Fully REMOTE - Short-term project (4-5 months)\n\n**Location**\n\n[Oklahoma City, OK, 73164]\n\n**Client**\n\nState of OK\n\n**Job Description**\n\n**GIS Technician**\n\n**The GIS Technician will be responsible for the configuration, development, enhancement, testing, and ongoing support of GIS applications and related geospatial solutions. The position will work closely with GIS, technical, and business teams to translate operational requirements into effective GIS configurations, workflows, reports, data structures, and integrations.**\n\n**Key Responsibilities:**\n\n* Lead the configuration, development, and enhancement of GIS applications, tools, and technical solutions based on business and operational requirements.\n* Configure application components, GIS layers, feature classes, attributes, domains, relationships, symbology, templates, and other system settings.\n* Design, develop, and maintain geospatial data models and supporting database structures to ensure accurate, consistent, and reliable spatial information.\n* Develop and maintain calculation logic, spatial queries, validation rules, and automated processes used for GIS data processing, analysis, and reporting.\n* Configure and automate workflows for data collection, editing, validation, transformation, approval, publishing, and ongoing GIS data maintenance.\n* Develop and support integrations between GIS applications and enterprise systems, databases, APIs, web services, and external data sources to facilitate accurate and timely data exchange.\n* Design, develop, configure, and maintain GIS reports, dashboards, maps, queries, and other reporting solutions to support operational and management requirements.\n* Support data conversion and migration activities, including data extraction, cleansing, transformation, field mapping, loading, validation, and reconciliation between legacy and target GIS systems.\n* Analyze existing GIS datasets and identify data quality, formatting, mapping, duplication, or compatibility issues that could affect system conversion or application functionality.\n* Perform technical validation of converted data to ensure spatial accuracy, attribute completeness, data integrity, and compliance with established GIS standards.\n* Support unit, system, integration, regression, and user acceptance testing by developing test scenarios, validating results, documenting issues, and assisting users throughout the testing lifecycle.\n* Investigate, troubleshoot, and resolve application defects, GIS data issues, workflow failures, reporting discrepancies, integration errors, and other production support issues.\n* Perform root-cause analysis for technical defects and coordinate appropriate configuration changes, development fixes, data corrections, or process improvements.\n* Support GIS application upgrades, patches, enhancements, releases, and production deployments, including post-deployment validation and troubleshooting.\n* Monitor GIS application and data-processing workflows to identify performance, reliability, and data-quality issues and recommend appropriate improvements.\n* Collaborate with GIS analysts, developers, database teams, business users, project managers, and other stakeholders to gather requirements and deliver technical GIS solutions.\n* Maintain technical documentation covering application configurations, data models, conversion mappings, calculation rules, automated workflows, integrations, reports, testing results, defects, and production support procedures.\n* Provide technical guidance and support to GIS team members and end users while promoting GIS development, configuration, data management, and quality standards.\n\nPay: $27.29 - $32.86 per hour\n\nWork Location: Remote",
-      "salary": "$27.29–$32.86/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "scraped_at": "2026-10-06 02:45 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
