@@ -1,113 +1,80 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-10-06 02:43 UTC*
+*Last updated: 2026-10-06 10:50 UTC*
 
-**24 new role(s)** since last run · 25 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [GIS Specialist (Multiple Levels)](https://www.linkedin.com/jobs/view/4476122634/) — NV5
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $65,000 - $100,000 per year
+### [Geospatial Data Science Manager](https://www.linkedin.com/jobs/view/4474056083/) — Marine Stewardship Council (MSC)
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-10-06
 
-### [GIS Developer](https://www.linkedin.com/jobs/view/4476111895/) — NV5
-- 📍 **Location:** United States
-- 💰 **Salary:** $78,000- $120,000 per year
+### [Environmental Analyst 3 (35 Hour) Hybrid #261001-7120EE-001](https://www.linkedin.com/jobs/view/4476162018/) — State of Connecticut
+- 📍 **Location:** Hartford, CT
 - 🕒 **Posted:** 2026-10-06
 
-### [GIS Specialist](https://www.linkedin.com/jobs/view/4474628411/) — AECOM
-- 📍 **Location:** Kauai County, HI
-- 💰 **Salary:** $65000 to $95000
+### [Intermediate/Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4476157926/) — Canadian Energy Insight Inc.
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-10-06
 
-### [GIS Specialist](https://www.linkedin.com/jobs/view/4474628409/) — AECOM
-- 📍 **Location:** Orange, CA
-- 💰 **Salary:** $65000 to $95000
+### [Environmental Engineering / Hydrogeology Specialist](https://www.linkedin.com/jobs/view/4476162625/) — ESB
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-10-06
 
-### [Consultant, Environmental Permitting Specialist, FERC Generalist](https://www.linkedin.com/jobs/view/4456554376/) — ERM
-- 📍 **Location:** New Orleans, LA
+### [Associate Project Manager - Wetland Scientist](https://www.linkedin.com/jobs/view/4467208063/) — Apex Companies
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-10-06
 
-### [Green — Subsurface Geospatial Data Architect](https://www.linkedin.com/jobs/view/4474648832/) — FuntoNetwork Consulting
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $65.00/hr - $139.00/hr
+### [3D Environmental Artist](https://www.linkedin.com/jobs/view/4474694504/) — SAIC
+- 📍 **Location:** Orlando, FL
 - 🕒 **Posted:** 2026-10-06
 
-### [Entry-Level Environmental Engineer/Geologist/Scientist](https://www.linkedin.com/jobs/view/4476114862/) — S&ME
-- 📍 **Location:** Charlotte Metro
+### [UAV Test Pilot / R&D Engineer – Fixed Wing & VTOL](https://www.linkedin.com/jobs/view/4474681991/) — Skylark Group
+- 📍 **Location:** Manesar, Haryana, India
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Advisor, Environmental Risk Management and Site Remediation](https://www.linkedin.com/jobs/view/4474651630/) — Alto
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Environmental Fate Specialist / Regulatory Ecotoxicologist](https://www.linkedin.com/jobs/view/4420981132/) — Sasol
+- 📍 **Location:** Marl, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-06
 
-### [GIS Specialist](https://www.linkedin.com/jobs/view/4474616733/) — AECOM
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $65000 to $95000
+### [Environmental Sustainability Manag / Sustainable Development Director](https://www.linkedin.com/jobs/view/4474052106/) — Seeking New Opportunities
+- 📍 **Location:** Dubai, Dubai, United Arab Emirates
 - 🕒 **Posted:** 2026-10-06
 
-### [Consultant, Environmental Permitting Specialist, FERC Generalist](https://www.linkedin.com/jobs/view/4456549489/) — ERM
-- 📍 **Location:** Austin, TX
+### [GIS Manager](https://www.linkedin.com/jobs/view/4467450026/) — Invenergy
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $118,000.00 - $170,000.00 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Consultant, Environmental Permitting Specialist, FERC Generalist](https://www.linkedin.com/jobs/view/4456549488/) — ERM
-- 📍 **Location:** Tampa, FL
+### [Environmental Program Manager](https://www.linkedin.com/jobs/view/4439087329/) — LaBella Associates
+- 📍 **Location:** Glens Falls, NY
+- 💰 **Salary:** $80,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Drone System Validation Technician and Pilot](https://www.linkedin.com/jobs/view/4476131217/) — Harmattan AI
-- 📍 **Location:** Rabat, Rabat-Salé-Kénitra, Morocco
+### [Environmental General Laborer](https://www.linkedin.com/jobs/view/4476137826/) — Clean Harbors
+- 📍 **Location:** Cape Girardeau, MO
+- 💰 **Salary:** $14.00/hr - $34.00/hr
 - 🕒 **Posted:** 2026-10-06
 
-### [Drone System Validation Engineer -FR](https://www.linkedin.com/jobs/view/4476126466/) — Harmattan AI
-- 📍 **Location:** Paris, Île-de-France, France
+### [Natural Resources Program Coordinator](https://www.linkedin.com/jobs/view/4466139906/) — Sealaska
+- 📍 **Location:** Ketchikan, AK
 - 🕒 **Posted:** 2026-10-06
 
-### [Operations Coordinator - Drone Solutions](https://www.linkedin.com/jobs/view/4476115603/) — Sunbelt Rentals, Inc.
-- 📍 **Location:** Fort Mill, SC
+### [Supervisory Natural Resources Specialist](https://www.linkedin.com/jobs/view/4474689865/) — US Army Corps of Engineers
+- 📍 **Location:** Royal, AR
 - 🕒 **Posted:** 2026-10-06
 
-### [Project Manager, Environmental Scientist](https://www.linkedin.com/jobs/view/4474659427/) — Millennium EMS Solutions Ltd.
-- 📍 **Location:** Guelph, Ontario, Canada
+### [Visiting Assistant Extension Educator in Land Use](https://www.linkedin.com/jobs/view/4474905326/) — American Planning Association Massachusetts Chapter
+- 📍 **Location:** Hartford County, CT
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Technical Environmental Compliance / Permitting Manager](https://www.linkedin.com/jobs/view/4474661281/) — WSP in the U.S.
-- 📍 **Location:** Valhalla, NY
-- 💰 **Salary:** $143,600 - $174,400
+### [Senior Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4474054259/) — Amazon Science
+- 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-10-06
 
-### [Environmental Coordinator](https://www.linkedin.com/jobs/view/4476122633/) — McCain Foods
-- 📍 **Location:** Timaru, Canterbury, New Zealand
+### [Senior Environmental Engineer](https://www.linkedin.com/jobs/view/4466108652/) — HDR
+- 📍 **Location:** Woodcliff Lake, NJ
+- 💰 **Salary:** $111,930 - $159,900
 - 🕒 **Posted:** 2026-10-06
 
-### [Operations Manager – Concrete Restoration](https://www.linkedin.com/jobs/view/4476128159/) — HV Talent Group
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [GIS Specialist](https://www.linkedin.com/jobs/view/4474631111/) — AECOM
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $65000 to $95000
-- 🕒 **Posted:** 2026-10-06
-
-### [Green — Public Engagement and Environmental Planning Specialist](https://www.linkedin.com/jobs/view/4474667139/) — FuntoNetwork Consulting
-- 📍 **Location:** Fayetteville, NC
-- 💰 **Salary:** $65.00/hr - $139.00/hr
-- 🕒 **Posted:** 2026-10-06
-
-### [GIS Specialist](https://www.linkedin.com/jobs/view/4474622483/) — AECOM
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $65000 to $95000
-- 🕒 **Posted:** 2026-10-06
-
-### [Consultant, Environmental Permitting Specialist, FERC Generalist](https://www.linkedin.com/jobs/view/4456548367/) — ERM
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Rehabilitation Biologist](https://www.linkedin.com/jobs/view/4459460187/) — National Aquarium
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $58,660-71,399
-- 🕒 **Posted:** 2026-10-06
-
-### [Green — Trenchless Sewer Rehabilitation Engineer](https://www.linkedin.com/jobs/view/4474662349/) — FuntoNetwork Consulting
-- 📍 **Location:** Havelock, NC
-- 💰 **Salary:** $65.00/hr - $139.00/hr
+### [Environmental Administrator](https://www.linkedin.com/jobs/view/4474903334/) — Hays
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-10-06
