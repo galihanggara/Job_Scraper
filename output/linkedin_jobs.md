@@ -1,75 +1,135 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-10-07 07:48 UTC*
+*Last updated: 2026-10-07 21:04 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**29 new role(s)** since last run · 29 total in last 1h
 
-### [R&D Professional AI for Earth Observation](https://www.linkedin.com/jobs/view/4476564304/) — VITO
-- 📍 **Location:** Mol, Flemish Region, Belgium
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4476915952/) — ArborMetrics Solutions, LLC
+- 📍 **Location:** Raleigh, NC
+- 💰 **Salary:** $25.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Sustainability Expert – Carbon, GHG & ESG (Environmental)](https://www.linkedin.com/jobs/view/4476554724/) — SGS
-- 📍 **Location:** Hyderabad, Telangana, India
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4476929339/) — ArborMetrics Solutions, LLC
+- 📍 **Location:** Wilmington, NC
+- 💰 **Salary:** $25.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Environmental Advisor](https://www.linkedin.com/jobs/view/4476565355/) — Tronox
-- 📍 **Location:** Cataby, Western Australia, Australia
+### [Senior GIS Analyst](https://www.linkedin.com/jobs/view/4476916370/) — HNTB
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-10-07
 
-### [Environmental Analyst I](https://www.linkedin.com/jobs/view/4476554680/) — ENGIE Brasil
-- 📍 **Location:** Paracatu, Minas Gerais, Brazil
+### [Environmental Project Engineer](https://www.linkedin.com/jobs/view/4476921425/) — FINITETEK INC
+- 📍 **Location:** Albany, NY
 - 🕒 **Posted:** 2026-10-07
 
-### [Land Use and Zoning Planner](https://www.linkedin.com/jobs/view/4475111873/) — Maricopa County Stadium District
-- 📍 **Location:** Phoenix, AZ
+### [Senior Geospatial Data & GIS Scientist (freelance)](https://www.linkedin.com/jobs/view/4474469666/) — Netcompany
+- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
 - 🕒 **Posted:** 2026-10-07
 
-### [Environmental Engineer](https://www.linkedin.com/jobs/view/4476136766/) — Commonwealth of Pennsylvania
-- 📍 **Location:** Dauphin County, PA
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4476923594/) — ArborMetrics Solutions, LLC
+- 📍 **Location:** Asheville, NC
+- 💰 **Salary:** $25.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Environmental Remediation Engineer/Scientist (REMOTE ROLE)](https://www.linkedin.com/jobs/view/4453283403/) — ICF
-- 📍 **Location:** Reston, VA
-- 💰 **Salary:** $81,499.00 - $138,549.00
+### [Geospatial Content Specialist / Technical Writer](https://www.linkedin.com/jobs/view/4476931082/) — NV5
+- 📍 **Location:** United States
+- 💰 **Salary:** $60,000 - $95,000 per year
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Environmental Advisor](https://www.linkedin.com/jobs/view/4475186382/) — Symal Group
-- 📍 **Location:** Shelly Beach, Queensland, Australia
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4476922597/) — ArborMetrics Solutions, LLC
+- 📍 **Location:** Florence, SC
+- 💰 **Salary:** $25.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Environmental Engineer Manager](https://www.linkedin.com/jobs/view/4475170646/) — Commonwealth of Pennsylvania
-- 📍 **Location:** Lycoming County, PA
+### [Field Application Expert - Navigation & Drones/UAV (H/F)](https://www.linkedin.com/jobs/view/4475493392/) — SBG Systems
+- 📍 **Location:** Carrières-sur-Seine, Île-de-France, France
 - 🕒 **Posted:** 2026-10-07
 
-### [Restoration Crew Chief (Tampa)](https://www.linkedin.com/jobs/view/4476558585/) — ServiceMaster RRH
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $18 - $22 per hour
+### [Environmental Impact Assessment Graduate - Dublin - Start between Nov 26 - Jan 27](https://www.linkedin.com/jobs/view/4475473917/) — AECOM
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-10-07
 
-### [National Resources Growth Lead – Environmental Approvals](https://www.linkedin.com/jobs/view/4476563341/) — WSP in Australia
-- 📍 **Location:** Brisbane, Queensland, Australia
+### [Environmental Field Technician](https://www.linkedin.com/jobs/view/4475701054/) — Oklahoma Environmental Services
+- 📍 **Location:** Oklahoma City, OK
 - 🕒 **Posted:** 2026-10-07
 
-### [Environmental Protection Specialist - DIRECT HIRE](https://www.linkedin.com/jobs/view/4475180791/) — Federal Transit Administration
-- 📍 **Location:** Cambridge, MA
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4476924458/) — Bechtel Corporation
+- 📍 **Location:** Port Arthur, TX
 - 🕒 **Posted:** 2026-10-07
 
-### [Environmental Preconstruction Lead - EPC](https://www.linkedin.com/jobs/view/4475185431/) — Rosendin
-- 📍 **Location:** Pflugerville, TX
+### [Senior Environmental Manager](https://www.linkedin.com/jobs/view/4475490404/) — WSB
+- 📍 **Location:** Kellogg, ID
 - 🕒 **Posted:** 2026-10-07
 
-### [Field Service Foreman (Environmental/ Hazmat)](https://www.linkedin.com/jobs/view/4475188060/) — Clean Harbors
-- 📍 **Location:** Cary, NC
-- 💰 **Salary:** $15.00/hr - $41.00/hr
+### [Environmental Programs Administrator-EPD](https://www.linkedin.com/jobs/view/4475493173/) — Orange County Government
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $43.54 to $63.13
 - 🕒 **Posted:** 2026-10-07
 
-### [Systemingenieur für Radar Environmental Simulator (all gender)](https://www.linkedin.com/jobs/view/4450477402/) — ALTEN
-- 📍 **Location:** Ulm, Baden-Württemberg, Germany
+### [Environment & Land Use Associate Attorney](https://www.linkedin.com/jobs/view/4476929198/) — Recruitify USA
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $260,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [Master Data Coordinator III](https://www.linkedin.com/jobs/view/4475158633/) — ECLARO
-- 📍 **Location:** Pasig, National Capital Region, Philippines
+### [Environmental Science Analyst](https://www.linkedin.com/jobs/view/4475473794/) — Kimley-Horn
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Soundmouse - Data Processing Associate - AR Services - Sri Lanka](https://www.linkedin.com/jobs/view/4474987032/) — Soundmouse
-- 📍 **Location:** Colombo, Western Province, Sri Lanka
+### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4476932267/) — Verdantas
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4476924633/) — ArborMetrics Solutions, LLC
+- 📍 **Location:** Greenville, SC
+- 💰 **Salary:** $25.00/hr - $30.00/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Temporary Plant Evolutionary Ecology Field Technician](https://www.linkedin.com/jobs/view/4475481982/) — North Carolina State University
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Environmental Project Manager, Permitting](https://www.linkedin.com/jobs/view/4472982289/) — Broadreach Executive Search and Staffing Solutions
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $100,700–$151,000 annually
+- 🕒 **Posted:** 2026-10-07
+
+### [Environmental Administrative Specialist](https://www.linkedin.com/jobs/view/4475487326/) — TGE Resources, Inc.
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-07
+
+### [Environmental Health Safety Engineer](https://www.linkedin.com/jobs/view/4475490396/) — Insight Global
+- 📍 **Location:** Lexington, KY
+- 💰 **Salary:** $30.00/hr - $33.00/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Environmental Manager](https://www.linkedin.com/jobs/view/4476913859/) — Bechtel Corporation
+- 📍 **Location:** Cameron, LA
+- 🕒 **Posted:** 2026-10-07
+
+### [Water Utilities Concrete Restoration Technician I, II, III, IV](https://www.linkedin.com/jobs/view/4472691861/) — City of McKinney
+- 📍 **Location:** McKinney, TX
+- 💰 **Salary:** $42,859.37- $62,147.53/Annually
+- 🕒 **Posted:** 2026-10-07
+
+### [Environmental Technician I](https://www.linkedin.com/jobs/view/4475481788/) — AECOM
+- 📍 **Location:** Niagara Falls, NY
+- 💰 **Salary:** $24 to $27
+- 🕒 **Posted:** 2026-10-07
+
+### [Environmental Technician II](https://www.linkedin.com/jobs/view/4475479790/) — AECOM
+- 📍 **Location:** Niagara Falls, NY
+- 💰 **Salary:** $27 to $30
+- 🕒 **Posted:** 2026-10-07
+
+### [Environmental Compliance Coordinator](https://www.linkedin.com/jobs/view/4476919729/) — ArborMetrics Solutions, LLC
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $38.00/hr - $45.00/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Director Of Environmental Health & Safety](https://www.linkedin.com/jobs/view/4474473736/) — Union College
+- 📍 **Location:** Schenectady, NY
+- 💰 **Salary:** $95,000 - $110,000
+- 🕒 **Posted:** 2026-10-07
+
+### [Principal Environmental Consultant](https://www.linkedin.com/jobs/view/4474482477/) — Global Professional Consultants
+- 📍 **Location:** Galway, County Galway, Ireland
 - 🕒 **Posted:** 2026-10-07
