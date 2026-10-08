@@ -1,164 +1,87 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-10-08 01:26 UTC*
+*Last updated: 2026-10-08 07:53 UTC*
 
-**33 new role(s)** since last run · 33 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Geospatial Data Specialist ADMINISTRATOR IV](https://www.linkedin.com/jobs/view/4476955791/) — State of Maryland
-- 📍 **Location:** Maryland, United States
+### [Research Associate – School of Civil & Environmental Engineering (UNSW Kensington)](https://www.linkedin.com/jobs/view/4475775079/) — UNSW
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 💰 **Salary:** $95,036 - $126,711 per annum
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4474491608/) — NextEra Energy Resources
-- 📍 **Location:** Phoenix, AZ
+### [Conservation Learning Facilitator - Online Learning](https://www.linkedin.com/jobs/view/4477110659/) — Auckland Council
+- 📍 **Location:** Auckland, Auckland, New Zealand
 - 🕒 **Posted:** 2026-10-08
 
-### [Staff Environmental Engineer](https://www.linkedin.com/jobs/view/4475716509/) — SLR Consulting
-- 📍 **Location:** West Linn, OR
-- 💰 **Salary:** $75,000-$80,000
+### [sUAS Pilot](https://www.linkedin.com/jobs/view/4475766582/) — PDW
+- 📍 **Location:** Huntsville, AL
 - 🕒 **Posted:** 2026-10-08
 
-### [Lead Environmental Specialist/Planner (QSD/QSP) Menlo Park, California](https://www.linkedin.com/jobs/view/4396750711/) — Insignia Environmental
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $70,000.00/yr - $95,000.00/yr
+### [Drone Pilot / UAV Flight Ops](https://www.linkedin.com/jobs/view/4475769281/) — UNMANND
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-08
 
-### [Wildlife Repair/Exclusion Technician](https://www.linkedin.com/jobs/view/4476961375/) — Critter Control
-- 📍 **Location:** Savannah, GA
-- 💰 **Salary:** $22-$23/Hour
+### [Drone Innovation Trainer](https://www.linkedin.com/jobs/view/4477123071/) — STEMpedia
+- 📍 **Location:** Ahmedabad, Gujarat, India
 - 🕒 **Posted:** 2026-10-08
 
-### [Environmental Program Officer, Climate & Agriculture](https://www.linkedin.com/jobs/view/4476959539/) — Patagonia
-- 📍 **Location:** Ventura, CA
-- 💰 **Salary:** $122,000 - $137,000
+### [Research Associate – School of Civil & Environmental Engineering (UNSW Kensington)](https://www.linkedin.com/jobs/view/4475768423/) — UNSW
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 💰 **Salary:** $95,036 - $126,711 per annum
 - 🕒 **Posted:** 2026-10-08
 
-### [Environmental Attorneys](https://www.linkedin.com/jobs/view/4475722187/) — Adams Broadwell Joseph & Cardozo
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $130,000 to $155,000
+### [Research Associate – School of Civil & Environmental Engineering (UNSW Kensington)](https://www.linkedin.com/jobs/view/4475754985/) — UNSW
+- 📍 **Location:** Adelaide, South Australia, Australia
+- 💰 **Salary:** $95,036 - $126,711 per annum
 - 🕒 **Posted:** 2026-10-08
 
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4476954987/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $35.00/hr - $60.00/hr
+### [Natural Resources Staff Scientist](https://www.linkedin.com/jobs/view/4475775194/) — Spectrum Environmental Services Inc.
+- 📍 **Location:** Alabaster, AL
 - 🕒 **Posted:** 2026-10-08
 
-### [Environmental Management Scientist (AI Training)](https://www.linkedin.com/jobs/view/4476971331/) — Alignerr
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+### [Senior Executive/Executive (Vector Control Section)](https://www.linkedin.com/jobs/view/4475769234/) — National Environment Agency
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-10-08
 
-### [Sr Mechanical Engineer, Fauna](https://www.linkedin.com/jobs/view/4476963093/) — Amazon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Soil and Water Conservation Scientist](https://www.linkedin.com/jobs/view/4476970364/) — Alignerr
-- 📍 **Location:** United States
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Soil and Water Conservation Scientist](https://www.linkedin.com/jobs/view/4476976088/) — Alignerr
+### [Environmental Data Product Manager](https://www.linkedin.com/jobs/view/4473045822/) — Morningstar
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 💰 **Salary:** $500-$2,000 annually
 - 🕒 **Posted:** 2026-10-08
 
-### [Environmental Science Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4476975197/) — Alignerr
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $75.00/hr - $90.00/hr
+### [Environmental Health Safety Engineer](https://www.linkedin.com/jobs/view/4475759669/) — Nippon Sanso Vietnam JSC
+- 📍 **Location:** Yên Mỹ, Hung Yen, Vietnam
 - 🕒 **Posted:** 2026-10-08
 
-### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4476978009/) — Alignerr
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+### [Associate Attorney - Land Use | Real Estate](https://www.linkedin.com/jobs/view/4475759745/) — Jobot
+- 📍 **Location:** Roseland, NJ
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4476968386/) — Alignerr
-- 📍 **Location:** Sheffield, TX
-- 💰 **Salary:** $35.00/hr - $60.00/hr
+### [Manager, Environmental Health & Safety - DeKalb, IL](https://www.linkedin.com/jobs/view/4477109719/) — VetJobs
+- 📍 **Location:** DeKalb, IL
+- 💰 **Salary:** $102,075-142,905 annually
 - 🕒 **Posted:** 2026-10-08
 
-### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4476971318/) — Alignerr
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+### [Environmental Field Chemist-CDL](https://www.linkedin.com/jobs/view/4475749958/) — Clean Harbors
+- 📍 **Location:** Wheeling, WV
+- 💰 **Salary:** $15.00/hr - $41.00/hr
 - 🕒 **Posted:** 2026-10-08
 
-### [Soil and Water Conservation Scientist](https://www.linkedin.com/jobs/view/4476964516/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+### [Scientific Expert in Earth Observation](https://www.linkedin.com/jobs/view/4477124307/) — VeroTech
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-10-08
 
-### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4476961648/) — Alignerr
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+### [Earth Observation Satellite Image Processing Expert](https://www.linkedin.com/jobs/view/4477125299/) — VeroTech
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-10-08
 
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4476965455/) — Alignerr
-- 📍 **Location:** United States
-- 💰 **Salary:** $35.00/hr - $60.00/hr
+### [GIS Solution Architect (ArcGIS ESRI) | Remote](https://www.linkedin.com/jobs/view/4474461257/) — Minsait
+- 📍 **Location:** Spain
 - 🕒 **Posted:** 2026-10-08
 
-### [Wildlife and Habitat Conservation Scientist](https://www.linkedin.com/jobs/view/4476964487/) — Alignerr
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+### [Project assistant in Biology and Environmental Science](https://www.linkedin.com/jobs/view/4475770466/) — Linnaeus University
+- 📍 **Location:** Kalmar, Kalmar County, Sweden
 - 🕒 **Posted:** 2026-10-08
 
-### [Environmental Management Scientist (AI Training)](https://www.linkedin.com/jobs/view/4476959775/) — Alignerr
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Wildlife and Habitat Conservation Scientist](https://www.linkedin.com/jobs/view/4476977081/) — Alignerr
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4476977068/) — Alignerr
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Intermediate Restoration Technician](https://www.linkedin.com/jobs/view/4474096428/) — BELFOR Property Restoration
-- 📍 **Location:** Piscataway, NJ
-- 🕒 **Posted:** 2026-10-08
-
-### [Soil and Water Conservation Scientist](https://www.linkedin.com/jobs/view/4476969327/) — Alignerr
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4476964500/) — Alignerr
-- 📍 **Location:** Manchester, England, United Kingdom
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Environmental Science Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4476960679/) — Alignerr
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 💰 **Salary:** $75.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4476965472/) — Alignerr
-- 📍 **Location:** Edinburgh, Scotland, United Kingdom
-- 💰 **Salary:** $35.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Marine Ecologist, benthic and shellfish ecology](https://www.linkedin.com/jobs/view/4471300908/) — Wageningen University & Research
-- 📍 **Location:** Yerseke, Zeeland, Netherlands
-- 🕒 **Posted:** 2026-10-08
-
-### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4476956897/) — Alignerr
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Environmental Management Scientist (AI Training)](https://www.linkedin.com/jobs/view/4476962704/) — Alignerr
-- 📍 **Location:** Mumbai, Maharashtra, India
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Environmental Management Scientist (AI Training)](https://www.linkedin.com/jobs/view/4476970358/) — Alignerr
-- 📍 **Location:** Delhi, Delhi, India
-- 💰 **Salary:** $30.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4476959759/) — Alignerr
-- 📍 **Location:** Delhi, Delhi, India
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+### [Rehabilitation Medical Officer](https://www.linkedin.com/jobs/view/4475778042/) — Sukino Continuum Care
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-08
