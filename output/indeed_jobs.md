@@ -1,16 +1,10 @@
 # 🟦 Indeed — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-10-08 06:41 UTC*
+*Last updated: 2026-10-08 21:13 UTC*
 
-**2 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-### [GIS Developer I](https://www.indeed.com/viewjob?jk=197a8f9ad6391676) — Select Water Solutions
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Backend Geospatial Engineer II](https://www.indeed.com/viewjob?jk=606b0d965ef21a05) — Lincoln Institute of Land Policy
-- 📍 **Location:** Phoenix, AZ, US
-- 💰 **Salary:** $80k–$129k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-07
+### [Topobathymetric LiDAR Program Manager (Remote/Hybrid/Office)](https://www.indeed.com/viewjob?jk=a94c5690fd53d42b) — Tetra Tech
+- 📍 **Location:** Tampa, FL, USA
+- 💰 **Salary:** $120k–$160k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-08
