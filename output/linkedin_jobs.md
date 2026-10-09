@@ -1,140 +1,105 @@
 # 🔥 LinkedIn — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-10-08 21:11 UTC*
+*Last updated: 2026-10-09 01:38 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Environmental Analyst](https://www.linkedin.com/jobs/view/4477460521/) — NUVIA
-- 📍 **Location:** Abingdon-On-Thames, England, United Kingdom
-- 🕒 **Posted:** 2026-10-08
+### [Geomatics/Geospatial Manager/Principal Engineer, Strategy & Innovation (Capability Building)](https://www.linkedin.com/jobs/view/4476700157/) — Singapore Land Authority (SLA)
+- 📍 **Location:** Torch River 488, Saskatchewan, Canada
+- 🕒 **Posted:** 2026-10-09
 
-### [Senior Wetland and Waterways Permitting Specialist](https://www.linkedin.com/jobs/view/4477186491/) — HNTB
-- 📍 **Location:** Chelmsford, MA
-- 💰 **Salary:** $152,341.01 - $238,276.98
-- 🕒 **Posted:** 2026-10-08
+### [Geomatics/ Geospatial Manager/ Senior Engineer, Strategy & Innovation](https://www.linkedin.com/jobs/view/4340389246/) — Singapore Land Authority (SLA)
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-10-09
 
-### [Senior Wetland and Waterways Permitting Specialist](https://www.linkedin.com/jobs/view/4477185615/) — HNTB
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $152,341.01 - $238,276.98
-- 🕒 **Posted:** 2026-10-08
+### [3D & LiDAR Data Annotation Analyst](https://www.linkedin.com/jobs/view/4476245097/) — Appen
+- 📍 **Location:** United States
+- 💰 **Salary:** $30 - $32
+- 🕒 **Posted:** 2026-10-09
 
-### [Entry to Mid-Level Environmental Scientist](https://www.linkedin.com/jobs/view/4474849396/) — Groundwater & Environmental Services, Inc.
-- 📍 **Location:** New Hudson, MI
-- 💰 **Salary:** $55,000.00/yr - $60,000.00/yr
-- 🕒 **Posted:** 2026-10-08
+### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4477606423/) — Alignerr
+- 📍 **Location:** Mumbai, Maharashtra, India
+- 💰 **Salary:** $35.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-09
 
-### [Intermediate Environmental Scientist](https://www.linkedin.com/jobs/view/4476205348/) — WSP in the U.S.
-- 📍 **Location:** Gainesville, FL
-- 🕒 **Posted:** 2026-10-08
+### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4477497865/) — Alignerr
+- 📍 **Location:** France
+- 💰 **Salary:** $35.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-09
 
-### [Operador de Drone](https://www.linkedin.com/jobs/view/4477466138/) — Jobbol
-- 📍 **Location:** Mineiros, Goiás, Brazil
-- 🕒 **Posted:** 2026-10-08
+### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4477611350/) — Alignerr
+- 📍 **Location:** Cambridge, England, United Kingdom
+- 💰 **Salary:** $35.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-09
 
-### [Environmental Health, Safety & Sustainability (EHS&S) System Implementation Specialist](https://www.linkedin.com/jobs/view/4474844545/) — Arcadis
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $75,240- $144,210
-- 🕒 **Posted:** 2026-10-08
+### [Environmental Engineering - AI Data Trainer](https://www.linkedin.com/jobs/view/4477496903/) — Alignerr
+- 📍 **Location:** Canada
+- 💰 **Salary:** $35.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-09
 
-### [Civil/Environmental Engineer](https://www.linkedin.com/jobs/view/4469186757/) — W3Global
-- 📍 **Location:** Chester, CT
-- 💰 **Salary:** $75,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-10-08
+### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4477498868/) — Alignerr
+- 📍 **Location:** Portugal
+- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-10-09
 
-### [Topobathymetric LiDAR Program Manager (Remote/Hybrid/Office)](https://www.linkedin.com/jobs/view/4477457840/) — Tetra Tech
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $120,000 - $160,000 annually
-- 🕒 **Posted:** 2026-10-08
+### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4477610324/) — Alignerr
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-10-09
 
-### [Senior Engineering Project Manager - Civil/Environmental](https://www.linkedin.com/jobs/view/4477453663/) — SCS Engineers
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** USD $125,000.00 - USD $175,000.00 /Yr
-- 🕒 **Posted:** 2026-10-08
+### [Soil and Water Conservation Scientist](https://www.linkedin.com/jobs/view/4477613364/) — Alignerr
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-10-09
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4477458819/) — Apex Companies
-- 📍 **Location:** Corpus Christi, TX
-- 🕒 **Posted:** 2026-10-08
+### [Senior Environmental Consultant / Project Manager - Infrastructure](https://www.linkedin.com/jobs/view/4476231662/) — SLR Consulting
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 🕒 **Posted:** 2026-10-09
 
-### [Environmental Permitting Advisor](https://www.linkedin.com/jobs/view/4477444955/) — Raise
-- 📍 **Location:** Cary, NC
-- 💰 **Salary:** $47.00/yr - $49.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Restoration Technician](https://www.linkedin.com/jobs/view/4477451826/) — SERVPRO of Vacaville / Dixon
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $18.00 - $20.00 per hour
-- 🕒 **Posted:** 2026-10-08
-
-### [Water Restoration Supervisor or Project Manager EXP REQUIRED](https://www.linkedin.com/jobs/view/4477470153/) — SERVPRO of Vacaville / Dixon
-- 📍 **Location:** Owensboro, KY
-- 💰 **Salary:** $19.50 - $22.00/hour
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Environmental Planner -Water infrastructure](https://www.linkedin.com/jobs/view/4476203420/) — WSP in Canada
-- 📍 **Location:** London, Ontario, Canada
-- 💰 **Salary:** $96,200 – $132,300
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Environmental Planner -Water infrastructure](https://www.linkedin.com/jobs/view/4476209222/) — WSP in Canada
-- 📍 **Location:** Hamilton, Ontario, Canada
-- 💰 **Salary:** $96,200 – $132,300
-- 🕒 **Posted:** 2026-10-08
-
-### [Wetland Scientist](https://www.linkedin.com/jobs/view/4475995732/) — AECOM
-- 📍 **Location:** Chelmsford, MA
-- 💰 **Salary:** $70000 to $95000
-- 🕒 **Posted:** 2026-10-08
-
-### [Project Data Coordinator, School of Nursing](https://www.linkedin.com/jobs/view/4475864293/) — University of Pennsylvania
+### [Senior Environmental Engineer - Wastewater Focused](https://www.linkedin.com/jobs/view/4435114405/) — CDM Smith
 - 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $45,278.00 - $65,000.00
-- 🕒 **Posted:** 2026-10-08
+- 🕒 **Posted:** 2026-10-09
 
-### [Senior Environmental Risk Assessor](https://www.linkedin.com/jobs/view/4476207388/) — GHD
-- 📍 **Location:** Little Rock, AR
-- 💰 **Salary:** $75,000 - $136,000
-- 🕒 **Posted:** 2026-10-08
+### [Water Agency Senior Environmental Specialist - Tribal Liaison](https://www.linkedin.com/jobs/view/4477610382/) — County of Sonoma
+- 📍 **Location:** Santa Rosa, CA
+- 🕒 **Posted:** 2026-10-09
 
-### [Environmental Due Diligence Consultant](https://www.linkedin.com/jobs/view/4477456887/) — Tetra Tech
+### [Natural Resource Conservation Scientist](https://www.linkedin.com/jobs/view/4477617053/) — Alignerr
+- 📍 **Location:** Mumbai, Maharashtra, India
+- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-10-09
+
+### [Environmental Field Laborer](https://www.linkedin.com/jobs/view/4477602270/) — Clean Harbors
+- 📍 **Location:** Elgin, IL
+- 💰 **Salary:** $14.00/hr - $34.00/hr
+- 🕒 **Posted:** 2026-10-09
+
+### [ENVIRONMENTAL PROGRAM MANAGER II](https://www.linkedin.com/jobs/view/4477491797/) — CalRecycle
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $14,565.00/mo - $16,547.00/mo
+- 🕒 **Posted:** 2026-10-09
+
+### [Assistant Professor, Education Track Department of Environmental & Public Health Sciences](https://www.linkedin.com/jobs/view/4476237493/) — University of Cincinnati
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-10-09
+
+### [Environmental Management Scientist (AI Training)](https://www.linkedin.com/jobs/view/4477614141/) — Alignerr
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $75,000 to $100,000
-- 🕒 **Posted:** 2026-10-08
+- 💰 **Salary:** $30.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-10-09
 
-### [Junior Level Phase I Environmental Site Assessor](https://www.linkedin.com/jobs/view/4477470394/) — Tetra Tech
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $28.85 to $33.65 per hour
-- 🕒 **Posted:** 2026-10-08
+### [Application Support Engineer, Fauna](https://www.linkedin.com/jobs/view/4477498273/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-09
 
-### [RxO - Data Coordinator (1st Shift)](https://www.linkedin.com/jobs/view/4476218045/) — EssilorLuxottica
-- 📍 **Location:** Youngstown, OH
-- 🕒 **Posted:** 2026-10-08
+### [Superintendent - Environmental Quality (Dallas Water Utilities - Civil Service)](https://www.linkedin.com/jobs/view/4473721386/) — City of Dallas
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $89,440.00 - $111,800.00
+- 🕒 **Posted:** 2026-10-09
 
-### [Senior Environmental Risk Assessor](https://www.linkedin.com/jobs/view/4476210382/) — GHD
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $75,000 - $136,000
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Environmental Risk Assessor](https://www.linkedin.com/jobs/view/4476208401/) — GHD
-- 📍 **Location:** King of Prussia, PA
-- 💰 **Salary:** $75,000 - $136,000
-- 🕒 **Posted:** 2026-10-08
-
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4476924458/) — Bechtel Corporation
-- 📍 **Location:** Port Arthur, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Environmental, Safety & Occupational Health Manager](https://www.linkedin.com/jobs/view/4476918567/) — IntrepidGS
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-08
-
-### [Sr Environmental Compliance Manager](https://www.linkedin.com/jobs/view/4477454936/) — Tetra Tech
+### [Environmental Safety & Health (ESH) Manager (Nationwide Travel)](https://www.linkedin.com/jobs/view/4476223855/) — Layton Construction
 - 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $140,00-160,000
-- 🕒 **Posted:** 2026-10-08
+- 🕒 **Posted:** 2026-10-09
 
-### [PhD position in global change ecology](https://www.linkedin.com/jobs/view/4477461444/) — ETH get hired
-- 📍 **Location:** Basel, Basel, Switzerland
-- 🕒 **Posted:** 2026-10-08
-
-### [Lecturer in Environmental health and/or Public Health](https://www.linkedin.com/jobs/view/4475994816/) — Cardiff Metropolitan University
-- 📍 **Location:** Cardiff, Wales, United Kingdom
-- 🕒 **Posted:** 2026-10-08
+### [Technical Vector Designer (On-site)](https://www.linkedin.com/jobs/view/4476246123/) — Cennext Inc.,
+- 📍 **Location:** Hanoi Capital Region
+- 🕒 **Posted:** 2026-10-09
