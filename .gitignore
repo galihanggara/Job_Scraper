@@ -19,3 +19,7 @@ scoring_profile.json
 # "git add -f output/<file>" to commit their own results.
 output/*
 !output/.gitkeep
+
+# venv lokal + log scrape harian
+.venv/
+output/scrape.log
