@@ -1,11 +1,16 @@
 # 🟦 Indeed — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-11-01 23:10 UTC*
+*Last updated: 2026-11-02 23:10 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**2 new role(s)** since last run · 2 total in last 24h
 
-### [Strategic Advisor - Environmental Due Diligence (Phase I/Phase II/PCA)](https://www.indeed.com/viewjob?jk=21329a3313e9ba69) — Inspectli
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $100–$150/hr
+### [GIS Technician](https://www.indeed.com/viewjob?jk=d002d0b31fe99338) — Ulteig
+- 📍 **Location:** Bismarck, ND, USA
+- 💰 **Salary:** $28–$37.75/hr
 - **Work mode:** Remote in-state eligible
-- **Job type:** parttime, contract
-- 🕒 **Posted:** 2026-11-01
+- 🕒 **Posted:** 2026-11-02
+
+### [Digital Technology Consultant (environmental engineering)](https://www.indeed.com/viewjob?jk=020776d6412fe889) — Brown and Caldwell
+- 📍 **Location:** Walnut Creek, CA, USA
+- 💰 **Salary:** $95k–$155k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-02
