@@ -1,17 +1,10 @@
 # 🟦 Indeed — Galih Anggara — GIS / Geospatial / Remote Sensing / Web-GIS Roles
-*Last updated: 2026-11-13 23:10 UTC*
+*Last updated: 2026-11-14 23:10 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-### [Wetland Biologist](https://www.indeed.com/viewjob?jk=efda48a00aab28bd) — True Environmental
+### [Part-Time GIS Specialist](https://www.indeed.com/viewjob?jk=c9a09d44718e0894) — ProSource Technologies LLC
 - 📍 **Location:** Remote, USA
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-13
-
-### [WFH Remote Drone Supervisor](https://www.indeed.com/viewjob?jk=b33f6c6b4c31fb9d) — Fliteworks
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $20/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-11-13
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-11-14
