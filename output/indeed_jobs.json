@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-14 23:10 UTC",
+  "scraped_at": "2026-11-15 23:10 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "ProSource Technologies LLC",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ProSource Technologies LLC",
-      "title": "Part-Time GIS Specialist",
-      "location": "Remote, USA",
-      "url": "https://www.indeed.com/viewjob?jk=c9a09d44718e0894",
-      "direct_url": "https://apply.clearcompany.com/prosourceland?jobId=2e1ba209-4654-49c2-d30d-9a45ac3f68b5&source=JB-1014",
-      "company_url": "https://www.indeed.com/cmp/Prosource-Technologies-LLC",
-      "date_posted": "2026-11-14",
-      "description": "ProSource, a leader in the right of way, acquisition, and relocation industry, is searching for a GIS Specialist. Headquartered in Minneapolis, MN, ProSource is poised for expansion and growth and are looking for a team player to add to our team.\n\n**Job Summary:**\n\nThe GIS Specialist responsibility is to maintain and update GIS (Geographic Information Systems) data for infrastructure and parcel mapping and/or perform CAD (Computer Aided Design) drafting for projects or assessment maps to support various types of infrastructure projects.\n\n**Duties/Responsibilities:**\n\n* Analysis and preparation of maps on various backgrounds in GIS for technical reports to support energy, disaster recovery, environmental, right of way, and various other types of projects.\n\n* Create KMZs and shapefiles of routes (pipelines, powerlines, fiber optic lines) and route planning through parcels to ensure minimal interference with natural surroundings and/or landowner/client requests.\n\n* Export AutoCAD and ESRI drawings/details.\n\n* Import field-collected GPS data from handheld survey unit and prepare polygons and maps to depict field-marked features on aerial photography background.\n\n* Locate and create images, shapefiles, parcel data, wetlands, FEMA, topographic contours and other miscellaneous boundaries and items needed to create visually aesthetic and informative maps.\n\n* Incorporate GIS data from County or other public sources into project maps.\n\n* Work with internal and external entities to provide detailed, accurate geospatial and GIS deliverables.\n\n* Prepare site specific construction drawings using AutoCAD or other design programs.\n\n* Create maps by digitizing topographic details, identify land locations and geographic attributes.\n\n* Assist with MS Word and Excel document preparation by converting data into tables and forms.\n\n**Qualifications:**\n\n* Minimum high school diploma, preferred Associate Degree with course work in Geographic Information Systems (GIS) or specialized GIS education or certification or related experience.\n\n* Minimum of 2 to 5 years related GIS experience.\n\n* Strong proficiency in GIS software\n\n* Strong proficiency in MS Office Suite.\n\n* Familiarity with utility mechanical drawings.\n\n**Physical Demands and Work Environment:**\n\nThe GIS Specialist will spend a significant amount of time working remotely, using a computer and other standard office equipment. The position may also require occasional travel as deemed necessary for documenting, mapping, etc. The job may require sitting or standing for extended periods of time and may involve some light lifting or carrying documents or equipment.\n\n**Salary & Benefits:**\n\nTo determine final compensation, experience will be measured by considering prior work experience or activities that are related to this role. Here at ProSource we carefully consider a variety of factors some of which include job size & complexity, required experience, knowledge and/or skills. ***The salary range provided is a good faith estimate that may vary.***\n\nProSource is an equal opportunity employer offering all full-time employees a comprehensive benefits package including medical, dental, vision, disability insurances, retirement savings plans, & time off including PTO and holidays.\n\nThis job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "parttime, fulltime",
-      "is_remote": false,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
