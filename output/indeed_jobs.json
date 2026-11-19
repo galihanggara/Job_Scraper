@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-11-18 23:10 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-19 23:10 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "RMSI PRIVATE LIMITED",
+      "title": "GIS Technician - II",
+      "location": "Remote, USA",
+      "url": "https://www.indeed.com/viewjob?jk=599466675ffbcbd2",
+      "direct_url": "",
+      "company_url": "https://www.indeed.com/cmp/Rmsi-Private-Limited-6",
+      "date_posted": "2026-11-19",
+      "description": "**Job Title:** GIS Technician II\n\n**Location:** Arizona (Remote)\n\n**About RMSI:**\n\nRMSI’s AI-powered spatial intelligence solutions in mapping, asset integrity, network optimization, and climate risk modeling help organization enable operational autonomy, and drive sustainable growth.\n\nWith a workforce of over 6000 employees, RMSI stands as one of the largest employers in the geospatial industry and is consistently recognized as a top employer. Our operations include three state-of-the-art development centers in India and six fully owned international subsidiaries in the US, Canada, Australia, the UK, the Middle East, and Bahrain.\n\nFor more information about RMSI, please visit www.rmsi.com.\n\n**Role:**\n\nThe role involves performing daily updates to GIS and other systems at client databases using various sources.\n\n**Responsibilities:**\n\nShould be able to part of the onsite teams at RMSI supporting client for the digitization and other GIS data management activates related to electrical network and update GIS and other systems on the daily basis. Ensure meeting the targets and timelines planned for the projects assigned with required data quality levels and SLA\n\nCurrently it is a work from home operations. But in future if client request for work from office, we need to start working from office.\n\n**Skill & Qualification:**\n\n* Bachelor's degree in Electrical OR Electronics Engineering.\n* Should have 3 to 5 years of experience in GIS Utility projects.\n* Should have experience in software like AutoCAD, ArcGIS and Ms office.\n* Should have good communication skills\n\nBenefits:\n\n* Dental insurance\n* Paid time off\n* Vision insurance\n\nApplication Question(s):\n\n* Job Location is in Phoenix, Arizona. It’s a remote role but travel will be required as per business need. Are you okay with it?\n* The budget for this role is $4854 monthly base(before tax). Are you okay with it?\n* Do you have prior experience in the Electric sector in Utilities domain?\n* It is a 12 months contract, it can be extended as per the performance and business need. Are you okay with it?\n\nWork Location: Remote",
+      "salary": "$4854/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime, contract",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "RMSI PRIVATE LIMITED",
+      "title": "GIS Technician - II",
+      "location": "Remote, USA",
+      "url": "https://www.indeed.com/viewjob?jk=599466675ffbcbd2",
+      "direct_url": "",
+      "company_url": "https://www.indeed.com/cmp/Rmsi-Private-Limited-6",
+      "date_posted": "2026-11-19",
+      "description": "**Job Title:** GIS Technician II\n\n**Location:** Arizona (Remote)\n\n**About RMSI:**\n\nRMSI’s AI-powered spatial intelligence solutions in mapping, asset integrity, network optimization, and climate risk modeling help organization enable operational autonomy, and drive sustainable growth.\n\nWith a workforce of over 6000 employees, RMSI stands as one of the largest employers in the geospatial industry and is consistently recognized as a top employer. Our operations include three state-of-the-art development centers in India and six fully owned international subsidiaries in the US, Canada, Australia, the UK, the Middle East, and Bahrain.\n\nFor more information about RMSI, please visit www.rmsi.com.\n\n**Role:**\n\nThe role involves performing daily updates to GIS and other systems at client databases using various sources.\n\n**Responsibilities:**\n\nShould be able to part of the onsite teams at RMSI supporting client for the digitization and other GIS data management activates related to electrical network and update GIS and other systems on the daily basis. Ensure meeting the targets and timelines planned for the projects assigned with required data quality levels and SLA\n\nCurrently it is a work from home operations. But in future if client request for work from office, we need to start working from office.\n\n**Skill & Qualification:**\n\n* Bachelor's degree in Electrical OR Electronics Engineering.\n* Should have 3 to 5 years of experience in GIS Utility projects.\n* Should have experience in software like AutoCAD, ArcGIS and Ms office.\n* Should have good communication skills\n\nBenefits:\n\n* Dental insurance\n* Paid time off\n* Vision insurance\n\nApplication Question(s):\n\n* Job Location is in Phoenix, Arizona. It’s a remote role but travel will be required as per business need. Are you okay with it?\n* The budget for this role is $4854 monthly base(before tax). Are you okay with it?\n* Do you have prior experience in the Electric sector in Utilities domain?\n* It is a 12 months contract, it can be extended as per the performance and business need. Are you okay with it?\n\nWork Location: Remote",
+      "salary": "$4854/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime, contract",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
